@@ -1,4 +1,4 @@
-<?php $title = "Clicks 2017"; ?>
+<?php $title = "Clicks 2018"; ?>
 
 <?php include 'snippets/header.php' ?>
 

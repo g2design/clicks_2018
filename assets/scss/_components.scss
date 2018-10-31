@@ -31,7 +31,6 @@ body {
 		.popup {
 			height: 350px;
 			width: 500px;
-			background-color: $light-blue;
 			position: relative;
 			.close {
 				top: 10px;
@@ -74,7 +73,6 @@ header {
 		}
 	}
 	.top-links {
-		background-color: $dark-blue;
 		ul {
 			list-style: none;
 			li {
@@ -91,7 +89,6 @@ header {
 					position: absolute;
 					left: 0;
 					top: 100%;
-					background-color: $dark-blue;
 					z-index: 5;
 					width: 240px;
 					padding: 16px;
@@ -129,13 +126,8 @@ header {
 	.search {
 		input {
 			margin-left: 5px;
-    		border: 1px solid $grey;
     		font-size: 14px;
     		padding: 5px 10px;
-    		color: $grey;
-		}
-		.submit {
-			background-color: $dark-grey;
 		}
 	}
 	.main-nav {
@@ -144,7 +136,6 @@ header {
 				.home {
 					padding: 11px;
 					display: inline-block;
-					float: left;
 					img {
 						width: 41px;
 					}
@@ -159,9 +150,6 @@ header {
 						height: 100%;
 						&.menu-item {
 							width: 100%;
-							&.activeItem {
-								background-color: $green;
-							}
 							&:nth-child(6) {
 								.dropdown {
 									max-height: 550px;
@@ -203,7 +191,6 @@ header {
 							position: absolute;
 							left: 0;
 							top: 100%;
-							background-color: $dark-blue;
 							z-index: 5;
 							min-width: 300px;
 							padding: 16px;
@@ -243,7 +230,6 @@ header {
 }
 
 table {
-	color: $dark-blue;
 	margin: 15px 0;
 	font-size: 14px;
 	width: 100%;
@@ -253,65 +239,14 @@ table {
 	}
 	thead,tbody {
 		tr {
-			&.border-bottom-thin {
-				td, th{
-					border-bottom: 1px solid $dark-blue;
-				}
-			}
-			&.border-bottom-med {
-				td, th{
-					border-bottom: 2px solid $dark-blue;
-				}
-			}
-			&.border-bottom-thick {
-				td, th{
-					border-bottom: 5px solid $dark-blue;
-				}
-			}
-			&.light-blue-border-bottom {
-				border-bottom: 7px solid $table-light-blue;
-			}
 			td, th {
 				padding: 5px 10px;
-				&.border-bottom-thin {
-					border-bottom: 1px solid $dark-blue;
-				}
-				&.border-bottom-med {
-					border-bottom: 2px solid $dark-blue;
-				}
-				&.border-bottom-thick {
-					border-bottom: 5px solid $dark-blue;
-				}
-				&.border-top{
-					border-top: 1px solid $dark-blue;
-				}
-				&.border-right{
-					border-right: 1px solid $dark-blue;
-				}
-				&.border-bottom{
-					border-bottom: 1px solid $dark-blue;
-				}
-				&.border-left{
-					border-left: 1px solid $dark-blue;
-				}
-				&.border-bottom-white {
-					border-bottom: 1px solid white;
-				}
-				&.border-right-white {
-					border-right: 5px solid white;
-				}
-				&.border-right-blue {
-					border-right: 5px solid $table-light-blue;
-				}
 			}
 		}
 	}
 	thead {
 		tr {
 			th {
-				&.blue-bg {
-					background-color: $light-blue;
-				}
 				&.border-right-white {
 					border-right: 1px solid white;
 				}
@@ -324,15 +259,6 @@ table {
 			td {
 				line-height: 16px;
 				width: 1px;
-				&.light-blue-bg {
-					background-color: $light-blue;
-				}
-				&.dark-blue-bg {
-					background-color: $dark-blue;
-				}
-				&.blue-bg {
-					background-color: $table-light-blue;
-				}
 				&.foot-text {
 					line-height: 14px;
 					font-size: 12px;
@@ -465,13 +391,11 @@ main {
 				position: absolute;
 				top: 50%;
 				transform: translateX(-50%);
-				color: $light-blue;
 				border: none;
 				background: none;
 				z-index: 5;
 				width: 40px;
 				height: 40px;
-				border-color: $light-blue;
 				&:before {
 					content: " ";
 				}
@@ -495,7 +419,6 @@ main {
 		.nav-slide {
 			cursor: pointer;
 			padding: 10px !important;
-			background-color: $footer-grey !important;
 			@media screen and (min-width: 1200px){
 				padding: 15px !important;
 			}
@@ -700,6 +623,5 @@ iframe{
 
 footer {
 	padding: 5px 0;
-	background-color: $footer-grey;
 }
 

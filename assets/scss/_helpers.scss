@@ -2,134 +2,6 @@
 	color: white !important;
 }
 
-.blue {
-	color: $light-blue !important;
-}
-
-.dark-blue {
-	color: $dark-blue;
-}
-
-.cobalt {
-	color: $blue;
-}
-
-.green {
-	color: $green;
-}
-
-.light-green {
-	color: $light-green;
-}
-
-.light-blue {
-	color: $table-light-blue;
-}
-
-.underline {
-	text-decoration: underline;
-}
-
-.light-blue-background {
-	background-color: $light-blue;
-}
-
-.opaque-blue-bg {
-	background-color: $table-light-blue;
-}
-
-.dark-blue-background {
-	background-color: $dark-blue;
-}
-
-.green-background {
-	background-color: $light-green;
-}
-
-.grey-background {
-	background-color: $light-grey;
-}
-
-.light-blue-border-thick {
-	border-right: 7px solid $table-light-blue;
-}
-
-.light-blue-border-med {
-	border-right: 4px solid $table-light-blue;
-}
-
-.light-blue-border-thick-round {
-	border: 9px solid $table-light-blue;
-}
-
-.light-blue-border-bottom {
-	border-bottom: 7px solid $table-light-blue;
-}
-.dark-blue-border-medium {
-	border: 3px solid $dark-blue;
-}
-
-.blue-border-thin {
-	border: 3px solid $light-blue;
-}
-
-.green-border-med {
-	border: 3px solid $green;
-}
-
-.white-border-right-thick {
-	border-right: 7px solid white;
-}
-
-.break {
-	margin: 40px 0;
-	overflow: hidden;
-	width: 100%;
-	background-color: $light-grey;
-	height: 20px;
-	&:before {
-		content: '';
-		position: absolute;
-		top: 50%;
-		transform: translateY(-50%);
-		background-color: black;
-		height: 1px;
-		width: 100%;
-	}
-}
-
-.blue-btn {
-	border: 1px solid $dark-blue;
-	background-color: $light-blue;
-	padding: 10px 0;
-	max-width: 100%;
-	width: 350px;
-	display: inline-block;
-}
-
-.grey-btn {
-	background-color: $dark-grey;
-	display: none;
-	padding: 10px 15px;
-	@media screen and (min-width: 992px) {
-		display: inline-block;
-	}
-}
-
-.section-padding {
-	padding-top: 80px;
-	padding-bottom: 80px;
-}
-
-.content-section-padding {
-	padding-top: 50px;
-	padding-bottom: 50px;
-}
-
-.negative-top-margin {
-	margin-top: -60px;
-}
-
 .padding-7px {
 	padding: 7px;
 }
@@ -196,7 +68,6 @@
 }
 
 .banner-text {
-	background-color: $light-blue-opaque;
 	position: absolute;
 	bottom: 150px;
 	padding: 20px 30px 20px 150px;
@@ -331,7 +202,6 @@
 		margin: 15px 10px; 
 		cursor: pointer; 
 		&.slick-active button:before {
-			background-color: $light-blue;
 			opacity: 1;
 		}
 		button {
@@ -345,15 +215,11 @@
 			font-size: 0; 
 			color: transparent; 
 			cursor: pointer; 
-			&:hover:before {
-				background-color: $light-blue;
-			}
 			&:before { 
 				content: '';
 				position: absolute; 
 				top: 0; 
 				left: 0; 
-				border: 1px solid $footer-grey;
 				box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
 				border-radius: 50%;
 				width: 17px; 

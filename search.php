@@ -1,4 +1,4 @@
-<?php $title = "Search - Truworths 2018"; ?>
+<?php $title = "Search - Clicks 2018"; ?>
 
 <?php include 'snippets/header.php' ?>
 

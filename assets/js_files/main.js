@@ -4,8 +4,8 @@ var startScroll;
 var header;
 
 $(document).ready(function() {
-	startScroll = $('.top-header').height();
-	header = $('header').height();
+	startScroll = $('.top-header').css( "height" );
+	header = $('.main-nav').css( "height" );
 
 	$(window).scroll(function () { 
 		scrollFunc();
@@ -108,13 +108,11 @@ var scroll_top = function () {
 var scrollFunc = function () {
 	var scroll = $(window).scrollTop();
 
-	if (scroll > startScroll) { 
-		$('.top-element').css('margin-top', header  + 'px');
-		$('.top-header').addClass('fixed');
+	if (scroll >= parseInt(startScroll, 10)) { 
 		$('.main-nav').addClass('scrolled');
+		$('.top-element').css('margin-top', header);
 	} else {
-		$('.top-element').css('margin-top', '0');
-		$('.top-header').removeClass('fixed');
 		$('.main-nav').removeClass('scrolled');
+		$('.top-element').css('margin-top', 0);
 	}
 }

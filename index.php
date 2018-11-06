@@ -143,7 +143,7 @@
 				</div>
 				<div class="col-12 col-lg-7 col-xl-8 d-flex flex-column align-items-center justify-content-center">
 					<img class="medium-content-padding" src="assets/img/homepage/group_profile_image1.png" alt="Group Profile">
-					<div class="row remove-flex">
+					<div class="row remove-flex width-100">
 						<div class="col-4 text-center d-flex flex-column align-items-center justify-content-center dark-blue-border-top dark-blue-border-bottom">
 							<p><b class="larger green">17.2%</b> <br>diluted HEPS <br>10-year CAGR</p>
 						</div>
@@ -242,11 +242,11 @@
 							<img class="margin-bottom-20px" src="assets/img/upd.png" alt="UPD logo" style="width: 220px;">
 						</div>
 						<div class="col-6 dark-blue-border-right text-center d-flex flex-column justify-content-between align-items-center">
-							<p class="margin-bottom-0">“Clicks produced another strong trading performance, led by pharmacy and front shop health sales. Customers continued to respond positively to the Clicks value promotions and differentiated product ranges as the chain reported strong volume growth while gaining market share in all product categories.”</p>
+							<p class="margin-bottom-0 width-100">“Clicks produced another strong trading performance, led by pharmacy and front shop health sales. Customers continued to respond positively to the Clicks value promotions and differentiated product ranges as the chain reported strong volume growth while gaining market share in all product categories.”</p>
 							<a href="" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 						<div class="col-6 text-center d-flex flex-column justify-content-between align-items-center">
-							<p class="margin-bottom-0">“UPD delivered double-digit sales and profit growth for the year, driven by good growth in the wholesale business. Reported turnover increased by 11.4% and UPD maintained its market-leading positions in both the pharmaceutical wholesale and bulk distribution markets.”</p>
+							<p class="margin-bottom-0 width-100">“UPD delivered double-digit sales and profit growth for the year, driven by good growth in the wholesale business. Reported turnover increased by 11.4% and UPD maintained its market-leading positions in both the pharmaceutical wholesale and bulk distribution markets.”</p>
 							<a href="" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 					</div>
@@ -272,17 +272,17 @@
 			<div class="col-12 col-xl-6">
 				<div class="row">
 					<div class="col-6 d-flex margin-bottom-20px">
-						<a href="" class="thick-light-blue-border box-padding text-center d-flex flex-column justify-content-center align-items-center">
-							<h4 class="text-uppercase">Summary of the audited financial statements</h4>
+						<a href="" class="thick-light-blue-border box-padding text-center d-flex flex-column justify-content-center align-items-center width-100">
+							<h4 class="text-uppercase width-100">Summary of the audited financial statements</h4>
 							<div href="" class="btn grey-btn margin-top-0">Read full report <span class="sky-blue">>></span></div>
 						</a>
 					</div>
 					<div class="col-6 d-flex margin-bottom-20px">
-						<a href="" class="thick-light-blue-border box-padding text-center d-flex flex-column justify-content-center align-items-center">
-							<h4 class="text-uppercase">Download the full audited financial statements</h4>
-							<div class="row">
+						<a href="" class="thick-light-blue-border box-padding text-center d-flex flex-column justify-content-center align-items-center width-100">
+							<h4 class="text-uppercase width-100">Download the full audited financial statements</h4>
+							<div class="row width-100">
 								<div class="col-8">
-									<p class="text-uppercase">Download</p>
+									<p class="text-uppercase width-100">Download</p>
 								</div>
 								<div class="col-4">
 									<img src="assets/img/pdficon.png" alt="PDF Icon" style="width: 40px;">

@@ -87,7 +87,7 @@
 									<span class="navbar-item">Group Overview <br>and Strategy</span>
 									<div class="dropdown text-left">
 										<ul>
-											<li><a href="pages/group_overview/introduction_report">Introducing the report</a></li>
+											<li><a href="pages/group_overview/creating_value">Introducing the report</a></li>
 											<li><a href="pages/group_overview/group_profile">Group profile</a></li>
 											<li><a href="pages/group_overview/group_strategy">Group strategy</a></li>
 											<li><a href="pages/group_overview/business_model">Clicks' value-creating business model</a></li>

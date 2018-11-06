@@ -4,10 +4,23 @@ h1, .heading-1 {
     font-weight: 300;
 }
 
+h2, .heading-2 {
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 300;
+}
+
 h3, .heading-3 {
     font-weight: 300;
     font-size: 30px;
     line-height: 36px;
+}
+
+h4, .heading-4 {
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 300;
+    margin-bottom: 20px;
 }
 
 p, .p {
@@ -34,7 +47,21 @@ a {
     }
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 .content-styling {
+    h1 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
     p, .p {
         font-size: 14px;
         line-height: 18px;

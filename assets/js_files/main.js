@@ -64,10 +64,10 @@ $(document).ready(function() {
 	   ]	  
 	});
 
-	$('.popup-trigger').on('click', function(){
+	$('.video-trigger').on('click', function(){
 		$('.popups').fadeIn().addClass('opened');
-		$('.popup-' + $(this).data('popup-trigger')).show();
-		$('.popup-' + $(this).data('popup-trigger')).find('iframe')[0].src += "&autoplay=1";
+		$('.video-' + $(this).data('video-trigger')).show();
+		$('.video-' + $(this).data('video-trigger')).find('iframe')[0].src += "&autoplay=1";
 	});
 
 	$('.popups').on('click', function(e){
@@ -94,6 +94,12 @@ var activeItem = function () {
 		if(($(location).attr("href")).indexOf(($(this).attr("href"))) > -1){
 			$(this).css('color', '#7DC142');
 			$(parent).parent().addClass('activeItem');
+		}
+	});
+	$('.sidebar a').each(function(){
+		$(this).removeClass("active");
+		if(($(location).attr("href")).indexOf(($(this).attr("href"))) > -1){
+			$(this).parent().addClass("active");
 		}
 	});
 }

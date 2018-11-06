@@ -147,6 +147,12 @@ header {
 						a {
 							height: 100%;
 						}
+						&.activeItem {
+							background-color: $green;
+							.navbar-item {
+								color: white;
+							}
+						}
 						&:nth-child(6) {
 							.dropdown {
 								min-width: 400px;
@@ -216,6 +222,75 @@ header {
 		}	
 	}
 }
+
+.sidebar {
+	min-height: 100vh;
+	ul {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		li {
+			padding: 15px 10px;
+			transition: all 400ms;
+			ul {
+				li {
+					padding: 5px 0;
+				}
+			}
+			&.active {
+				background-color: $green;
+				a {
+					color: white;
+				}
+				&:hover {
+					a {
+						color: white;
+					}
+				}
+			}
+			&:hover {
+				a {
+					color: $green;
+				}
+			}
+			a {
+				font-size: 14px;
+				line-height: 18px;
+				display: block;
+			}
+		}
+	}
+}
+
+.popup-trigger {
+	cursor: pointer;
+}
+
+.popups {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 20;
+	background: transparent;
+	transition: background 400ms;
+	&.opened {
+		background: rgba(0,0,0,.75);
+	}
+	.popup {
+		overflow: visible;
+		max-width: 1000px;
+		width: 80%;
+		display: none;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		max-height: 70vh;
+	}
+}
+
 
 table {
 	margin: 15px 0;
@@ -294,6 +369,10 @@ main {
 	.reports {
 		.dark-grey-bg {
 			padding: 15px;
+			transition: all 400ms;
+			&:hover {
+				background-color: $grey;
+			}
 		}
 		a {
 			font-size: 14px;
@@ -315,44 +394,36 @@ main {
 				font-size: 40px;
 			}
 		}
-	}
-
-	.videos {
-		h4 {
-			max-width: 100%;
+		img {
+			border: 1px solid $grey;
 		}
 	}
 
-	.leadership {
-		img {
-			height: 350px;
-			max-width: 100%;
-			@media screen and (min-width: 1200px){
-				height: 380px;
+	.video-block {
+		cursor: pointer;
+		.thumbnail {
+			position: relative;
+			margin-bottom: 10px;
+			.icon {
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				width: 45px;
 			}
 		}
 	}
 
-	.overview {
-		.quote {
-			line-height: 35px;
-		}
-	
-		h4 {
-			line-height: 30px;
-		}
-	}
-
-	.governance {
-		h4 {
-			line-height: 30px;
-		}
-		.governance-blocks {
-			padding: 10px;
-			height: 216px;
-			width: 216px;
-			max-width: 100%;
-			border: 10px solid rgba(255, 255, 255, 0.61);
+	.leadership {
+		.thick-light-blue-border {
+			margin-top: 60px;
+			@media screen and (min-width: 992px) {
+				margin-top: 100px;
+			}
+			img {
+				position: absolute;
+				bottom: 0;
+				max-width: 235px;
+			}
 		}
 	}
 
@@ -371,7 +442,7 @@ main {
 				left: 0px;
 				width: 100%;
 				padding: 10px 30px;
-				background-color: rgba(151, 151, 151, 0.77);
+				background-color: rgba(0, 55, 103, 0.84);
 			}
 			.slick-prev,
 			.slick-next {
@@ -385,6 +456,7 @@ main {
 				z-index: 5;
 				width: 40px;
 				height: 40px;
+				color: white;
 				&:before {
 					content: " ";
 				}
@@ -611,6 +683,6 @@ iframe{
 }
 
 footer {
-	padding: 5px 0;
+	padding: 10px 0;
 }
 

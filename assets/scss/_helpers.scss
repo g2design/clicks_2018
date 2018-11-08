@@ -6,7 +6,7 @@
 	color: white;
 	font-weight: 300;
 	b, u {
-		font-weight: 500;
+		font-weight: 500 !important;
 		color: white;
 	}
 	&:hover {
@@ -50,12 +50,20 @@
 	background-color: $light-grey;
 }
 
+.light-green-bg {
+	background-color: #f0f7eb;
+}
+
 .green-bg {
 	background-color: $green;
 }
 
 .dark-blue-bg {
 	background-color: $dark-blue;
+}
+
+.thick-dark-blue-border {
+	border: 9px solid $dark-blue;
 }
 
 .thick-light-blue-border {
@@ -78,9 +86,21 @@
 	border-bottom: 2px solid $dark-blue;
 }
 
+.border-right-grey-dotted {
+	border-right: 2px dotted $grey;
+}
+
 .larger {
 	font-size: 35px;
 	line-height: 40px;
+	&.xl {
+		font-size: 55px;
+		line-height: 60px;
+	}
+}
+
+.scroll-horizontal {
+	overflow-x: auto;
 }
 
 .dash {
@@ -88,6 +108,9 @@
 	margin: 20px 0;
 	position: relative;
 	width: 100%;
+	&.smaller-margin {
+		margin: 5px 0;
+	}
 }
 
 .circle {
@@ -102,14 +125,6 @@
 		width: 15px;
     	height: 15px;
 	}
-}
-
-.margin-bottom-0 {
-	margin-bottom: 0;
-}
-
-.margin-top-0 {
-	margin-top: 0 !important;
 }
 
 .icon-margin {
@@ -128,8 +143,17 @@
 	width: 100%;
 }
 
+.box-margin {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
 .box-padding {
 	padding: 20px;
+}
+
+.float-left {
+	margin-right: 5px;
 }
 
 .small-content-padding {
@@ -154,12 +178,24 @@
 	}
 }
 
+.margin-bottom-0 {
+	margin-bottom: 0 !important;
+}
+
+.margin-top-0 {
+	margin-top: 0 !important;
+}
+
+.margin-bottom-10px {
+	margin-bottom: 10px !important;
+}
+
 .margin-bottom-20px {
-	margin-bottom: 20px;
+	margin-bottom: 20px !important;
 }
 
 .margin-bottom-40px {
-	margin-bottom: 40px;
+	margin-bottom: 40px !important;
 }
 
 .max-width-100 {

@@ -43,27 +43,96 @@ a {
 
 * {
     b {
-        font-weight: 600;
+        font-weight: 600 !important;
+        &.white {
+            font-weight: 500 !important; 
+        }
     }
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
 .content-styling {
-    h1 {
+    h1, .heading-1 {
         font-size: 40px;
         line-height: 50px;
         margin-bottom: 20px;
     }
-    h2 {
+    h2, .heading-2 {
         font-size: 30px;
         line-height: 35px;
     }
+    h3, .heading-3 {
+        font-size: 20px;
+        line-height: 25px;
+        font-weight: 400;
+    }
+    h4, .heading-4 {
+        font-size: 16px;
+        line-height: 17px;
+        margin-bottom: 2px;
+        text-transform: uppercase;
+        font-weight: 400;
+        letter-spacing: 0.5px;
+    }
+    h5, .heading-5 {
+        font-size: 16px;
+        line-height: 20px;
+        font-weight: 400;
+    }
     p, .p {
         font-size: 14px;
-        line-height: 18px;
+        line-height: 21px;
+    }
+    ul {
+		padding-left: 15px;
+        list-style: disc;
+        margin-top: 2px;
+        margin-bottom: 12px;
+		li {
+            font-size: 14px;
+            line-height: 21px;
+            padding: 2px 0;
+			ul {
+				list-style: none;
+				margin-left: 0;
+				padding-left: 10px;
+				li {
+					position: relative;
+					&:before {
+						content:"–";
+						position: absolute;
+						left: -15px;
+					}
+				}
+			}
+		}
+		li, a {
+			font-size: 14px;
+			line-height: 20px;
+			font-weight: 400;
+		}
+	}
+    blockquote {
+        font-size: 25px;
+        line-height: 28px;
+        font-weight: 400;
+        padding: 20px;
+        margin: 30px 0;
+        text-align: center;
+        &.smaller {
+            font-size: 20px;
+            line-height: 25px;
+        }
+        &.smaller-margin {
+            margin: 5px 0;
+        }
+    }
+    a {
+        color: $green;
+        font-weight: 500;
     }
 }

@@ -84,44 +84,37 @@
 							</a>
 							<ul class="d-flex align-items-center text-center max-width-100">
 								<li class="menu-item d-flex align-items-center justify-content-center">
-									<span class="navbar-item">Group Overview <br>and Strategy</span>
+									<span class="navbar-item">About Clicks Group</span>
 									<div class="dropdown text-left">
 										<ul>
-											<li><a href="pages/group_overview/creating_value">Introducing the report</a></li>
-											<li><a href="pages/group_overview/group_profile">Group profile</a></li>
-											<li><a href="pages/group_overview/group_strategy">Group strategy</a></li>
-											<li><a href="pages/group_overview/business_model">Clicks' value-creating business model</a></li>
-											<li><a href="pages/group_overview/stakeholder_engagement">Stakeholder engagement</a></li>
-											<li><a href="pages/group_overview/material_issues">Managing material issues</a></li>
-											<li><a href="pages/group_overview/investment_case">Investment case</a></li>
+											<li><a href="pages/about/creating_value">Creating value in 2018</a></li>
+											<li><a href="pages/about/good_governance">Commitment to good governance</a></li>
+											<li><a href="pages/about/group_profile">Group profile</a></li>
+											<li><a href="pages/about/group_strategy">Group strategy</a></li>
+											<li><a href="pages/about/business_model">Value-creating business model</a></li>
+											<li><a href="pages/about/investment_case">Investment case</a></li>
+											<li><a href="pages/about/material_issues">Managing material issues</a></li>
 										</ul>
 									</div>
 								</li>
 								<li class="menu-item d-flex align-items-center justify-content-center">
-									<span class="navbar-item">Leadership</span>
+									<span class="navbar-item">Leadership and performance</span>
 									<div class="dropdown text-left">
 										<ul>
 											<li><a href="pages/leadership/chairman_report">Chairman's report</a></li>
+											<li><a href="pages/leadership/board_of_directors">Board of directors</a></li>
 											<li><a href="pages/leadership/ceo_report">Chief executive's report</a></li>
 											<li><a href="pages/leadership/cfo_report">Chief financial officer's report</a></li>
+											<li><a href="pages/leadership/five_year">Five-year performance review</a></li>
 										</ul>
 									</div>
 								</li>
 								<li class="menu-item d-flex align-items-center justify-content-center">
-									<span class="navbar-item">Financial Performance</span>
+									<span class="navbar-item">Business Review</span>
 									<div class="dropdown text-left">
 										<ul>
-											<li><a href="pages/financial_performance/cfo_report">Chief financial officer's report</a></li>
-											<li><a href="pages/financial_performance/5_year_review">Five-year performance review</a></li>
-										</ul>
-									</div>
-								</li>
-								<li class="menu-item d-flex align-items-center justify-content-center">
-									<span class="navbar-item">Operational Performance</span>
-									<div class="dropdown text-left">
-										<ul>
-											<li><a href="pages/performance/review_clicks">Clicks operational review</a></li>
-											<li><a href="pages/performance/review_upd">UPD operational review</a></li>
+											<li><a href="pages/business_review/clicks">Clicks</a></li>
+											<li><a href="pages/business_review/clicks">UPD</a></li>
 										</ul>
 									</div>
 								</li>
@@ -129,13 +122,20 @@
 									<span class="navbar-item">Governance</span>
 									<div class="dropdown text-left">
 										<ul>
-											<li><a href="pages/governance/bod">Board of directors</a></li>
 											<li><a href="pages/governance/create_value_governance">Creating value through good governance</a></li>
 											<li><a href="pages/governance/create_value_citizenship">Creating value through good citizenship</a></li>
+											<li><a href="pages/governance/create_value_stakeholder">Creating value through stakeholder engagement</a></li>
 											<li><a href="pages/governance/rewarding_value">Rewarding value creation</a></li>
-											<li><a href="pages/governance/shareholder_analysis">Shareholder analysis</a></li>
-											<li><a href="pages/governance/shareholder_diary">Shareholders' diary</a></li>
-											<li><a href="pages/governance/corporate_info">Corporate Information</a></li>
+										</ul>
+									</div>
+								</li>
+								<li class="menu-item d-flex align-items-center justify-content-center">
+									<span class="navbar-item">Shareholder information</span>
+									<div class="dropdown text-left">
+										<ul>
+											<li><a href="pages/shareholder/shareholder_analysis">Shareholder analysis</a></li>
+											<li><a href="pages/shareholder/shareholder_diary">Shareholders' diary</a></li>
+											<li><a href="pages/shareholder/corporate_information">Corporate information</a></li>
 										</ul>
 									</div>
 								</li>

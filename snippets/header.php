@@ -101,11 +101,11 @@
 									<span class="navbar-item">Leadership and performance</span>
 									<div class="dropdown text-left">
 										<ul>
-											<li><a href="pages/leadership/chairman_report">Chairman's report</a></li>
-											<li><a href="pages/leadership/board_of_directors">Board of directors</a></li>
-											<li><a href="pages/leadership/ceo_report">Chief executive's report</a></li>
-											<li><a href="pages/leadership/cfo_report">Chief financial officer's report</a></li>
-											<li><a href="pages/leadership/five_year">Five-year performance review</a></li>
+										<li><a href="pages/leadership/chairmans_report">Chairman's report</a></li>
+										<li><a href="pages/leadership/board_of_directors">Board of directors</a></li>
+										<li><a href="pages/leadership/ceo_report">Chief executive's report</a></li>
+										<li><a href="pages/leadership/cfo_report">Chief financial officer's report</a></li>
+										<li><a href="pages/leadership/five_year">Five-year performance review</a></li>
 										</ul>
 									</div>
 								</li>

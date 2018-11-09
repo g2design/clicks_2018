@@ -9,7 +9,7 @@
             <div class="col-9 col-lg-10 side-padding">
                 <h1 class="text-uppercase margin-bottom-0">Value-creating business model</h1>
                 <blockquote class="smaller-margin">
-                    <h3><em>Clicks Group’s strategy is realised through a value-creating, retail-led business model which appeals to the group’s predominantly female, middle to upper-income customer base.</em></h3>
+                    <em>Clicks Group’s strategy is realised through a value-creating, retail-led business model which appeals to the group’s predominantly female, middle to upper-income customer base.</em>
                 </blockquote>
                 <div class="box-padding light-grey-bg">
                     <img class="margin-bottom-10px" src="assets/img/about/p17_flow_graph.png" alt="Flow graph">
@@ -39,7 +39,7 @@
                     <p>View Clicks video at <a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></p>
                 </div>
                 <blockquote class="smaller-margin margin-bottom-20px">
-                    <h3><em>The business model is delivered by three strategic enablers:</em></h3>
+                    <em>The business model is delivered by three strategic enablers:</em>
                 </blockquote>
                 <div class="row margin-bottom-20px">
                     <div class="col-4 d-flex">
@@ -73,8 +73,8 @@
                 </div>
                 <blockquote class="smaller-margin">
                     <h4 class="margin-bottom-10px"><b>Creating value in 2018</b></h4>
-                    <h3><em>Through the successful execution of this business model the group aims to create sustainable value for shareholders and other key stakeholders.</em></h3>
-                    <p>The value created in the past financial year is outlined <a href="">here</a>.</p>
+                    <em>Through the successful execution of this business model the group aims to create sustainable value for shareholders and other key stakeholders.</em>
+                    <p class="margin-top-10px">The value created in the past financial year is outlined <a href="">here</a>.</p>
                 </blockquote>
             </div>
         </div>

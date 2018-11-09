@@ -623,7 +623,7 @@ main .reward-value thead tr td.remove-padding, main .reward-value thead tr th.re
 .creating-value-2018 .line-heading {
   margin-top: 40px;
   margin-bottom: 20px;
-  border-top: 2px solid #003767; }
+  border-top: 1px solid #003767; }
   .creating-value-2018 .line-heading h2 {
     font-size: 15px;
     line-height: 20px;
@@ -667,6 +667,35 @@ main .reward-value thead tr td.remove-padding, main .reward-value thead tr th.re
         -ms-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
     z-index: -1; }
+
+.chairman .david {
+  position: relative;
+  bottom: -60px; }
+
+.b-o-d .center-line-heading {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: relative; }
+  .b-o-d .center-line-heading h2 {
+    background: #fff;
+    padding: 5px 10px;
+    position: relative;
+    z-index: 1;
+    display: inline-block; }
+  .b-o-d .center-line-heading:after {
+    content: '';
+    height: 1px;
+    width: 100%;
+    background: #003767;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+            transform: translateY(-50%); }
+
+.b-o-d p {
+  margin-bottom: 2px; }
 
 .side-buttons {
   display: none;
@@ -767,16 +796,16 @@ footer {
   border: 11px solid #E2F3FB; }
 
 .dark-blue-border {
-  border: 2px solid #003767; }
+  border: 1px solid #003767; }
 
 .dark-blue-border-top {
-  border-top: 2px solid #003767; }
+  border-top: 1px solid #003767; }
 
 .dark-blue-border-right {
-  border-right: 2px solid #003767; }
+  border-right: 1px solid #003767; }
 
 .dark-blue-border-bottom {
-  border-bottom: 2px solid #003767; }
+  border-bottom: 1px solid #003767; }
 
 .border-right-grey-dotted {
   border-right: 2px dotted #979797; }
@@ -792,7 +821,7 @@ footer {
   overflow-x: auto; }
 
 .dash {
-  border: 1px solid #003767;
+  border: 0.5px solid #003767;
   margin: 20px 0;
   position: relative;
   width: 100%; }

@@ -8,22 +8,21 @@
             <?php include '../../snippets/sidebars/sidebar_about.php' ?>
             <div class="col-9 col-lg-10 side-padding">
                 <h1 class="text-uppercase">Group profile</h1>
-                <blockquote class="dark-blue-border-top dark-blue-border-bottom">
-                    <em>Founded in 1968, the group is a leader in the healthcare market in South Africa, where Clicks is the leading health and beauty retailer and UPD is the country’s largest full-range national pharmaceutical wholesaler.</em>
-                </blockquote>
                 <h3 class="sky-blue margin-bottom-20px">Clicks Group is a retail-led healthcare group which is listed in the Food and Drug Retailers sector on the JSE.</h3>
                 <p>Founded 50 years ago in 1968, the group has been listed on the JSE since 1996. Following changes in South African legislation in 2003 to allow corporate pharmacy ownership, the group entered the retail pharmacy market with the opening of the first Clicks pharmacy in 2004. Today the group is a leader in the healthcare market, in both retail pharmacy and pharmaceutical wholesaling.</p>
                 <img class="float-left" src="assets/img/web_reference_icon.png" alt="Web reference" style="width: 20px;">
                 <p>An overview of the group’s history is available at <a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za.</a></p>
                 <div class="dark-blue-bg box-padding box-margin text-center">
                     <h3 class="white">Our values</h3>
-                    <p class="white heading-5">We are truly <b>passionate</b> about our customers</p>
-                    <p class="white heading-5">We believe in <b>integrity</b>, <b>honesty</b> and <b>openness</b></p>
-                    <p class="white heading-5">We cultivate understanding through <b>respect</b> and <b>dialogue</b></p>
-                    <p class="white heading-5 margin-bottom-0">We <b>deliver</b> on our goals</p>
+                    <p class="white heading-5">We are truly <b class="heading-3">passionate</b> about our customers</p>
+                    <p class="white heading-5">We believe in <b class="heading-3">integrity</b>, <b class="heading-3">honesty</b> and <b class="heading-3">openness</b></p>
+                    <p class="white heading-5">We cultivate understanding through <b class="heading-3">respect</b> and <b class="heading-3">dialogue</b></p>
+                    <p class="white heading-5 margin-bottom-0">We <b class="heading-3">deliver</b> on our goals</p>
                 </div>
                 <div class="dash margin-bottom-40px"></div>
-                <img class="margin-bottom-20px" src="assets/img/clicks.png" alt="Clicks logo" style="width: 250px;">
+                <div class="text-center">
+                    <img class="margin-bottom-20px" src="assets/img/clicks.png" alt="Clicks logo" style="width: 250px;">
+                </div>
                 <p class="margin-bottom-0">The anchor brand, Clicks, is South Africa’s leading health and beauty retailer, offering value for money in convenient and appealing locations.</p>
                 <ul>
                     <li>Clicks targets consumers in the growing middle to upper-income markets (LSM 6 – 10)</li>
@@ -38,9 +37,11 @@
                     <li>2015 – Claire’s, one of the world’s leading specialty retailers of fashionable jewellery and accessories for young women and girls</li>
                 </ul>
                 <p class="margin-bottom-40px">The heritage business, Musica, is the country’s leading entertainment retail brand and was acquired in 1992.</p>
-                <img class="margin-bottom-20px" src="assets/img/upd.png" alt="UPD logo" style="width: 200px;">
+                <div class="text-center">
+                    <img class="margin-bottom-20px" src="assets/img/upd.png" alt="UPD logo" style="width: 200px;">
+                </div>
                 <p>UPD is South Africa’s leading full-range pharmaceutical wholesaler and the only one with a national presence. UPD was acquired in 2003 to provide the distribution capability for the group’s healthcare strategy.</p>
-                <p>UPD fulfils the pharmaceutical supply needs of Clicks, major private hospital groups and over 1 200 independent pharmacies. UPD also provides bulk distribution services to pharmaceutical manufacturers.</p>
+                <p class="margin-bottom-40px">UPD fulfils the pharmaceutical supply needs of Clicks, major private hospital groups and over 1 200 independent pharmacies. UPD also provides bulk distribution services to pharmaceutical manufacturers.</p>
                 <table>
                     <colgroup>
                         <col width="30%">
@@ -101,7 +102,7 @@
                             <td class="text-right light-blue-bg"><b>454</b></td>
                         </tr>
                         <tr>
-                            <td>Musica</td>
+                            <td class="border-bottom-thin">Musica</td>
                             <td class="text-right border-bottom-thin"><b>100</b></td>
                             <td class="text-right border-bottom-thin"><b>9</b></td>
                             <td class="text-right border-bottom-thin"><b>109</b></td>
@@ -109,7 +110,7 @@
                             <td class="text-right light-blue-bg"></td>
                         </tr>
                         <tr>
-                            <td>Total</td>
+                            <td class="border-bottom-thin">Total</td>
                             <td class="text-right border-bottom-thin"><b>791</b></td>
                             <td class="text-right border-bottom-thin"><b>46</b></td>
                             <td class="text-right border-bottom-thin"><b>837</b></td>
@@ -125,7 +126,7 @@
                         <h3><span class="larger xl green">16.0%</span> <br>diluted HEPS <br>10-year CAGR</h4>
                     </div>
                     <div class="col-4 text-center d-flex flex-column align-items-center justify-content-center">
-                        <div class="light-blue-bg box-padding">
+                        <div class="light-blue-bg box-padding medium-content-padding">
                             <h3><span class="larger xl blue">32.5%</span> <br>total shareholder return <br>10-year CAGR*</h3>
                         </div>
                     </div>
@@ -134,9 +135,11 @@
                     </div>
                 </div>
                 <div class="text-center margin-bottom-40px">
-                    <img src="assets/img/about/p9_sustained_financial_performance_graph-01.svg" alt="Sustained fianancial performance" style="width: 768px;">
+                    <img class="margin-bottom-40px" src="assets/img/about/p9_sustained_financial_performance_graph-01.svg" alt="Sustained fianancial performance" style="width: 768px;">
                 </div>
-                <img class="margin-bottom-20px" src="assets/img/clicks.png" alt="Clicks logo" style="width: 250px;">
+                <div class="text-center">
+                    <img class="margin-bottom-20px" src="assets/img/clicks.png" alt="Clicks logo" style="width: 250px;">
+                </div>
                 <img class="thick-dark-blue-border margin-bottom-20px" src="assets/img/about/pharmacy.jpg" alt="Clicks pharmacy">
                 <div class="row margin-bottom-40px">
                     <div class="col-12 col-xl-10 offset-xl-1">
@@ -161,7 +164,9 @@
                         <p>View Clicks video at <u><a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></u></p> 
                     </div>
                 </div>
-                <img class="margin-bottom-20px" src="assets/img/upd.png" alt="UPD logo" style="width: 200px;">
+                <div class="text-center">
+                    <img class="margin-bottom-20px" src="assets/img/upd.png" alt="UPD logo" style="width: 200px;">
+                </div>
                 <img class="thick-dark-blue-border margin-bottom-20px" src="assets/img/about/upd.jpg" alt="UPD">
                 <div class="row margin-bottom-40px">
                     <div class="col-12 col-xl-10 offset-xl-1">

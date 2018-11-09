@@ -71,8 +71,8 @@
                         </div>
                     </div>
                 </div>
+                <img src="assets/img/about/p17_arrow.svg" alt="Arrow">
                 <blockquote class="smaller-margin">
-                    <h4 class="margin-bottom-10px"><b>Creating value in 2018</b></h4>
                     <em>Through the successful execution of this business model the group aims to create sustainable value for shareholders and other key stakeholders.</em>
                     <p class="margin-top-10px">The value created in the past financial year is outlined <a href="">here</a>.</p>
                 </blockquote>

@@ -8,6 +8,9 @@
             <?php include '../../snippets/sidebars/sidebar_about.php' ?>
             <div class="col-9 col-lg-10 side-padding">
                 <h1 class="text-uppercase">Creating value in 2018</h1>
+                <blockquote class="dark-blue-border-top dark-blue-border-bottom">
+                    <em>Founded in 1968, the group is a leader in the healthcare market in South Africa, where Clicks is the leading health and beauty retailer and UPD is the country’s largest full-range national pharmaceutical wholesaler.</em>
+                </blockquote>
                 <blockquote class="sky-blue-bg">
                     <em class="white">“Creating sustainable long-term shareholder value through a retail-led health, beauty and wellness offering.”</em>
                 </blockquote>
@@ -70,10 +73,10 @@
                     <div class="col-6">
                         <div class="row">
                             <div class="col-6 d-flex align-items-center justify-content-center">
-                                <img src="assets/img/clicks.png" alt="Clicks Logo" style="max-width: 170px;" class="margin-bottom-20px">
+                                <img src="assets/img/clicks.png" alt="Clicks Logo" style="width: 170px;" class="margin-bottom-20px">
                             </div>
                             <div class="col-6 d-flex align-items-center justify-content-center">
-                                <img src="assets/img/upd.png" alt="UPD Logo" style="max-width: 170px;" class="margin-bottom-20px">
+                                <img src="assets/img/upd.png" alt="UPD Logo" style="width: 170px;" class="margin-bottom-20px">
                             </div>
                         </div>
                         <h5>Online store offering in-store or home delivery nationally</h5>

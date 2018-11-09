@@ -9,7 +9,7 @@
             <div class="col-9 col-lg-10 side-padding">
                 <h1 class="text-uppercase">Investment case</h1>
                 <blockquote class="sky-blue-bg white">
-                Clicks Group’s strategy is to create sustainable long-term shareholder value through a retail-led health, beauty and wellness offering
+                Clicks Group offers sustainable growth opportunities for equity investors seeking non-cyclical exposure to the retail and healthcare sectors in South Africa.
                 </blockquote>
                 <div class="row">
                     <div class="col-12 text-center">
@@ -19,9 +19,9 @@
                     <div class="col-6 dark-blue-border-right">
                         <div class="row">
                             <div class="col-12 col-lg-5">
-                                <img class="margin-bottom-20px" src="assets/img/about/p18_positioned.png" alt="Positioned in growing markets">
+                                <img class="margin-bottom-20px" src="assets/img/about/p18_positioned.jpg" alt="Positioned in growing markets">
                             </div>
-                            <div class="col-12 col-lg-7">
+                            <div class="col-12 col-lg-7 d-flex flex-column justify-content-center">
                                 <h3>Well positioned in growing markets</h3>
                                 <p class="margin-bottom-0">Healthcare markets are defensive and growing in South Africa</p>
                                 <ul>
@@ -34,9 +34,9 @@
                     <div class="col-6">
                         <div class="row">
                             <div class="col-12 col-lg-5">
-                                <img class="margin-bottom-20px" src="assets/img/about/p18_resilent.png" alt="Resilient value adding business model">
+                                <img class="margin-bottom-20px" src="assets/img/about/p18_resilent.jpg" alt="Resilient value adding business model">
                             </div>
-                            <div class="col-12 col-lg-7">
+                            <div class="col-12 col-lg-7 d-flex flex-column justify-content-center">
                                 <h3>Resilient value adding business model</h3>
                                 <p class="margin-bottom-0">Over 80% of group turnover is in defensive merchandise categories</p>
                                 <ul>

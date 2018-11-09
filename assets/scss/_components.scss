@@ -644,7 +644,7 @@ main {
 	.line-heading {
 		margin-top: 40px;
 		margin-bottom: 20px;
-		border-top: 2px solid $dark-blue;
+		border-top: 1px solid $dark-blue;
 		h2 {
 			font-size: 15px;
 			line-height: 20px;
@@ -696,6 +696,41 @@ main {
 			transform: translate(-50%, -50%);
 			z-index: -1;
 		}
+	}
+}
+
+.chairman {
+	.david {
+		position: relative;
+		bottom: -60px;
+	}
+}
+
+.b-o-d {
+	.center-line-heading {
+		margin-top: 20px;
+		margin-bottom: 20px;
+		position: relative;
+		h2 {
+			background: #fff;
+			padding: 5px 10px;
+			position: relative;
+			z-index: 1;
+			display: inline-block;
+		}
+		&:after {
+			content : '';
+			height: 1px;
+			width: 100%;
+			background: $dark-blue;
+			position: absolute;
+			top: 50%;
+			left: 0;
+			transform: translateY(-50%);
+		}
+	}
+	p {
+		margin-bottom: 2px;
 	}
 }
 

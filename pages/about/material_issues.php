@@ -7,14 +7,14 @@
         <div class="row">
             <?php include '../../snippets/sidebars/sidebar_about.php' ?>
             <div class="col-9 col-lg-10 side-padding">
-                <h1 class="text-uppercase">Group profile</h1>
+                <h1 class="text-uppercase">Managing material issues</h1>
                 <blockquote class="sky-blue-bg white">
                     Material issues have been identified which could significantly impact positively or negatively on the group’s ability to create and sustain value.
                     <div class="text-left margin-top-20px">
-                        <h3 class="text-uppercase dark-blue"><span class="number white">1</span> Trading environment</h3>
-                        <h3 class="text-uppercase dark-blue"><span class="number white">2</span> Competition</h3>
-                        <h3 class="text-uppercase dark-blue"><span class="number white">3</span> Regulation</h3>
-                        <h3 class="text-uppercase dark-blue"><span class="number white">4</span> People</h3>
+                        <h3 class="text-uppercase dark-blue margin-bottom-20px"><span class="number white">1</span> Trading environment</h3>
+                        <h3 class="text-uppercase dark-blue margin-bottom-20px"><span class="number white">2</span> Competition</h3>
+                        <h3 class="text-uppercase dark-blue margin-bottom-20px"><span class="number white">3</span> Regulation</h3>
+                        <h3 class="text-uppercase dark-blue margin-bottom-20px"><span class="number white">4</span> People</h3>
                         <h3 class="text-uppercase dark-blue"><span class="number white">5</span> Information Technology</h3>
                     </div>
                 </blockquote>
@@ -25,6 +25,7 @@
                 <div class="dash"></div>
                 <p class="margin-bottom-40px"><span class="green heading-3 text-uppercase">Opportunities</span> are presented for each material issue to indicate how the group is using its competitive advantage to manage the impacts of the material issues on value creation.</p>
                 <img class="margin-bottom-40px" src="assets/img//about/material_risks.svg" alt="Material risks graph">
+                <div class="dash"></div>
                 <div class="row">
                     <div class="col-6 dark-blue-border-bottom">
                         <h2 class="text-uppercase margin-bottom-40px">Trading environment</h2>
@@ -39,29 +40,29 @@
                         <p class="margin-bottom-40px margin-top-20px">Clicks faces competition on several fronts, including national food retailers and general merchandise chains, and other pharmacy businesses.</p>
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase sky-blue margin-top-20px">Risks</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase sky-blue margin-top-20px margin-bottom-0">Risks</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Further deterioration in the economic environment will depress consumer spending which is already under severe pressure.</li>
                             <li>Criminal activity, including syndicated crime, escalates during times of economic hardship.</li>
                         </ul>
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase sky-blue margin-top-20px">Risks</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase sky-blue margin-top-20px margin-bottom-0">Risks</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Expansion by corporate pharmacy and retail chains impacting on market share growth in Clicks.</li>
                             <li>Increasing price competitiveness of retailers could negatively affect sales and profitability in Clicks.</li>
                         </ul>
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase green margin-top-20px">Opportunities</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase green margin-top-20px margin-bottom-0">Opportunities</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Clicks will continue to pursue a strategy to improve price competitiveness, grow sales volumes and entrench the perception of Clicks as a value retailer.</li>
                             <li>Focus on differentiators, including extensive and convenient store and pharmacy network; private label and exclusive ranges; Clicks ClubCard loyalty and consistently high levels of customer care.</li>
                         </ul>
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase green margin-top-20px">Opportunities</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase green margin-top-20px margin-bottom-0">Opportunities</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Clicks has an extensive store network and plans to open 25 to 30 new stores each year, expanding to 900 stores in the long term.</li>
                             <li>Continued expansion of the pharmacy network with the long-term plan to open pharmacies in all Clicks stores in South Africa.</li>
                             <li>Continued recruitment of new members to the Clicks ClubCard.</li>
@@ -81,22 +82,22 @@
                         <p class="margin-bottom-40px margin-top-20px">Retail and healthcare skills are scarce and in high demand locally and internationally. Attracting and retaining talent is therefore critical to the group’s continued success. As the largest employer of pharmacy staff in the private sector in South Africa the group is actively building capacity to address the critical shortage of pharmacists.</p>
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase sky-blue margin-top-20px">Risks</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase sky-blue margin-top-20px margin-bottom-0">Risks</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Legislative and regulatory changes introduced by the Department of Health (DoH), SA Pharmacy Council (SAPC) and SA Health Products Regulatory Authority (SAHPRA) could impact on Clicks’ and UPD’s turnover and margins.</li>
                             <li>Impacts include the ability to obtain pharmacy licences and to launch private label and exclusive scheduled and complementary medicines.</li>
                             <li>Introduction of National Health Insurance (NHI) could impact on the private and public healthcare markets.</li>
                         </ul>
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase sky-blue margin-top-20px">Risks</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase sky-blue margin-top-20px margin-bottom-0">Risks</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Inability to recruit, attract and retain talent for core business needs, including merchandise and planning, store management and pharmacy.</li>
                         </ul>
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase green margin-top-20px">Opportunities</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase green margin-top-20px margin-bottom-0">Opportunities</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Ensure Clicks and UPD are operating efficiently to maintain margins and profitability.</li>
                             <li>Continue management engagement with the DoH, SAPC and SAHPRA on legislation and regulation.</li>
                             <li>As the market leaders in retail pharmacy and pharmaceutical wholesaling, position Clicks and UPD to benefit from market consolidation arising from changes in legislation and regulation.</li>
@@ -104,8 +105,8 @@
                         </ul>
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase green margin-top-20px">Opportunities</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase green margin-top-20px margin-bottom-0">Opportunities</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Salaries and incentives are externally benchmarked to ensure the group remains competitive.</li>
                             <li>Group resourcing function established, including specialist pharmacy team.</li>
                             <li>Bursary and internship programmes to attract pharmacy graduates.</li>
@@ -124,8 +125,8 @@
                     <div class="col-6">
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase sky-blue margin-top-20px">Risks</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase sky-blue margin-top-20px margin-bottom-0">Risks</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Confidential customer or sensitive internal data compromised as a result of undetected data security breach or cyberattack.</li>
                             <li>IT systems and architecture no longer appropriate in an environment of ever-increasing scale and requirement for real-time IT systems.</li>
                             <li>Inability to restore business operations and IT systems in the event of a disaster.</li>
@@ -134,8 +135,8 @@
                     <div class="col-6">
                     </div>
                     <div class="col-6 dark-blue-border-bottom">
-                        <h3 class="text-uppercase green margin-top-20px">Opportunities</h3>
-                        <ul class="margin-bottom-40px">
+                        <h3 class="text-uppercase green margin-top-20px margin-bottom-0">Opportunities</h3>
+                        <ul class="margin-bottom-40px margin-top-0">
                             <li>Improved information security practices and compliance as a result of increased online presence.</li>
                             <li>Planned implementation roadmap for new IT systems with improved system efficiencies and cost savings that support the organic growth strategy.</li>
                         </ul>

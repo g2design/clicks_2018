@@ -71,19 +71,19 @@
 }
 
 .dark-blue-border {
-	border: 2px solid $dark-blue;
+	border: 1px solid $dark-blue;
 }
 
 .dark-blue-border-top {
-	border-top: 2px solid $dark-blue;
+	border-top: 1px solid $dark-blue;
 }
 
 .dark-blue-border-right {
-	border-right: 2px solid $dark-blue;
+	border-right: 1px solid $dark-blue;
 }
 
 .dark-blue-border-bottom {
-	border-bottom: 2px solid $dark-blue;
+	border-bottom: 1px solid $dark-blue;
 }
 
 .border-right-grey-dotted {
@@ -104,7 +104,7 @@
 }
 
 .dash {
-	border: 1px solid $dark-blue;
+	border: .5px solid $dark-blue;
 	margin: 20px 0;
 	position: relative;
 	width: 100%;

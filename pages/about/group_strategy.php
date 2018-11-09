@@ -15,9 +15,9 @@
                 <div class="dash"></div>
                 <div class="row">
                     <div class="col-5 col-lg-4">
-                        <img src="assets/img/about/p14_favourite_market_dynamics.png" alt="Market dynamics">
+                        <img src="assets/img/about/p14_favourite_market_dynamics.jpg" alt="Market dynamics">
                     </div>
-                    <div class="col-7 col-lg-8">
+                    <div class="col-7 col-lg-8 d-flex flex-column justify-content-center">
                         <h3>Favourable market dynamics</h3>
                         <ul>
                             <li>Healthcare markets are defensive and offer long-term growth opportunities in South Africa.</li>
@@ -34,9 +34,9 @@
                 <div class="dash"></div>
                 <div class="row">
                     <div class="col-5 col-lg-4">
-                        <img src="assets/img/about/p14_capacity_to_expand.png" alt="Capacity to expand">
+                        <img src="assets/img/about/p14_capacity_to_expand.jpg" alt="Capacity to expand">
                     </div>
-                    <div class="col-7 col-lg-8">
+                    <div class="col-7 col-lg-8 d-flex flex-column justify-content-center">
                         <h3>Capacity to expand convenient retail footprint and pharmacy network</h3>
                         <ul>
                             <li>The goal is to expand the Clicks store base in South Africa to 900 in the longterm, with a pharmacy operating in every store.</li>
@@ -52,9 +52,9 @@
                 <div class="dash"></div>
                 <div class="row">
                     <div class="col-5 col-lg-4">
-                        <img src="assets/img/about/p15_differentiating_products.png" alt="Differentiated product offer">
+                        <img src="assets/img/about/p15_differentiating_products.jpg" alt="Differentiated product offer">
                     </div>
-                    <div class="col-7 col-lg-8">
+                    <div class="col-7 col-lg-8 d-flex flex-column justify-content-center">
                         <h3>Differentiated product offer</h3>
                         <ul>
                             <li>Private label and exclusive brands offer differentiated ranges at higher margins.</li>
@@ -69,9 +69,9 @@
                 <div class="dash"></div>
                 <div class="row">
                     <div class="col-5 col-lg-4">
-                        <img src="assets/img/about/p15_leveraging.png" alt="Leveraging customer engagement">
+                        <img src="assets/img/about/p15_leveraging.jpg" alt="Leveraging customer engagement">
                     </div>
-                    <div class="col-7 col-lg-8">
+                    <div class="col-7 col-lg-8 d-flex flex-column justify-content-center">
                         <h3>Leveraging customer engagement</h3>
                         <ul>
                             <li>Clicks ClubCard is one of the largest retail loyalty programmes in South Africa with 7.8 million active members.</li>
@@ -86,9 +86,9 @@
                 <div class="dash"></div>
                 <div class="row">
                     <div class="col-5 col-lg-4">
-                        <img src="assets/img/about/p15_opportunity.png" alt="Opportunity to grow UPD">
+                        <img src="assets/img/about/p15_opportunity.jpg" alt="Opportunity to grow UPD">
                     </div>
-                    <div class="col-7 col-lg-8">
+                    <div class="col-7 col-lg-8 d-flex flex-column justify-content-center">
                         <h3>Opportunity to grow UPD</h3>
                         <ul>
                             <li>UPD provides an efficient healthcare supply chain which supports the growth of the Clicks business.</li>

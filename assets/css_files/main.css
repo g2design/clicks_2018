@@ -57,8 +57,8 @@ img {
   font-weight: 400; }
 
 .content-styling h4, .content-styling .heading-4 {
-  font-size: 16px;
-  line-height: 17px;
+  font-size: 18px;
+  line-height: 19px;
   margin-bottom: 2px;
   text-transform: uppercase;
   font-weight: 400;
@@ -368,6 +368,12 @@ table {
       border-bottom: 2px solid #003767; }
     table thead tr td.border-bottom-thin, table thead tr th.border-bottom-thin, table tbody tr td.border-bottom-thin, table tbody tr th.border-bottom-thin {
       border-bottom: 1px solid #003767; }
+    table thead tr td.border-top, table thead tr th.border-top, table tbody tr td.border-top, table tbody tr th.border-top {
+      border-top: 1px solid #003767; }
+    table thead tr td.border-left, table thead tr th.border-left, table tbody tr td.border-left, table tbody tr th.border-left {
+      border-left: 1px solid #003767; }
+    table thead tr td.border-right, table thead tr th.border-right, table tbody tr td.border-right, table tbody tr th.border-right {
+      border-right: 1px solid #003767; }
     table thead tr td.border-bottom-white-thin, table thead tr th.border-bottom-white-thin, table tbody tr td.border-bottom-white-thin, table tbody tr th.border-bottom-white-thin {
       border-bottom: 1px solid white; }
     table thead tr td.top, table thead tr th.top, table tbody tr td.top, table tbody tr th.top {
@@ -668,7 +674,7 @@ main .reward-value thead tr td.remove-padding, main .reward-value thead tr th.re
             transform: translate(-50%, -50%);
     z-index: -1; }
 
-.chairman .david {
+.chairman .david, .chairman .michael, .ceo .david, .ceo .michael, .cfo .david, .cfo .michael {
   position: relative;
   bottom: -60px; }
 

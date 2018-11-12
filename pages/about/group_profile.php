@@ -122,15 +122,15 @@
                 <p class="margin-bottom-40px">Stores outside South Africa are in the neighbouring countries of Namibia, Botswana, Swaziland and Lesotho.</p>
                 <h2 class="text-uppercase heading-1 margin-bottom-40px">Sustained financial performance</h2>
                 <div class="row remove-flex width-100 margin-bottom-40px">
-                    <div class="col-4 text-center d-flex flex-column align-items-center justify-content-center dark-blue-border-top dark-blue-border-bottom">
+                    <div class="col-12 col-lg-4 text-center d-flex flex-column align-items-center justify-content-center dark-blue-border-top dark-blue-border-bottom small-content-padding">
                         <h3><span class="larger xl green">16.0%</span> <br>diluted HEPS <br>10-year CAGR</h4>
                     </div>
-                    <div class="col-4 text-center d-flex flex-column align-items-center justify-content-center">
-                        <div class="light-blue-bg box-padding medium-content-padding">
+                    <div class="col-12 col-lg-4 text-center d-flex flex-column align-items-center justify-content-center">
+                        <div class="light-blue-bg box-padding medium-content-padding width-100">
                             <h3><span class="larger xl blue">32.5%</span> <br>total shareholder return <br>10-year CAGR*</h3>
                         </div>
                     </div>
-                    <div class="col-4 text-center d-flex flex-column align-items-center justify-content-center dark-blue-border-top dark-blue-border-bottom">
+                    <div class="col-12 col-lg-4 text-center d-flex flex-column align-items-center justify-content-center dark-blue-border-top dark-blue-border-bottom small-content-padding">
                         <h3><span class="larger xl sky-blue">20.1%</span> <br>dividend per share <br>10-year CAGR</h3>
                     </div>
                 </div>

@@ -23,14 +23,14 @@
                         </colgroup>
                         <thead>
                             <tr>
-                                <th class="border-bottom-thin"></th>
-                                <th class="border-bottom-thin"></th>
-                                <th class="border-bottom-thin bottom text-right">5-year compound growth (%)</th>
-                                <th class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">2018</b></th>
-                                <th class="border-bottom-thin bottom text-right">2017</th>
-                                <th class="border-bottom-thin bottom text-right">2016</th>
-                                <th class="border-bottom-thin bottom text-right">2015</th>
-                                <th class="border-bottom-thin bottom text-right">2014</th>
+                                <td class="border-bottom-thin"></td>
+                                <td class="border-bottom-thin"></td>
+                                <td class="border-bottom-thin bottom text-right">5-year compound growth (%)</td>
+                                <td class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">2018</b></th>
+                                <td class="border-bottom-thin bottom text-right">2017</td>
+                                <td class="border-bottom-thin bottom text-right">2016</td>
+                                <td class="border-bottom-thin bottom text-right">2015</td>
+                                <td class="border-bottom-thin bottom text-right">2014</td>
                             </tr>
                         </thead>
                         <tbody>

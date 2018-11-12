@@ -200,7 +200,7 @@
                 <img class="margin-bottom-20px" src="assets/img/signatures/vikesh_ramsunder_signature.png" alt="Vikesh Ramsunder" style="width: 180px;">
                 <p class="margin-bottom-0"><b>Vikesh Ramsunder</b></p>
                 <p class="margin-bottom-40px">Chief operating officer</p>
-                <div class="row b-o-d light-blue-bg">
+                <div class="row b-o-d light-blue-bg margin-bottom-40px">
                     <div class="col-4">
                             <img class="margin-top-20px margin-bottom-20px" src="assets/img/business_review/p47_vikesh_ramsunder.jpg" alt="Vikesh Ramsunder">
                     </div>
@@ -212,7 +212,66 @@
                         </div>
                     </div>
                 </div>
-                <h4 class="sky-blue"></h4>
+                <h4 class="sky-blue">Performance against objectives in 2018 and plans for 2019</h4>
+                <div class="dash"></div>
+                <div class="row">
+                    <div class="col-4"></div>
+                    <div class="col-8">
+                        <h5>Deliver a competitive and differentiated front shop product offer</h5>
+                    </div>
+                </div>
+                <div class="row light-blue-bg">
+                    <div class="col-4">
+                            <img class="margin-top-20px margin-bottom-20px" src="assets/img/business_review/p47_vikesh_ramsunder.jpg" alt="Vikesh Ramsunder">
+                    </div>
+                    <div class="col-8">
+                        <div class="margin-top-20px margin-bottom-20px">
+                            <div class="row">
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Achieved in 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2019</h5>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Increase front shop private label and exclusive brand sales to 29.0%</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Front shop private label and exclusive sales 28.2% of total sales</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Increase front shop private label and exclusive brand sales to 29.0%</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Expand presence of franchise brands in Clicks</p>
+                                    <ul>
+                                        <li>The Body Shop: 150 stores</li>
+                                        <li>GNC: 390 stores</li>
+                                        <li>Claire’s: 150 stores</li>
+                                    </ul>
+                                </div>
+                                <div class="col-4">
+                                    <p>Franchise brands in Clicks stores</p>
+                                    <ul>
+                                        <li>The Body Shop: 170 stores</li>
+                                        <li>GNC: 454 stores</li>
+                                        <li>Claire’s: 168 stores</li>
+                                    </ul>
+                                </div>
+                                <div class="col-4">
+                                    <p>Increase front shop private label and exclusive brand sales to 29.0%</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

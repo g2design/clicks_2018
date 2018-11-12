@@ -24,9 +24,9 @@
                         </colgroup>
                         <thead>
                             <tr>
-                                <th colspan="2" class="border-bottom-thin"></th>
-                                <th class="text-right bottom border-bottom-thin">Achieved in FY2018</th>
-                                <th class="text-right bottom border-bottom-thin sky-blue-bg white"><b>Medium-term target</b></th>
+                                <td colspan="2" class="border-bottom-thin"></td>
+                                <td class="text-right bottom border-bottom-thin">Achieved in FY2018</td>
+                                <td class="text-right bottom border-bottom-thin sky-blue-bg white"><b>Medium-term target</b></td>
                             </tr>
                         </thead>
                         <tbody>
@@ -124,12 +124,12 @@
                         </colgroup>
                         <thead>
                             <tr>
-                                <th class="border-bottom-thin bottom">R’million</th>
-                                <th class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">2018</b></th>
-                                <th class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">% of turnover</b></th>
-                                <th class="border-bottom-thin bottom text-right">2017</th>
-                                <th class="border-bottom-thin bottom text-right">% of turnover</th>
-                                <th class="border-bottom-thin bottom text-right">% change</th>
+                                <td class="border-bottom-thin bottom">R’million</td>
+                                <td class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">2018</b></th>
+                                <td class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">% of turnover</b></th>
+                                <td class="border-bottom-thin bottom text-right">2017</td>
+                                <td class="border-bottom-thin bottom text-right">% of turnover</td>
+                                <td class="border-bottom-thin bottom text-right">% change</td>
                             </tr>
                         </thead>
                         <tbody>
@@ -307,10 +307,10 @@
                         </colgroup>
                         <thead>
                             <tr>
-                                <th class="border-bottom-thin bottom">R’million</th>
-                                <th class="border-bottom-thin bottom sky-blue-bg text-right"><b class="white">2018</b></th>
-                                <th class="border-bottom-thin bottom text-right">2017</th>
-                                <th class="border-bottom-thin bottom text-right">% change</th>
+                                <td class="border-bottom-thin bottom">R’million</td>
+                                <td class="border-bottom-thin bottom sky-blue-bg text-right"><b class="white">2018</b></td>
+                                <td class="border-bottom-thin bottom text-right">2017</td>
+                                <td class="border-bottom-thin bottom text-right">% change</td>
                             </tr>
                         </thead>
                         <tbody>
@@ -422,7 +422,7 @@
                 <h4 class="sky-blue">Statement of financial position</h4>
                 <p>The ratio of shareholders’ interest to total assets increased to 38.3% (2017: 34.0%) and the average gearing level declined from 14.8% in 2017 to an average ungeared position for the year.</p>
                 <p>The ratio of current assets to current liabilities at year-end was 1.2 times (2017: 1.1 times), indicating that working capital remains adequately funded. Other current assets include R1.5 billion in cash.</p>
-                <p>The group continues to hedge direct exposures to foreign exchange rate fluctuations which impact approximately between 6% and 7% of the cost of sales in the retail business. In addition, the group hedged elements of the long-term incentive scheme for the 2018 to 2020 period. Further detail on the respective hedges and risk management is contained in note 28 in the annual financial statements on the group’s website.</p>
+                <p>The group continues to hedge direct exposures to foreign exchange rate fluctuations which impact approximately between 6% and 7% of the cost of sales in the retail business. In addition, the group hedged elements of the long-term incentive scheme for the 2018 to 2020 period. Further detail on the respective hedges and risk management is contained in <a href="">note 28 in the annual financial statements</a>.</p>
                 <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
                     <em class="sky-blue">“The group’s medium-term financial targets rank in the upper quartile relative to comparable global heath and beauty retailers”</em>
                 </blockquote>
@@ -432,7 +432,7 @@
                     <img class="margin-bottom-40px" src="assets/img/leadership/capital_expenditure.svg" alt="Capital expenditure" style="width: 400px;">
                 </div>
                 <h5 class="margin-bottom-0"><b>Cash and capital management</b></h5>
-                <p>Cash generated by operations increased by 20.7% to R2.5 billion, driven by the increase in operating profit and good working capital management.</p>
+                <p>Cash generated by operations increased by 20.7% to R2.5 billion, driven by the increase in operating profit and good working&nbsp;capital&nbsp;management.</p>
                 <p class="margin-bottom-0">The group’s capital management strategy is focused on investing in the organic growth of the business and returning surplus funds to shareholders through dividends and share buybacks:</p>
                 <ul class="margin-top-0">
                     <li>Capital expenditure of R350 million was invested in new stores and refurbishments; R198 million on expanding distribution centres, including the first phase of the Clicks distribution centre in Centurion, Gauteng, and UPD’s Cape Town and Johannesburg warehouses; and R123 million in IT and retail infrastructure.</li>
@@ -443,10 +443,10 @@
                     <img class="margin-bottom-40px" src="assets/img/leadership/cash_flow_analysis.svg" alt="Cash flow analysis" style="width: 800px;">
                 </div>
                 <h4 class="sky-blue">Dividends</h4>
-                <p>The total dividend for the financial year was increased by 18.0% to 380 cents per share (2017: 322 cents), based on an increased dividend payout ratio of 62% (2017: 60%) of HEPS. This comprises the interim dividend of 102.5 cents (2017: 88 cents) and a final dividend of 277.5 cents (2017: 234 cents).</p>
+                <p>The total dividend for the financial year was increased by 18.0% to 380 cents per share (2017: 322 cents), based on an increased dividend payout ratio of 62% (2017: 60%) of HEPS. This comprises the interim dividend of 102.5 cents (2017: 88 cents) and a final dividend of 277.5&nbsp;cents&nbsp;(2017:&nbsp;234&nbsp;cents).</p>
                 <p>A dividend of 38.0 cents per “A” share (2017: 32.2 cents) was declared for participants in the employee share ownership programme.</p>
                 <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“The group plans to invest between R650 million and R700 million per year for the next three years”</em>
+                    <em class="sky-blue">“The group plans to invest between R650 million and R700 million per year for the next&nbsp;three&nbsp;years”</em>
                 </blockquote>
                 <h4 class="sky-blue">Information technology</h4>
                 <p>Management aims to ensure IT systems and infrastructure are well maintained and remain relevant to future needs of the business.</p>

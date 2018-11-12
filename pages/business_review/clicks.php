@@ -168,6 +168,51 @@
                     <em class="sky-blue">“The Clicks online store generated sales equivalent to a medium-sized Clicks store”</em>
                 </blockquote>
                 <p>The Clicks footprint includes 33 stores in neighbouring Namibia (21 stores), Swaziland (four stores), Botswana (seven stores) and Lesotho (one store).</p>
+                <p>During the year 55 stores across the chain were extended or refurbished to ensure the stores remain modern and appealing to customers.</p>
+                <p>Clicks is South Africa’s largest retail pharmacy chain and extended its network to 510 with the opening of 37 in-store pharmacies. The number of clinics was increased from 195 to 203.</p>
+                <p>Clicks was once again ranked first in the pharmacy category in the annual Ask Afrika Orange Index service excellence survey.</p>
+                <p>The Clicks online store further enhances customer convenience, offering the full product range available in large Clicks stores. The offer is being extended to include online only ranges, with prestige beauty being the first of these ranges. Customers can select home delivery or the “click and collect” in store service, which is also driving incremental spending in stores. The online store has performed well in the past year and generated sales equivalent to a medium-sized Clicks store.</p>
+                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
+                    <em class="sky-blue">“ClubCard attracted over 800 000 new members, bringing total active membership to 7.8 million”</em>
+                </blockquote>
+                <h4 class="sky-blue">Engaging customers</h4>
+                <p>ClubCard is integral to the Clicks digital customer engagement strategy which aims to complement the store experience and enables Clicks to better understand and engage with customers, and influence the behaviour of shoppers.</p>
+                <p>ClubCard is South Africa’s most popular loyalty programme and attracted over 800 000 new members in the past year, bringing total active membership to 7.8 million. ClubCard members accounted for 77.2% of sales in Clicks and R442 million was returned to customers in cashback.</p>
+                <p>Digital technology provides new ways to engage with customers, including the Clicks mobile app which incorporates a virtual ClubCard, eliminating the need for customers to use the traditional plastic card. The app also allows customers to submit scripts and order repeat medication. Customer response has been most encouraging and the mobile app has been downloaded by over 250 000 customers.</p>
+                <h4 class="sky-blue">Differentiated product offer</h4>
+                <p>Private label and exclusive brands offer differentiated ranges at competitive prices while increasing the appeal of the Clicks brand and enhancing margin.</p>
+                <p>International franchise brands, The Body Shop, GNC and Claire’s, further differentiate the Clicks offer. The Body Shop has a presence in 170 Clicks stores, GNC in 454 stores and Claire’s in 168 Clicks stores. Clicks is also the exclusive retail stockist of the Sorbet product range.</p>
+                <p>Innovation is a key driver of private label sales and over 700 new products were launched during the year. This included the successful launch of Sorbet Cosmetics, a range of over 320 products for faces, lips, eyes and nails, initially sold in 123 Clicks stores and 40 Sorbet salons.</p>
+                <p>Sales of private label products accounted for 22% of total sales in Clicks, with front shop sales at 28.2% and pharmacy 5.6%.</p>
+                <h4 class="sky-blue">Improving customer care</h4>
+                <p>Clicks continues to invest in improving customer care to enhance the in-store experience and ensure customers are served by friendly and knowledgeable staff. In the past year R102 million was invested in staff training and development across store managers, pharmacists, pharmacy assistants and front shop staff, including beauty advisers.</p>
+                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
+                    <em class="sky-blue">“Clicks has invested over R27 million in pharmacy bursaries in the past six years”</em>
+                </blockquote>
+                <p>As the largest employer of pharmacy staff in the private sector with over 2 800 pharmacy and clinic professionals, Clicks is actively building capacity through the Pharmacy Healthcare Academy and providing financial support to address the critical shortage of pharmacists.</p>
+                <p>Clicks awarded 83 bursaries to pharmacy students in 2018 and has invested over R27 million in bursaries in the past six years. During the year 359 pharmacy assistants were enrolled and 70 pharmacy internships awarded.</p>
+                <p>The store operations learnership programme attracted 122 trainee managers while 20 graduates completed the retail graduate development programme.</p>
+                <h4 class="sky-blue">Outlook for 2019</h4>
+                <p>Clicks plans to open 25 to 30 new stores and 30 to 35 pharmacies as the chain moves towards its long-term goal of expanding its South African store footprint to 900, with a pharmacy in each store. A further 55 stores will be refurbished.</p>
+                <p>Private label, exclusive and franchise brands are planned to contribute 29.5% of front shop sales in the new year. The presence of The Body Shop, GNC and Claire’s will be expanded to additional Clicks stores in the year ahead. The distribution of the Sorbet cosmetics brand will be extended to a further 60 stores. The private label generic medicine range will be extended by 34 products.</p>
+                <p>ClubCard membership is targeted to grow to 8.0 million while technology and data analytics will be applied to personalise engagement with customers.</p>
+                <p class="margin-bottom-40px">The Clicks distribution centre in Centurion, Gauteng, is being expanded by 20 900 m<sup>2</sup> to support the increasing scale of the Clicks chain. The project commenced in 2017 and is being undertaken at a cost of R230 million. The first phase of the construction has been completed and the second phase is scheduled to be completed by September 2019.</p>
+                <img class="margin-bottom-20px" src="assets/img/signatures/vikesh_ramsunder_signature.png" alt="Vikesh Ramsunder" style="width: 180px;">
+                <p class="margin-bottom-0"><b>Vikesh Ramsunder</b></p>
+                <p class="margin-bottom-40px">Chief operating officer</p>
+                <div class="row b-o-d light-blue-bg">
+                    <div class="col-4">
+                            <img class="margin-top-20px margin-bottom-20px" src="assets/img/business_review/p47_vikesh_ramsunder.jpg" alt="Vikesh Ramsunder">
+                    </div>
+                    <div class="col-8">
+                        <div class="margin-top-20px margin-bottom-20px">
+                            <h3><b>Vikesh Ramsunder</b></h3>
+                            <p><em class="sky-blue">Chief operating officer</em></p>
+                            <p>Vikesh (47) joined the group in 1993 and was appointed as chief operating officer of the Clicks brand in 2015. He was previously managing director of UPD, the group’s pharmaceutical wholesaler, from 2010 and was instrumental in driving UPD’s integrated pharmaceutical wholesale and distribution strategy. Prior to this he was head of logistics at Clicks for two years, and served in store, general management and distribution centre management positions across the group. He holds B Com and MBL degrees. Vikesh has been promoted to chief executive officer of the Clicks Group from 1 January 2019.</p>
+                        </div>
+                    </div>
+                </div>
+                <h4 class="sky-blue"></h4>
             </div>
         </div>
     </div>

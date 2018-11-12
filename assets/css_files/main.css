@@ -725,11 +725,11 @@ main .reward-value thead tr td.remove-padding, main .reward-value thead tr th.re
     @media screen and (min-width: 992px) {
       .value-citizen .blue-header.share-ownership {
         padding-top: 40px; } }
-  .value-citizen .blue-header.employment-equity {
+  .value-citizen .blue-header.employment-equity, .value-citizen .blue-header.helping-hand {
     margin-top: 60px;
     padding-top: 60px; }
     @media screen and (min-width: 1200px) {
-      .value-citizen .blue-header.employment-equity {
+      .value-citizen .blue-header.employment-equity, .value-citizen .blue-header.helping-hand {
         padding-top: 40px; } }
 
 .side-buttons {

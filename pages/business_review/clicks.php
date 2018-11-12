@@ -215,16 +215,16 @@
                 <h4 class="sky-blue">Performance against objectives in 2018 and plans for 2019</h4>
                 <div class="dash"></div>
                 <div class="row">
-                    <div class="col-4"></div>
-                    <div class="col-8">
-                        <h5>Deliver a competitive and differentiated front shop product offer</h5>
+                    <div class="col-12 col-lg-4"></div>
+                    <div class="col col-lg-8">
+                        <h5 class="margin-bottom-10px">Deliver a competitive and differentiated front shop product offer</h5>
                     </div>
                 </div>
                 <div class="row light-blue-bg">
-                    <div class="col-4">
-                            <img class="margin-top-20px margin-bottom-20px" src="assets/img/business_review/p47_vikesh_ramsunder.jpg" alt="Vikesh Ramsunder">
+                    <div class="col-12 col-lg-4">
+                            <img class="margin-top-20px margin-bottom-20px hidden-md-down" src="assets/img/business_review/p48_deliver.jpg" alt="Deliver image">
                     </div>
-                    <div class="col-8">
+                    <div class="col col-lg-8">
                         <div class="margin-top-20px margin-bottom-20px">
                             <div class="row">
                                 <div class="col-4">
@@ -266,7 +266,318 @@
                                     </ul>
                                 </div>
                                 <div class="col-4">
-                                    <p>Increase front shop private label and exclusive brand sales to 29.0%</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dash"></div>
+                <div class="row">
+                    <div class="col-12 col-lg-4"></div>
+                    <div class="col col-lg-8">
+                        <h5 class="margin-bottom-10px">Create a great customer experience</h5>
+                    </div>
+                </div>
+                <div class="row light-blue-bg">
+                    <div class="col-12 col-lg-4">
+                            <img class="margin-top-20px margin-bottom-20px hidden-md-down" src="assets/img/business_review/p48_create.jpg" alt="Create image">
+                    </div>
+                    <div class="col col-lg-8">
+                        <div class="margin-top-20px margin-bottom-20px">
+                            <div class="row">
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Achieved in 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2019</h5>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Expand private label scheduled generic medicines range by 30 products</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>120 private label medicines (2017: 100)</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Expand private label scheduled generic medicines range by 34 products</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Increase repeat prescription service to 50% of repeat scripts</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>44% of scripts now on repeat prescription service</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Increase repeat prescription service to 50% of repeat scripts</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>200 clinics at year-end</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>203 clinics at year-end</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>200 – 210 clinics at year-end</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dash"></div>
+                <div class="row">
+                    <div class="col-12 col-lg-4"></div>
+                    <div class="col col-lg-8">
+                        <h5 class="margin-bottom-10px">Grow the retail footprint</h5>
+                    </div>
+                </div>
+                <div class="row light-blue-bg">
+                    <div class="col-12 col-lg-4">
+                            <img class="margin-top-20px margin-bottom-20px hidden-md-down" src="assets/img/business_review/p48_grow.jpg" alt="Grow image">
+                    </div>
+                    <div class="col col-lg-8">
+                        <div class="margin-top-20px margin-bottom-20px">
+                            <div class="row">
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Achieved in 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2019</h5>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Open 25 to 30 new Clicks stores</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Net 41 stores opened 663 stores at year-end</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Open 25 to 30 new Clicks stores</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>55 stores to be expanded/refurbished</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>55 stores expanded/refurbished</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>55 stores to be expanded/refurbished</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Open 30 to 35 new pharmacies</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Net 37 pharmacies opened</p>
+                                    <p>510 pharmacies at year-end</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Open 30 to 35 new pharmacies</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Insource digital capability and improve personalisation</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Digital marketing capability insourced</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Improve personalisation capability</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dash"></div>
+                <div class="row">
+                    <div class="col-12 col-lg-4"></div>
+                    <div class="col col-lg-8">
+                        <h5 class="margin-bottom-10px">Drive customer loyalty through ClubCard</h5>
+                    </div>
+                </div>
+                <div class="row light-blue-bg">
+                    <div class="col-12 col-lg-4">
+                            <img class="margin-top-20px margin-bottom-20px hidden-md-down" src="assets/img/business_review/p49_drive.jpg" alt="Drive image">
+                    </div>
+                    <div class="col col-lg-8">
+                        <div class="margin-top-20px margin-bottom-20px">
+                            <div class="row">
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Achieved in 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2019</h5>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Increase membership to 7.5 million</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>7.8 million members</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Increase membership to 8.0 million</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Grow Baby Club to 520 000 members</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>445 000 Baby Club members</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Grow Baby Club to 500 000 members</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Grow Seniors Club to 900 000 members</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>925 000 Seniors Club members</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Grow Seniors Club to 1.0 million members</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Enrol 100 000 customers to virtual ClubCard</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>240 000 customers enrolled to virtual ClubCard</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Enrol 500 000 customers to virtual ClubCard</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dash"></div>
+                <div class="row">
+                    <div class="col-12 col-lg-4"></div>
+                    <div class="col col-lg-8">
+                        <h5 class="margin-bottom-10px">Ensure supply chain excellence</h5>
+                    </div>
+                </div>
+                <div class="row light-blue-bg">
+                    <div class="col-12 col-lg-4">
+                            <img class="margin-top-20px margin-bottom-20px hidden-md-down" src="assets/img/business_review/p49_ensure.jpg" alt="Ensure image">
+                    </div>
+                    <div class="col col-lg-8">
+                        <div class="margin-top-20px margin-bottom-20px">
+                            <div class="row">
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Achieved in 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2019</h5>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>Complete Centurion distribution centre expansion</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Phase 1 completed, adding 14 200 m<sup>2</sup></p>
+                                </div>
+                                <div class="col-4">
+                                    <p>Phase 2 to be completed September 2019, adding 6 700m<sup>2</sup></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dash"></div>
+                <div class="row">
+                    <div class="col-12 col-lg-4"></div>
+                    <div class="col col-lg-8">
+                        <h5 class="margin-bottom-10px">Maintain a motivated and skilled workforce</h5>
+                    </div>
+                </div>
+                <div class="row light-blue-bg">
+                    <div class="col-12 col-lg-4">
+                            <img class="margin-top-20px margin-bottom-20px hidden-md-down" src="assets/img/business_review/p49_maintain.jpg" alt="Maintain image">
+                    </div>
+                    <div class="col col-lg-8">
+                        <div class="margin-top-20px margin-bottom-20px">
+                            <div class="row">
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Achieved in 2018</h5>
+                                </div>
+                                <div class="col-4">
+                                    <h5 class="sky-blue">Plans and targets for 2019</h5>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>300 pharmacy assistants to be enrolled</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>359 pharmacy assistants enrolled</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>300 pharmacy assistants to be enrolled</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>100 pharmacy bursary students</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>94 pharmacy bursary students</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>100 pharmacy bursary students</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>70 internships</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>70 internships</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>70 internships</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">
+                                    <p>20 graduates to be enrolled on graduate development programme</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>20 graduates enrolled on graduate development programme</p>
+                                </div>
+                                <div class="col-4">
+                                    <p>20 graduates to be enrolled on graduate development programme</p>
                                 </div>
                             </div>
                         </div>

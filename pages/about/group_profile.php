@@ -161,7 +161,7 @@
                             </div>
                         </div>
                         <img class="float-left" src="assets/img/play.png" alt="Play">
-                        <p>View Clicks video at <u><a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></u></p> 
+                        <h5 class="padding-top-5px">View Clicks video at <u><a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></u></h5> 
                     </div>
                 </div>
                 <div class="text-center">
@@ -185,7 +185,7 @@
                             </div>
                         </div>
                         <img class="float-left" src="assets/img/play.png" alt="Play">
-                        <p>View centralised distribution video at <u><a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></u></p> 
+                        <h5 class="padding-top-5px">View centralised distribution video at <u><a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></u></h5> 
                     </div>
                 </div>
             </div>

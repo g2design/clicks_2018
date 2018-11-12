@@ -356,7 +356,7 @@ header .main-nav {
 table {
   margin: 20px 0;
   font-size: 14px;
-  width: 100%;
+  width: 99%;
   border-collapse: collapse; }
   table .large-text {
     font-size: 15.5px !important; }
@@ -384,8 +384,8 @@ table {
     line-height: 16px;
     width: 1px; }
     table tbody tr td.foot-text {
-      line-height: 14px;
-      font-size: 12px;
+      line-height: 20px;
+      font-size: 13px;
       padding: 0 10px !important; }
     table tbody tr td.smaller {
       font-size: 12px; }
@@ -893,6 +893,9 @@ footer {
   .side-padding {
     padding-left: 30px;
     padding-right: 30px; } }
+
+.padding-top-5px {
+  padding-top: 5px; }
 
 .margin-bottom-0 {
   margin-bottom: 0 !important; }

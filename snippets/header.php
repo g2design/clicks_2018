@@ -105,7 +105,7 @@
 										<li><a href="pages/leadership/board_of_directors">Board of directors</a></li>
 										<li><a href="pages/leadership/ceo_report">Chief executive's report</a></li>
 										<li><a href="pages/leadership/cfo_report">Chief financial officer's report</a></li>
-										<li><a href="pages/leadership/five_year">Five-year performance review</a></li>
+										<li><a href="pages/leadership/five_year_review">Five-year performance review</a></li>
 										</ul>
 									</div>
 								</li>
@@ -114,7 +114,7 @@
 									<div class="dropdown text-left">
 										<ul>
 											<li><a href="pages/business_review/clicks">Clicks</a></li>
-											<li><a href="pages/business_review/clicks">UPD</a></li>
+											<li><a href="pages/business_review/upd">UPD</a></li>
 										</ul>
 									</div>
 								</li>

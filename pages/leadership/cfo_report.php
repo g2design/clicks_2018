@@ -14,65 +14,67 @@
                 <p>The group continues to deliver a high return on equity which has averaged 43.8% over the past three years.</p>
                 <h4 class="sky-blue">Medium-term financial targets</h4>
                 <p>Financial targets are disclosed to provide guidance to shareholders on the group’s medium-term performance expectations. The targets are reviewed annually to take account of the group’s current performance and the medium-term outlook for trading.</p>
-                <table>
-                    <colgroup>
-                        <col width="55%">
-                        <col width="15%">
-                        <col width="15%">
-                        <col width="15%">
-                    </colgroup>
-                    <thead>
-                        <tr>
-                            <th colspan="2" class="border-bottom-thin"></th>
-                            <th class="text-right bottom border-bottom-thin">Achieved in FY2018</th>
-                            <th class="text-right bottom border-bottom-thin sky-blue-bg white"><b>Medium-term target</b></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="bottom">Return on equity</td>
-                            <td class="bottom text-right">(%)</td>
-                            <td class="bottom text-right">38.2</td>
-                            <td class="bottom text-right light-blue-bg"><b>38.2</b></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">Return on assets</td>
-                            <td class="bottom text-right">(%)</td>
-                            <td class="bottom text-right">13.9</td>
-                            <td class="bottom text-right light-blue-bg"><b>14 – 18</b></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">Net working capital days</td>
-                            <td class="bottom text-right"></td>
-                            <td class="bottom text-right">36</td>
-                            <td class="bottom text-right light-blue-bg"><b>33 – 38</b></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">Group operating margin</td>
-                            <td class="bottom text-right">(%)</td>
-                            <td class="bottom text-right">7.0</td>
-                            <td class="bottom text-right light-blue-bg"><b>6.5 – 7.5</b></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail</td>
-                            <td class="bottom text-right"></td>
-                            <td class="bottom text-right border-left border-top">8.1</td>
-                            <td class="bottom text-right light-blue-bg border-top border-right"><b>7.5 – 8.5</b></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distribution</td>
-                            <td class="bottom text-right"></td>
-                            <td class="bottom text-right border-left border-bottom-thin">2.7</td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin border-right"><b>2.5 – 3.0</b></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom border-bottom-thin">Dividend payout ratio</td>
-                            <td class="bottom text-right border-bottom-thin">(%)</td>
-                            <td class="bottom text-right border-bottom-thin">62</td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"><b>60 – 65</b></td>
-                        </tr>
-                    </tbody>
-                </table>
+                <div class="scroll-horizontal">
+                    <table style="min-width: 600px;">
+                        <colgroup>
+                            <col width="55%">
+                            <col width="15%">
+                            <col width="15%">
+                            <col width="15%">
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th colspan="2" class="border-bottom-thin"></th>
+                                <th class="text-right bottom border-bottom-thin">Achieved in FY2018</th>
+                                <th class="text-right bottom border-bottom-thin sky-blue-bg white"><b>Medium-term target</b></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="bottom">Return on equity</td>
+                                <td class="bottom text-right">(%)</td>
+                                <td class="bottom text-right">38.2</td>
+                                <td class="bottom text-right light-blue-bg"><b>38.2</b></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">Return on assets</td>
+                                <td class="bottom text-right">(%)</td>
+                                <td class="bottom text-right">13.9</td>
+                                <td class="bottom text-right light-blue-bg"><b>14 – 18</b></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">Net working capital days</td>
+                                <td class="bottom text-right"></td>
+                                <td class="bottom text-right">36</td>
+                                <td class="bottom text-right light-blue-bg"><b>33 – 38</b></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">Group operating margin</td>
+                                <td class="bottom text-right">(%)</td>
+                                <td class="bottom text-right">7.0</td>
+                                <td class="bottom text-right light-blue-bg"><b>6.5 – 7.5</b></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail</td>
+                                <td class="bottom text-right"></td>
+                                <td class="bottom text-right border-left border-top">8.1</td>
+                                <td class="bottom text-right light-blue-bg border-top border-right"><b>7.5 – 8.5</b></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distribution</td>
+                                <td class="bottom text-right"></td>
+                                <td class="bottom text-right border-left border-bottom-thin">2.7</td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin border-right"><b>2.5 – 3.0</b></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom border-bottom-thin">Dividend payout ratio</td>
+                                <td class="bottom text-right border-bottom-thin">(%)</td>
+                                <td class="bottom text-right border-bottom-thin">62</td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"><b>60 – 65</b></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
                 <p>The performance for the 2018 financial year is within the target ranges for most metrics, excluding the return on equity and the return on assets which have been impacted in the short term by the group’s broad-based employee share ownership scheme. These ratios are expected to trend upwards after the scheme matures in the 2019 financial year.</p>
                 <p>Management has introduced a net working capital target to replace the inventory target in order to provide guidance on broader working capital efficiency across the group. The operating margin target range for the distribution segment has been increased from 2.2% – 2.7% to 2.5% – 3.0% to reflect the expected margin benefit from UPD securing additional bulk distribution contracts.</p>
                 <p>The group’s medium-term financial targets rank in the upper quartile relative to comparable global health and beauty retailers such as Walgreens Boots Alliance (USA), CVS (USA), Raia Drogasil (Brazil) and Celesio (Germany).</p>
@@ -110,309 +112,313 @@
                     </div>
                 </div>
                 <h4 class="sky-blue">Summary statement of comprehensive income</h4>
-                <table class="margin-bottom-40px">
-                    <colgroup>
-                        <col width="50%">
-                        <col width="10%">
-                        <col width="10%">
-                        <col width="10%">
-                        <col width="10%">
-                        <col width="10%">
-                    </colgroup>
-                    <thead>
-                        <tr>
-                            <th class="border-bottom-thin bottom">R’million</th>
-                            <th class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">2018</b></th>
-                            <th class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">% of turnover</b></th>
-                            <th class="border-bottom-thin bottom text-right">2017</th>
-                            <th class="border-bottom-thin bottom text-right">% of turnover</th>
-                            <th class="border-bottom-thin bottom text-right">% change</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="bottom">Turnover</td>
-                            <td class="bottom text-right light-blue-bg"><b>29 240</b></td>
-                            <td class="bottom text-right light-blue-bg"><b></b></td>
-                            <td class="bottom text-right">26 809</td>
-                            <td class="bottom text-right"></td>
-                            <td class="bottom text-right">9.1</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail</td>
-                            <td class="bottom text-right light-blue-bg border-left border-top"><b>21 063</b></td>
-                            <td class="bottom text-right light-blue-bg border-top"><b>72.0</b></td>
-                            <td class="bottom text-right border-top">19 015</td>
-                            <td class="bottom text-right border-top">70.9</td>
-                            <td class="bottom text-right border-top border-right">10.8</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distribution</td>
-                            <td class="bottom text-right light-blue-bg border-left"><b>13 376</b></td>
-                            <td class="bottom text-right light-blue-bg"><b>28.0</b></td>
-                            <td class="bottom text-right">12 334</td>
-                            <td class="bottom text-right">29.1</td>
-                            <td class="bottom text-right border-right">8.4</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intragroup</td>
-                            <td class="bottom text-right light-blue-bg border-left border-bottom-thin"><b>(5 199)</b></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
-                            <td class="bottom text-right border-bottom-thin">(4 540)</td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin border-right"></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom border-bottom-thin"></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">Total income</td>
-                            <td class="bottom text-right light-blue-bg"><b>7 894</b></td>
-                            <td class="bottom text-right light-blue-bg"><b>27.0</b></td>
-                            <td class="bottom text-right">7 147</td>
-                            <td class="bottom text-right">26.7</td>
-                            <td class="bottom text-right">10.5</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">Operating expenses</td>
-                            <td class="bottom text-right light-blue-bg"><b>(5 852)</b></td>
-                            <td class="bottom text-right light-blue-bg"><b>20.0</b></td>
-                            <td class="bottom text-right">(5 333)</td>
-                            <td class="bottom text-right">19.9</td>
-                            <td class="bottom text-right">9.7</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail</td>
-                            <td class="bottom text-right light-blue-bg border-left border-top"><b>(5 375)</b></td>
-                            <td class="bottom text-right light-blue-bg border-top"><b></b></td>
-                            <td class="bottom text-right border-top">(4 871)</td>
-                            <td class="bottom text-right border-top"></td>
-                            <td class="bottom text-right border-top border-right">10.3</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distribution</td>
-                            <td class="bottom text-right light-blue-bg border-left"><b>(619)</b></td>
-                            <td class="bottom text-right light-blue-bg"><b></b></td>
-                            <td class="bottom text-right">(581)</td>
-                            <td class="bottom text-right"></td>
-                            <td class="bottom text-right border-right">6.5</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intragroup</td>
-                            <td class="bottom text-right light-blue-bg border-left border-bottom-thin"><b>142</b></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
-                            <td class="bottom text-right border-bottom-thin">119</td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin border-right"></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom border-bottom-thin"></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">Operating profit</td>
-                            <td class="bottom text-right light-blue-bg"><b>2 042</b></td>
-                            <td class="bottom text-right light-blue-bg"><b>7.0</b></td>
-                            <td class="bottom text-right">1 814</td>
-                            <td class="bottom text-right">6.8</td>
-                            <td class="bottom text-right">12.6</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail</td>
-                            <td class="bottom text-right light-blue-bg border-left border-top"><b>1 705</b></td>
-                            <td class="bottom text-right light-blue-bg border-top"><b>8.1</b></td>
-                            <td class="bottom text-right border-top">1 486</td>
-                            <td class="bottom text-right border-top">7.8</td>
-                            <td class="bottom text-right border-top border-right">14.7</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distribution</td>
-                            <td class="bottom text-right light-blue-bg border-left"><b>362</b></td>
-                            <td class="bottom text-right light-blue-bg"><b>2.7</b></td>
-                            <td class="bottom text-right">329</td>
-                            <td class="bottom text-right">2.7</td>
-                            <td class="bottom text-right border-right">10.2</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intragroup</td>
-                            <td class="bottom text-right light-blue-bg border-left border-bottom-thin"><b>(25)</b></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
-                            <td class="bottom text-right border-bottom-thin">(1)</td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin border-right"></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">Loss on disposal of property, plant and equipment</td>
-                            <td class="bottom text-right light-blue-bg"><b>(1)</b></td>
-                            <td class="bottom text-right light-blue-bg"><b></b></td>
-                            <td class="bottom text-right">(5)</td>
-                            <td class="bottom text-right"></td>
-                            <td class="bottom text-right"></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">Net financing income/(costs)</td>
-                            <td class="bottom text-right light-blue-bg"><b>2</b></td>
-                            <td class="bottom text-right light-blue-bg"><b></b></td>
-                            <td class="bottom text-right">(37)</td>
-                            <td class="bottom text-right"></td>
-                            <td class="bottom text-right">(105.5)</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom">Share of profit of an associate</td>
-                            <td class="bottom text-right light-blue-bg"><b>2</b></td>
-                            <td class="bottom text-right light-blue-bg"><b></b></td>
-                            <td class="bottom text-right">3</td>
-                            <td class="bottom text-right"></td>
-                            <td class="bottom text-right"></td>
-                        </tr>
-                        <tr>
-                            <td class="bottom border-bottom-thin">Income tax</td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"><b>(570)</b></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
-                            <td class="bottom text-right border-bottom-thin">(497)</td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin">14.7</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom border-bottom-thin">Profit for the year</td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"><b>1 475</b></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
-                            <td class="bottom text-right border-bottom-thin">1 278</td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin">15.5</td>
-                        </tr>
-                    </tbody>
-                </table>
+                <div class="scroll-horizontal">
+                    <table class="margin-bottom-40px" style="min-width: 600px;">
+                        <colgroup>
+                            <col width="50%">
+                            <col width="10%">
+                            <col width="10%">
+                            <col width="10%">
+                            <col width="10%">
+                            <col width="10%">
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th class="border-bottom-thin bottom">R’million</th>
+                                <th class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">2018</b></th>
+                                <th class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">% of turnover</b></th>
+                                <th class="border-bottom-thin bottom text-right">2017</th>
+                                <th class="border-bottom-thin bottom text-right">% of turnover</th>
+                                <th class="border-bottom-thin bottom text-right">% change</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="bottom">Turnover</td>
+                                <td class="bottom text-right light-blue-bg"><b>29 240</b></td>
+                                <td class="bottom text-right light-blue-bg"><b></b></td>
+                                <td class="bottom text-right">26 809</td>
+                                <td class="bottom text-right"></td>
+                                <td class="bottom text-right">9.1</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail</td>
+                                <td class="bottom text-right light-blue-bg border-left border-top"><b>21 063</b></td>
+                                <td class="bottom text-right light-blue-bg border-top"><b>72.0</b></td>
+                                <td class="bottom text-right border-top">19 015</td>
+                                <td class="bottom text-right border-top">70.9</td>
+                                <td class="bottom text-right border-top border-right">10.8</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distribution</td>
+                                <td class="bottom text-right light-blue-bg border-left"><b>13 376</b></td>
+                                <td class="bottom text-right light-blue-bg"><b>28.0</b></td>
+                                <td class="bottom text-right">12 334</td>
+                                <td class="bottom text-right">29.1</td>
+                                <td class="bottom text-right border-right">8.4</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intragroup</td>
+                                <td class="bottom text-right light-blue-bg border-left border-bottom-thin"><b>(5 199)</b></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
+                                <td class="bottom text-right border-bottom-thin">(4 540)</td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin border-right"></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom border-bottom-thin"></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">Total income</td>
+                                <td class="bottom text-right light-blue-bg"><b>7 894</b></td>
+                                <td class="bottom text-right light-blue-bg"><b>27.0</b></td>
+                                <td class="bottom text-right">7 147</td>
+                                <td class="bottom text-right">26.7</td>
+                                <td class="bottom text-right">10.5</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">Operating expenses</td>
+                                <td class="bottom text-right light-blue-bg"><b>(5 852)</b></td>
+                                <td class="bottom text-right light-blue-bg"><b>20.0</b></td>
+                                <td class="bottom text-right">(5 333)</td>
+                                <td class="bottom text-right">19.9</td>
+                                <td class="bottom text-right">9.7</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail</td>
+                                <td class="bottom text-right light-blue-bg border-left border-top"><b>(5 375)</b></td>
+                                <td class="bottom text-right light-blue-bg border-top"><b></b></td>
+                                <td class="bottom text-right border-top">(4 871)</td>
+                                <td class="bottom text-right border-top"></td>
+                                <td class="bottom text-right border-top border-right">10.3</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distribution</td>
+                                <td class="bottom text-right light-blue-bg border-left"><b>(619)</b></td>
+                                <td class="bottom text-right light-blue-bg"><b></b></td>
+                                <td class="bottom text-right">(581)</td>
+                                <td class="bottom text-right"></td>
+                                <td class="bottom text-right border-right">6.5</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intragroup</td>
+                                <td class="bottom text-right light-blue-bg border-left border-bottom-thin"><b>142</b></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
+                                <td class="bottom text-right border-bottom-thin">119</td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin border-right"></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom border-bottom-thin"></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">Operating profit</td>
+                                <td class="bottom text-right light-blue-bg"><b>2 042</b></td>
+                                <td class="bottom text-right light-blue-bg"><b>7.0</b></td>
+                                <td class="bottom text-right">1 814</td>
+                                <td class="bottom text-right">6.8</td>
+                                <td class="bottom text-right">12.6</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail</td>
+                                <td class="bottom text-right light-blue-bg border-left border-top"><b>1 705</b></td>
+                                <td class="bottom text-right light-blue-bg border-top"><b>8.1</b></td>
+                                <td class="bottom text-right border-top">1 486</td>
+                                <td class="bottom text-right border-top">7.8</td>
+                                <td class="bottom text-right border-top border-right">14.7</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distribution</td>
+                                <td class="bottom text-right light-blue-bg border-left"><b>362</b></td>
+                                <td class="bottom text-right light-blue-bg"><b>2.7</b></td>
+                                <td class="bottom text-right">329</td>
+                                <td class="bottom text-right">2.7</td>
+                                <td class="bottom text-right border-right">10.2</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intragroup</td>
+                                <td class="bottom text-right light-blue-bg border-left border-bottom-thin"><b>(25)</b></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
+                                <td class="bottom text-right border-bottom-thin">(1)</td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin border-right"></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">Loss on disposal of property, plant and equipment</td>
+                                <td class="bottom text-right light-blue-bg"><b>(1)</b></td>
+                                <td class="bottom text-right light-blue-bg"><b></b></td>
+                                <td class="bottom text-right">(5)</td>
+                                <td class="bottom text-right"></td>
+                                <td class="bottom text-right"></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">Net financing income/(costs)</td>
+                                <td class="bottom text-right light-blue-bg"><b>2</b></td>
+                                <td class="bottom text-right light-blue-bg"><b></b></td>
+                                <td class="bottom text-right">(37)</td>
+                                <td class="bottom text-right"></td>
+                                <td class="bottom text-right">(105.5)</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom">Share of profit of an associate</td>
+                                <td class="bottom text-right light-blue-bg"><b>2</b></td>
+                                <td class="bottom text-right light-blue-bg"><b></b></td>
+                                <td class="bottom text-right">3</td>
+                                <td class="bottom text-right"></td>
+                                <td class="bottom text-right"></td>
+                            </tr>
+                            <tr>
+                                <td class="bottom border-bottom-thin">Income tax</td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"><b>(570)</b></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
+                                <td class="bottom text-right border-bottom-thin">(497)</td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin">14.7</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom border-bottom-thin">Profit for the year</td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"><b>1 475</b></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"><b></b></td>
+                                <td class="bottom text-right border-bottom-thin">1 278</td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin">15.5</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
                 <h4 class="sky-blue">Summary statement of financial position</h4>
-                <table class="margin-bottom-40px">
-                    <colgroup>
-                        <col width="70%">
-                        <col width="10%">
-                        <col width="10%">
-                        <col width="10%">
-                    </colgroup>
-                    <thead>
-                        <tr>
-                            <th class="border-bottom-thin bottom">R’million</th>
-                            <th class="border-bottom-thin bottom sky-blue-bg text-right"><b class="white">2018</b></th>
-                            <th class="border-bottom-thin bottom text-right">2017</th>
-                            <th class="border-bottom-thin bottom text-right">% change</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><b>Non-current assets</b></td>
-                            <td class="text-right light-blue-bg"><b>3 233</b></td>
-                            <td class="text-right">2 854</td>
-                            <td class="text-right">13.3</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Property, plant and equipment</td>
-                            <td class="text-right light-blue-bg border-top border-left"><b>1 844</b></td>
-                            <td class="text-right border-top">1 534</td>
-                            <td class="text-right border-top border-right">20.2</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other non-current assets</td>
-                            <td class="text-right light-blue-bg border-bottom-thin border-left"><b>1 389</b></td>
-                            <td class="text-right border-bottom-thin">1 320</td>
-                            <td class="text-right border-bottom-thin border-right">5.2</td>
-                        </tr>
-                        <tr>
-                            <td><b>Current assets</b></td>
-                            <td class="text-right light-blue-bg"><b>8 331</b></td>
-                            <td class="text-right">6 867</td>
-                            <td class="text-right">21.3</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inventories</td>
-                            <td class="text-right light-blue-bg border-top border-left"><b>4 227</b></td>
-                            <td class="text-right border-top">3 754</td>
-                            <td class="text-right border-top border-right">12.6</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trade and other receivables</td>
-                            <td class="text-right light-blue-bg border-left"><b>2 331</b></td>
-                            <td class="text-right">2 213</td>
-                            <td class="text-right border-right">5.4</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other current assets</td>
-                            <td class="text-right light-blue-bg border-bottom-thin border-left"><b>1 773</b></td>
-                            <td class="text-right border-bottom-thin">900</td>
-                            <td class="text-right border-bottom-thin border-right">96.9</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom border-bottom-thin"></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                        </tr>
-                        <tr>
-                            <td class="border-bottom-thin">Total assets</td>
-                            <td class="text-right light-blue-bg border-bottom-thin"><b>11 564</b></td>
-                            <td class="text-right border-bottom-thin">9 721</td>
-                            <td class="text-right border-bottom-thin">19.0</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom"></td>
-                            <td class="bottom text-right light-blue-bg"></td>
-                            <td class="bottom text-right"></td>
-                            <td class="bottom text-right"></td>
-                        </tr>
-                        <tr>
-                            <td><b>Equity</b></td>
-                            <td class="text-right light-blue-bg"><b>4 428</b></td>
-                            <td class="text-right">3 300</td>
-                            <td class="text-right">34.2</td>
-                        </tr>
-                        <tr>
-                            <td>Non-current liabilities</td>
-                            <td class="text-right light-blue-bg"><b>447</b></td>
-                            <td class="text-right">402</td>
-                            <td class="text-right">11.3</td>
-                        </tr>
-                        <tr>
-                            <td>Current liabilities</td>
-                            <td class="text-right light-blue-bg"><b>6 689</b></td>
-                            <td class="text-right">6 019</td>
-                            <td class="text-right">11.1</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trade and other payables</td>
-                            <td class="text-right light-blue-bg border-top border-left"><b>6 199</b></td>
-                            <td class="text-right border-top">5 475</td>
-                            <td class="text-right border-top border-right">13.2</td>
-                        </tr>
-                        <tr>
-                            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other current liabilities</td>
-                            <td class="text-right light-blue-bg border-bottom-thin border-left"><b>490</b></td>
-                            <td class="text-right border-bottom-thin">544</td>
-                            <td class="text-right border-bottom-thin border-right">(9.8)</td>
-                        </tr>
-                        <tr>
-                            <td class="bottom border-bottom-thin"></td>
-                            <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                            <td class="bottom text-right border-bottom-thin"></td>
-                        </tr>
-                        <tr>
-                            <td class="border-bottom-thin">Total equity and liabilities</td>
-                            <td class="text-right light-blue-bg border-bottom-thin"><b>11 564</b></td>
-                            <td class="text-right border-bottom-thin">9 721</td>
-                            <td class="text-right border-bottom-thin">19.0</td>
-                        </tr>
-                    </tbody>
-                </table>
+                <div class="scroll-horizontal">
+                    <table class="margin-bottom-40px" style="min-width: 600px;">
+                        <colgroup>
+                            <col width="70%">
+                            <col width="10%">
+                            <col width="10%">
+                            <col width="10%">
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th class="border-bottom-thin bottom">R’million</th>
+                                <th class="border-bottom-thin bottom sky-blue-bg text-right"><b class="white">2018</b></th>
+                                <th class="border-bottom-thin bottom text-right">2017</th>
+                                <th class="border-bottom-thin bottom text-right">% change</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><b>Non-current assets</b></td>
+                                <td class="text-right light-blue-bg"><b>3 233</b></td>
+                                <td class="text-right">2 854</td>
+                                <td class="text-right">13.3</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Property, plant and equipment</td>
+                                <td class="text-right light-blue-bg border-top border-left"><b>1 844</b></td>
+                                <td class="text-right border-top">1 534</td>
+                                <td class="text-right border-top border-right">20.2</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other non-current assets</td>
+                                <td class="text-right light-blue-bg border-bottom-thin border-left"><b>1 389</b></td>
+                                <td class="text-right border-bottom-thin">1 320</td>
+                                <td class="text-right border-bottom-thin border-right">5.2</td>
+                            </tr>
+                            <tr>
+                                <td><b>Current assets</b></td>
+                                <td class="text-right light-blue-bg"><b>8 331</b></td>
+                                <td class="text-right">6 867</td>
+                                <td class="text-right">21.3</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inventories</td>
+                                <td class="text-right light-blue-bg border-top border-left"><b>4 227</b></td>
+                                <td class="text-right border-top">3 754</td>
+                                <td class="text-right border-top border-right">12.6</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trade and other receivables</td>
+                                <td class="text-right light-blue-bg border-left"><b>2 331</b></td>
+                                <td class="text-right">2 213</td>
+                                <td class="text-right border-right">5.4</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other current assets</td>
+                                <td class="text-right light-blue-bg border-bottom-thin border-left"><b>1 773</b></td>
+                                <td class="text-right border-bottom-thin">900</td>
+                                <td class="text-right border-bottom-thin border-right">96.9</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom border-bottom-thin"></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                            </tr>
+                            <tr>
+                                <td class="border-bottom-thin">Total assets</td>
+                                <td class="text-right light-blue-bg border-bottom-thin"><b>11 564</b></td>
+                                <td class="text-right border-bottom-thin">9 721</td>
+                                <td class="text-right border-bottom-thin">19.0</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom"></td>
+                                <td class="bottom text-right light-blue-bg"></td>
+                                <td class="bottom text-right"></td>
+                                <td class="bottom text-right"></td>
+                            </tr>
+                            <tr>
+                                <td><b>Equity</b></td>
+                                <td class="text-right light-blue-bg"><b>4 428</b></td>
+                                <td class="text-right">3 300</td>
+                                <td class="text-right">34.2</td>
+                            </tr>
+                            <tr>
+                                <td>Non-current liabilities</td>
+                                <td class="text-right light-blue-bg"><b>447</b></td>
+                                <td class="text-right">402</td>
+                                <td class="text-right">11.3</td>
+                            </tr>
+                            <tr>
+                                <td>Current liabilities</td>
+                                <td class="text-right light-blue-bg"><b>6 689</b></td>
+                                <td class="text-right">6 019</td>
+                                <td class="text-right">11.1</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trade and other payables</td>
+                                <td class="text-right light-blue-bg border-top border-left"><b>6 199</b></td>
+                                <td class="text-right border-top">5 475</td>
+                                <td class="text-right border-top border-right">13.2</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other current liabilities</td>
+                                <td class="text-right light-blue-bg border-bottom-thin border-left"><b>490</b></td>
+                                <td class="text-right border-bottom-thin">544</td>
+                                <td class="text-right border-bottom-thin border-right">(9.8)</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom border-bottom-thin"></td>
+                                <td class="bottom text-right light-blue-bg border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                                <td class="bottom text-right border-bottom-thin"></td>
+                            </tr>
+                            <tr>
+                                <td class="border-bottom-thin">Total equity and liabilities</td>
+                                <td class="text-right light-blue-bg border-bottom-thin"><b>11 564</b></td>
+                                <td class="text-right border-bottom-thin">9 721</td>
+                                <td class="text-right border-bottom-thin">19.0</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
                 <h4 class="sky-blue">Statement of financial position</h4>
                 <p>The ratio of shareholders’ interest to total assets increased to 38.3% (2017: 34.0%) and the average gearing level declined from 14.8% in 2017 to an average ungeared position for the year.</p>
                 <p>The ratio of current assets to current liabilities at year-end was 1.2 times (2017: 1.1 times), indicating that working capital remains adequately funded. Other current assets include R1.5 billion in cash.</p>
@@ -463,7 +469,7 @@
                 <p>Total retail trading space is expected to increase by approximately 6% in 2019.</p>
                 <h4 class="sky-blue">Appreciation</h4>
                 <p class="margin-bottom-40px">Thank you to our local and international shareholders as well as our funding institutions for their continued support. We also thank the broader investment community for their positive engagement with management. In closing, I extend my thanks to the finance teams across the group for their commitment to constantly delivering a high standard of financial reporting.</p>
-                <img class="margin-bottom-20px" src="assets/img/signatures/p40_michael_fleming_signature.svg" alt="Michael Fleming" style="width: 150px;">
+                <img class="margin-bottom-20px" src="assets/img/signatures/p40_michael_fleming_signature.svg" alt="Michael Fleming" style="width: 80px;">
                 <p class="margin-bottom-0"><b>Michael Fleming</b></p>
                 <p>Chief financial officer</p>
             </div>

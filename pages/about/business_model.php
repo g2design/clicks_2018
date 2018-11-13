@@ -43,14 +43,16 @@
                 </blockquote>
                 <div class="row margin-bottom-20px">
                     <div class="col-4 d-flex">
-                        <div class="light-blue-bg arrow box-padding">
+                        <div class="light-blue-bg box-padding">
+                            <img class="arrow" src="assets/img/about/p17_triangle.png" alt="Arrow">
                             <h4 class="margin-bottom-10px"><b>Centralised supply chain</b></h4>
                             <p>Centralised supply from company-owned distribution centres to all retail stores.</p>
                             <p>UPD provides an integrated healthcare supply chain channel for Clicks, with national coverage and up to twice daily delivery.</p>
                         </div>
                     </div>
                     <div class="col-4 d-flex">
-                        <div class="light-blue-bg arrow box-padding">
+                        <div class="light-blue-bg box-padding">
+                            <img class="arrow" src="assets/img/about/p17_triangle.png" alt="Arrow">
                             <h4 class="margin-bottom-10px"><b>Information technology</b></h4>
                             <p class="margin-bottom-0">Bespoke and proprietary systems which enable the following:</p>
                             <ul>
@@ -63,7 +65,8 @@
                         </div>
                     </div>
                     <div class="col-4 d-flex">
-                        <div class="light-blue-bg arrow box-padding">
+                        <div class="light-blue-bg box-padding">
+                            <img class="arrow" src="assets/img/about/p17_triangle.png" alt="Arrow">
                             <h4 class="margin-bottom-10px"><b>Motivated and skilled people</b></h4>
                             <p>Values-driven culture with equitable reward and recognition mechanisms.</p>
                             <p>Investment in training and development.</p>

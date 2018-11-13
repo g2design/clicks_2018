@@ -642,19 +642,12 @@ main .reward-value thead tr td.remove-padding, main .reward-value thead tr th.re
   margin-top: -100px;
   margin-right: 20px; }
 
-.business-model .arrow:before {
-  content: "";
-  width: 0;
-  height: 0;
-  border-left: 70px solid transparent;
-  border-right: 70px solid transparent;
-  border-bottom: 20px solid #e2f3fb;
-  position: absolute;
-  left: 50%;
-  -webkit-transform: translatex(-50%);
-      -ms-transform: translatex(-50%);
-          transform: translatex(-50%);
-  bottom: 100%; }
+.business-model .light-blue-bg {
+  position: relative; }
+  .business-model .light-blue-bg .arrow {
+    position: absolute;
+    bottom: 100%;
+    left: 0; }
 
 .material-issues .number {
   position: relative;

@@ -748,7 +748,7 @@ main {
 			left: 50%;
 			transform: translateX(-50%);
 			padding: 5px 13px;
-			min-width: 250px;
+			min-width: 300px;
 			text-align: center;
 		}
 		&.share-ownership {
@@ -763,11 +763,30 @@ main {
 				padding-top: 40px;
 			}
 		}
-		&.employment-equity, &.helping-hand {
+		&.employment-equity, &.helping-hand, &.charitable-causes {
 			margin-top: 60px;
 			padding-top: 60px;
 			@media screen and (min-width: 1200px){
 				padding-top: 40px;
+			}
+		}
+		&.helping-hand {
+			position: relative;
+			img {
+				width: 180px;
+				position: absolute;
+				left: 67px;
+				bottom: -45px;
+			}
+		}
+		&.charitable-causes {
+			position:relative; 
+			img {
+				position: absolute;
+				width: 130px;
+				z-index: 2;
+				left: -40px;
+				bottom: -55px;
 			}
 		}
 	}

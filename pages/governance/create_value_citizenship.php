@@ -140,8 +140,8 @@
                     <div class="dash"></div>
                 </div>
 
-                <div class="light-blue-bg box-padding medium-content-padding blue-header text-center margin-bottom-40px helping-hand">
-                    <img src="" alt="">
+                <div class="light-blue-bg box-padding medium-content-padding blue-header text-center margin-bottom-60px helping-hand">
+                    <img src="assets/img/governance/p64_helping_hands_trust.png" alt="Helping Hands">
                     <h2 class="heading-3 white text-uppercase dark-blue-bg heading">Clicks helping hand trust</h2>
                     <h3 class="margin-bottom-20px">The trust aims to benefit the lives of ordinary South Africans by offering free preventative testing and wellness services through the footprint of over 200 Clicks clinics countrywide.</h3>
                     <div class="row">
@@ -157,9 +157,53 @@
                         </div>
                     </div>
                 </div>
+
                 <img class="float-left" src="assets/img/play.png" alt="Play">
                 <h5 class="padding-top-5px">View Clicks Helping Hand Trust video at <u><a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></u></h5> 
-                <div class="dash"></div>
+                <div class="dash margin-bottom-40px"></div>
+
+                <div class="blue-header text-center box-padding charitable-causes">
+                    <img src="assets/img/governance/p6_50years_logo.png" alt="50 years">
+                    <h2 class="heading-3 white text-uppercase dark-blue-bg heading">Supporting 50 charitable causes</h2>
+                    <h3 class="margin-bottom-20px">Clicks celebrated its 50th birthday in August 2018 and to mark the occasion supported 50 local community projects.</h3>
+                    <div class="row">
+                        <div class="col-4 dark-blue-border-right d-flex align-items-center">
+                            <h3><b class="green">16 schools</b> received <b class="green">reusable sanitary pads</b> to the value of R1 million, to reduce absenteeism among schoolgirls</h3>
+                        </div>
+                        <div class="col-4 dark-blue-border-right d-flex align-items-center">
+                            <h3><b class="sky-blue">34 charitable projects</b> each received toiletries and basic essentials worth R5 000</h3>
+                        </div>
+                        <div class="col-4 d-flex align-items-center">
+                            <h3>Chapel Street Primary School in Woodstock, which adjoins the group’s head office, received R200 000 for the upgrading of bathroom facilities used by children attending the school</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="dash margin-bottom-60px"></div>
+                <div class="text-center">
+                    <h3 class="margin-bottom-60px"><span class="larger">R31.1 million</span> <b>invested in enterprise and supplier development programmes</b></h3>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-lg-6 d-flex margin-bottom-40px">
+                        <div class="light-blue-bg box-padding dark-blue-border-bottom blue-header text-center">
+                            <h2 class="heading-3 white text-uppercase dark-blue-bg heading">UPD owner-driver scheme</h2>
+                            <h3 class="margin-top-20px">UPD contracts small enterprise ownerdrivers to deliver products from UPD to Clicks, independent pharmacies, hospitals and clinics.</h3>
+                            <h3 class="sky-blue"><b class="sky-blue">66 owner-drivers</b> contracted to deliver products for UPD</h3>
+                            <h3 class="sky-blue"><b class="sky-blue">R33 million</b> paid to the driver scheme in 2018</h3>
+                            <h3 class="sky-blue">Over <b class="sky-blue">R483 million</b> paid since start of the scheme in 2003</h3>
+                            <img src="" alt="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 d-flex margin-bottom-40px">
+                        <div class="light-blue-bg box-padding dark-blue-border-bottom blue-header text-center">
+                            <h2 class="heading-3 white text-uppercase dark-blue-bg heading">The appliance bank</h2>
+                            <h3 class="margin-top-20px">The Appliance Bank forms part of the highly successful social entrepreneurship programme, The Clothing Bank. The programme equips unemployed men with technical skills to repair donated damaged household appliances and the business skills to buy and on-sell the repaired electrical appliances.</h3>
+                            <h3 class="sky-blue margin-bottom-20px"><b class="sky-blue">Clicks</b> donates all returned domestic electrical appliances to the project</h3>
+                            <img class="margin-bottom-20px" src="assets/img/governance/p65_appliance_bank_logo.png" alt="Appliance Bank" style="width: 200px;">
+                            <h3 class="sky-blue"><b class="sky-blue">119 active business owners</b></h3>
+                            <h3 class="sky-blue">Over <b class="sky-blue">86 000 appliances</b> sold by business owners, <b class="sky-blue">generating profits of R2.7 million</b></h3>
+                        </div>
+                    </div>
+                </div>  
             </div>
         </div>
     </div>

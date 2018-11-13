@@ -7,6 +7,10 @@
         <div class="row">
             <?php include '../../snippets/sidebars/sidebar_leadership.php' ?>
             <div class="col-9 col-lg-10 side-padding">
+                <div class="image-with-caption float-right margin-left-5px">
+                    <img src="assets/img/leadership/p36_michael_fleming.png" alt="Michael Fleming" style="width: 250px;">
+                    <h3 class="sky-blue-bg box-padding-smaller text-center white">Michael Fleming</h3>
+                </div>
                 <h1 class="text-uppercase">Chief financial officer's report</h1>
                 <h4 class="sky-blue">Introduction</h4>
                 <p>Clicks Group continued its strong growth momentum with robust turnover growth supported by good management of margins, expenses and working capital, and continued strong cash generation.</p>
@@ -423,9 +427,11 @@
                 <p>The ratio of shareholders’ interest to total assets increased to 38.3% (2017: 34.0%) and the average gearing level declined from 14.8% in 2017 to an average ungeared position for the year.</p>
                 <p>The ratio of current assets to current liabilities at year-end was 1.2 times (2017: 1.1 times), indicating that working capital remains adequately funded. Other current assets include R1.5 billion in cash.</p>
                 <p>The group continues to hedge direct exposures to foreign exchange rate fluctuations which impact approximately between 6% and 7% of the cost of sales in the retail business. In addition, the group hedged elements of the long-term incentive scheme for the 2018 to 2020 period. Further detail on the respective hedges and risk management is contained in <a href="">note 28 in the annual financial statements</a>.</p>
-                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“The group’s medium-term financial targets rank in the upper quartile relative to comparable global heath and beauty retailers”</em>
-                </blockquote>
+                <div class="text-center">
+                    <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom d-inline-block">
+                        <em class="sky-blue">“The group’s medium-term financial targets rank in the upper quartile <br>relative to comparable global heath and beauty retailers”</em>
+                    </blockquote>
+                </div>
                 <h5 class="margin-bottom-0"><b>Working capital</b></h5>
                 <p class="margin-bottom-40px">Working capital continues to be well managed and the group’s net working capital improved from 37 to 36 days. Trade debtor days, which relate primarily to UPD, reduced from 40 to 38 days while creditor days improved from 68 to 69 days. Inventory days moved out from 65 to 67 days owing to higher retail inventory levels to ensure stock availability. Inventory levels are expected to normalise in the new financial year. Distribution’s inventory days were unchanged from last year at 38 days.</p>
                 <div class="text-center">
@@ -445,9 +451,11 @@
                 <h4 class="sky-blue">Dividends</h4>
                 <p>The total dividend for the financial year was increased by 18.0% to 380 cents per share (2017: 322 cents), based on an increased dividend payout ratio of 62% (2017: 60%) of HEPS. This comprises the interim dividend of 102.5 cents (2017: 88 cents) and a final dividend of 277.5&nbsp;cents&nbsp;(2017:&nbsp;234&nbsp;cents).</p>
                 <p>A dividend of 38.0 cents per “A” share (2017: 32.2 cents) was declared for participants in the employee share ownership programme.</p>
-                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“The group plans to invest between R650 million and R700 million per year for the next&nbsp;three&nbsp;years”</em>
-                </blockquote>
+                <div class="text-center">
+                    <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom d-inline-block">
+                        <em class="sky-blue">“The group plans to invest between R650 million and R700 million per year <br>for the next&nbsp;three&nbsp;years”</em>
+                    </blockquote>
+                </div>
                 <h4 class="sky-blue">Information technology</h4>
                 <p>Management aims to ensure IT systems and infrastructure are well maintained and remain relevant to future needs of the business.</p>
                 <p>Key areas of focus in the financial year included improving the customer loyalty management system, master data management projects and planning for the replacement of legacy IT systems.</p>
@@ -465,7 +473,6 @@
                     </li>
                 </ul>
                 <p>The group plans to spend between R650 million and R700 million per annum for the next three years to support the expansion of the Clicks store footprint, increase efficiency in the distribution centres and invest in IT tools and systems.</p>
-                <img class="float-right hidden-md-down michael" src="assets/img/leadership/p36_michael_fleming.png" alt="Michael Fleming" style="width: 350px;">
                 <p>Total retail trading space is expected to increase by approximately 6% in 2019.</p>
                 <h4 class="sky-blue">Appreciation</h4>
                 <p class="margin-bottom-40px">Thank you to our local and international shareholders as well as our funding institutions for their continued support. We also thank the broader investment community for their positive engagement with management. In closing, I extend my thanks to the finance teams across the group for their commitment to constantly delivering a high standard of financial reporting.</p>

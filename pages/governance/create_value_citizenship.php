@@ -11,7 +11,7 @@
                 <div class="row margin-bottom-40px">
                     <div class="col-10 offset-1 col-lg-8 offset-lg-2 text-center">
                         <div class="dash"></div>
-                        <img class="margin-bottom-20px" src="assets/img/about/p3_ftse4good_logo.png" alt="FTSE4Good Index" style="max-width: 120px;">
+                        <img class="margin-bottom-20px" src="assets/img/about/p3_ftse4good_logo.png" alt="FTSE4Good Index" style="max-width: 100px;">
                         <h3>Constituent of the <br><b class="larger">FTSE4Good Index</b>, <br>recognising strong environmental, social and governance practices measured against global standards</h3>
                         <div class="dash"></div>
                         <h3>Qualified for inclusion in the <br><b class="larger">FTSE/JSE Responsible Investment Top 30 Index</b> <br>which acknowledges South African companies with leading environmental, social and governance practices</h3>
@@ -42,9 +42,10 @@
                     </div>
                 </div>
 
-                <img class="float-left" src="assets/img/governance/p61_pharmacy_icon.png" alt="Pharmacy" style="width: 60px;">
-                <h3 class="margin-bottom-20px"><span class="larger xl green">2 818</span> pharmacy and clinic professionals across&nbsp;Clicks</h3>
-                <h2 class="green margin-bottom-40px"><b class="green">Largest employer</b> of pharmacy staff in the private sector</h2>
+                <div class="text-center">
+                    <h3 class="margin-bottom-20px d-flex align-items-center justify-content-center"><span class="larger xl green margin-right-5px"><img class="float-left" src="assets/img/governance/p61_pharmacy_icon.png" alt="Pharmacy" style="width: 60px;">2 818</span> pharmacy and clinic professionals across&nbsp;Clicks</h3>
+                    <h2 class="green margin-bottom-60px"><b class="green">Largest employer</b> of pharmacy staff in the private sector</h2>
+                </div>
 
                 <div class="row">
                     <div class="col-12 col-lg-6 d-flex margin-bottom-40px">
@@ -109,6 +110,8 @@
                     </div>
                 </div>
 
+                <div class="dash"></div>
+
                 <div class="blue-header text-center box-padding employment-equity">
                     <h2 class="heading-3 white text-uppercase dark-blue-bg heading">Employment equity and diversity</h2>
                     <h3 class="margin-bottom-20px">Clicks Group is committed to creating a diverse workforce by attracting and developing previously disadvantaged people, women and employees with disabilities.</h3>
@@ -118,7 +121,7 @@
                     <h3><b>Board race and gender diversity policy targets exceeded</b></h3>
                 </div>
 
-                <div class="dash margin-bottom-40px"></div>
+                <div class="dash margin-bottom-60px margin-top-0"></div>
                 <div class="light-blue-bg box-padding medium-content-padding blue-header text-center dark-blue-border-bottom margin-bottom-40px">
                     <h2 class="heading-3 white text-uppercase dark-blue-bg heading">Skills development</h2>
                     <h3 class="heading-2 margin-bottom-20px"><b>R125 million</b> invested in training and development in 2018</h3>
@@ -136,7 +139,7 @@
                 <div class="text-center">
                     <h2 class="heading-1 text-uppercase">Investing in our <span class="sky-blue larger xl"><br>community</span></h2>
                     <h3 class="margin-bottom-20px">Clicks Group continues to demonstrate its commitment to making a sustainable contribution to the communities in which it trades. This is achieved through both enterprise development, by accelerating the sustainability and financial independence of black enterprises, as well as social investment through financial and product donations to non-profit organisations and initiatives.</h3>
-                    <h3><span class="green larger xl">R18.4 million</span> <br>invested in <b>socio-economic development</b> projects aligned to the group’s focus on health and well-being</h3>
+                    <h3><span class="green larger xl">R18.4 million</span> <br>invested in <b>socio-economic development</b> projects aligned to the group’s focus on <br>health&nbsp;and&nbsp;well-being</h3>
                     <div class="dash"></div>
                 </div>
 
@@ -145,21 +148,24 @@
                     <h2 class="heading-3 white text-uppercase dark-blue-bg heading">Clicks helping hand trust</h2>
                     <h3 class="margin-bottom-20px">The trust aims to benefit the lives of ordinary South Africans by offering free preventative testing and wellness services through the footprint of over 200 Clicks clinics countrywide.</h3>
                     <div class="row">
-                        <div class="col-6 dark-blue-border-right">
+                        <div class="col-6 dark-blue-border-right text-left">
                             <h3><b>212 000</b> lives positively impacted over past six years</h3>
                             <h3><b>Mom and baby</b> wellness and family services have reached over 92 000 families</h3>
                             <h3><b>HIV testing</b> provided to over 58 000 South Africans through a campaign to encourage individuals to know their HIV status</h3>
                         </div>
-                        <div class="col-6">
-                            <h3><b>Heart disease</b> testing for more than 82 000 people to encourage healthier lifestyle choices</h3>
+                        <div class="col-6 text-left">
+                            <h3><b>Heart disease</b> testing for more than 82 000 people to encourage healthier lifestyle&nbsp;choices</h3>
                             <h3><b>Diabetes</b> testing and education for over 72 000 people on the prevention and early detection of the disease</h3>
                             <h3><b>Girls on the Go</b> campaign has provided reusable and washable sanitary pads to over 18 000 schoolgirls</h3>
                         </div>
                     </div>
                 </div>
-
-                <img class="float-left" src="assets/img/play.png" alt="Play">
-                <h5 class="padding-top-5px">View Clicks Helping Hand Trust video at <u><a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></u></h5> 
+                <div class="text-center">
+                    <h5 class="d-flex align-items-center justify-content-center">
+                        <img class="float-left" src="assets/img/play.png" alt="Play">
+                        View Clicks Helping Hand Trust video at <u class="margin-left-5px"><a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></u>
+                    </h5> 
+                </div>
                 <div class="dash margin-bottom-40px"></div>
 
                 <div class="blue-header text-center box-padding charitable-causes">
@@ -167,13 +173,13 @@
                     <h2 class="heading-3 white text-uppercase dark-blue-bg heading">Supporting 50 charitable causes</h2>
                     <h3 class="margin-bottom-20px">Clicks celebrated its 50th birthday in August 2018 and to mark the occasion supported 50 local community projects.</h3>
                     <div class="row">
-                        <div class="col-4 dark-blue-border-right d-flex align-items-center">
+                        <div class="col-4 dark-blue-border-right d-flex align-items-center text-left">
                             <h3><b class="green">16 schools</b> received <b class="green">reusable sanitary pads</b> to the value of R1 million, to reduce absenteeism among schoolgirls</h3>
                         </div>
-                        <div class="col-4 dark-blue-border-right d-flex align-items-center">
+                        <div class="col-4 dark-blue-border-right d-flex align-items-center text-left">
                             <h3><b class="sky-blue">34 charitable projects</b> each received toiletries and basic essentials worth R5 000</h3>
                         </div>
-                        <div class="col-4 d-flex align-items-center">
+                        <div class="col-4 d-flex align-items-center text-left">
                             <h3>Chapel Street Primary School in Woodstock, which adjoins the group’s head office, received R200 000 for the upgrading of bathroom facilities used by children attending the school</h3>
                         </div>
                     </div>
@@ -189,8 +195,8 @@
                             <h3 class="margin-top-20px">UPD contracts small enterprise ownerdrivers to deliver products from UPD to Clicks, independent pharmacies, hospitals and clinics.</h3>
                             <h3 class="sky-blue"><b class="sky-blue">66 owner-drivers</b> contracted to deliver products for UPD</h3>
                             <h3 class="sky-blue"><b class="sky-blue">R33 million</b> paid to the driver scheme in 2018</h3>
-                            <h3 class="sky-blue">Over <b class="sky-blue">R483 million</b> paid since start of the scheme in 2003</h3>
-                            <img src="" alt="">
+                            <h3 class="sky-blue margin-bottom-20px">Over <b class="sky-blue">R483 million</b> paid since start of the scheme in 2003</h3>
+                            <img src="assets/img/governance/p65_upd.jpg" alt="UPD">
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 d-flex margin-bottom-40px">

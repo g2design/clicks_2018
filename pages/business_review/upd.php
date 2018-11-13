@@ -19,9 +19,13 @@
                 <h5 class="padding-top-5px">View centralised distribution video at <u><a href="https://www.clicksgroup.co.za/" target="_blank">www.clicksgroup.co.za</a></u></h5> 
                 <p class="margin-top-20px">UPD maintained its market-leading positions in both the pharmaceutical wholesale and bulk distribution markets as the business gained market share, secured new distribution clients and reported ongoing excellent control of inventory and costs.</p>
                 <p>Turnover increased by 8.4% and UPD maintained its operating margin at 2.7% despite the low increase of 1.26% in the regulated single exit price (SEP) of medicines, compared to 7.5% in the previous year.</p>
-                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“Clicks remains UPD’s largest single customer, accounting for 54.5% of wholesale turnover”</em>
-                </blockquote>
+                <div class="row">
+                    <div class="text-center col-12 col-lg-8 offset-lg-2">
+                        <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom d-inline-block">
+                            <em class="sky-blue">“Clicks remains UPD’s largest single customer, accounting for 54.5% of wholesale turnover”</em>
+                        </blockquote>
+                    </div>
+                </div>
                 <p>UPD’s total managed turnover, combining fine wholesale turnover with the turnover managed on behalf of bulk distribution clients, increased by 8.9% to R17.9 billion.</p>
                 <div class="text-center margin-top-20px margin-bottom-20px">
                     <img src="assets/img/business_review/p51_wholesale_turnover_graph.png" alt="Wholesale turnover" style="width: 400px;">
@@ -33,9 +37,13 @@
                 <p>In addition to the ongoing margin pressure from the faster growth in lower-priced generics, UPD also encountered headwinds from the lower incidence of colds and flu in the second half of the year. Sales of generic medication increased by 13.2% and now account for 69% of wholesale turnover volume.</p>
                 <p>As UPD has a high fixed cost base management continuously seeks ways to off-set margin pressure by extracting efficiencies across all aspects of the operations, including inventory management, labour productivity and transport optimisation.</p>
                 <p>UPD owns its five distribution centres located in Gauteng (Lea Glen), Cape Town, Durban, Bloemfontein and Port Elizabeth. Distribution capacity has been increased by approximately 30% following the expansion of the Cape Town distribution centre, which was completed in February 2018 at a cost of R30 million and the reorganisation of the Lea Glen facility. All the distribution centres are ISO9001:2015 certified. UPD won a gold award at the 2018 logistics achiever awards which recognises excellence in supply chain and logistics.</p>
-                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“UPD gained three new distribution contracts and at year-end managed a portfolio of 23&nbsp;distribution&nbsp;clients”</em>
-                </blockquote>
+                <div class="row">
+                    <div class="text-center col-12 col-lg-8 offset-lg-2">
+                        <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom d-inline-block">
+                            <em class="sky-blue">“UPD gained three new distribution contracts and at year-end managed a portfolio of 23&nbsp;distribution&nbsp;clients”</em>
+                        </blockquote>
+                    </div>
+                </div>
                 <p>Product availability, which is core to offering superior range and service to customers, averaged 95% for the year while on-time deliveries were 99%.</p>
                 <p>Through its distribution business UPD offers local and international, generic and originator pharma manufacturers an efficient and cost-effective supply chain solution. UPD gained three new distribution contracts and at year-end managed a portfolio of 23 distribution clients.</p>
                 <h4 class="sky-blue">Outlook for 2019</h4>

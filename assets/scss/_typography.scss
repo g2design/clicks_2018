@@ -21,6 +21,10 @@ h4, .heading-4 {
     line-height: 29px;
     font-weight: 300;
     margin-bottom: 20px;
+    .xl {
+        font-size: 45px !important;
+        line-height: 50px !important;
+    }
 }
 
 p, .p {
@@ -77,6 +81,10 @@ img {
         text-transform: uppercase;
         font-weight: 400;
         letter-spacing: 0.5px;
+        .xl {
+            font-size: 55px;
+            line-height: 60px;
+        }
     }
     h5, .heading-5 {
         font-size: 16px;
@@ -88,14 +96,14 @@ img {
         line-height: 21px;
     }
     ul {
-		padding-left: 15px;
+		padding-left: 20px;
         list-style: disc;
         margin-top: 2px;
         margin-bottom: 12px;
 		li {
             font-size: 14px;
             line-height: 21px;
-            padding: 2px 0;
+            padding: 3px 0;
 			ul {
 				list-style: none;
 				margin-left: 0;

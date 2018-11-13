@@ -22,9 +22,13 @@
                 <h4 class="sky-blue">Sales performance</h4>
                 <p>Clicks has been synonymous with value retailing since its founding 50 years ago and value is particularly relevant to cash-strapped customers in the current challenging economic climate. Clicks continues to invest to offer great everyday pricing and this is supported by an active promotions strategy, centred around the brand’s well-known 3 for 2 offers. Promotional sales increased by 14.7% and accounted for 35.0% of turnover in Clicks.</p>
                 <p>Pharmacy sales grew by 13.2% and comprised 30.8% of turnover. Growth was impacted by the poor winter season for colds and flu which depressed medicine sales as well as the low SEP increase relative to the previous year. Clicks continued to grow ahead of the market and increased its share of the retail pharmacy market from 22.1% to 23.3%.</p>
-                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“Clicks has been synonymous with value retailing since its founding 50 years ago”</em>
-                </blockquote>
+                <div class="row">
+                    <div class="text-center col-12 col-lg-8 offset-lg-2">
+                        <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom d-inline-block">
+                            <em class="sky-blue">“Clicks has been synonymous with value retailing since its founding 50 years ago”</em>
+                        </blockquote>
+                    </div>
+                </div>
                 <p>Front shop health was the fastest-growing category with sales increasing by 14.1%, supported by the robust performances of GNC (up 19.5%), first aid (up 21.5%) and baby (up 19.6%). The baby sub-category is strategically important in attracting new customers and grew market share from 13.7% to 15.1%.</p>
                 <p>Beauty and personal care sales grew by 7.6%. Owing to the limited product innovation in these categories, promotional activity was key to driving volume growth. The best-performing sub-categories were ethnic haircare, gifting and The Body Shop range which has been extended into a further 48 Clicks stores.</p>
                 <table class="margin-bottom-10px">
@@ -164,17 +168,25 @@
                 </table>
                 <h4 class="sky-blue">Extending convenience</h4>
                 <p>Clicks opened a record 41 new stores and increased the brand’s footprint to 663 stores at year-end. The store opening programme was accelerated beyond the targeted 25 to 30 stores owing to opportunities arising for new space in existing shopping centres.</p>
-                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“The Clicks online store generated sales equivalent to a medium-sized Clicks store”</em>
-                </blockquote>
+                <div class="row">
+                    <div class="text-center col-12 col-lg-8 offset-lg-2">
+                        <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom d-inline-block">
+                            <em class="sky-blue">“The Clicks online store generated sales equivalent to a medium-sized Clicks store”</em>
+                        </blockquote>
+                    </div>
+                </div>
                 <p>The Clicks footprint includes 33 stores in neighbouring Namibia (21 stores), Swaziland (four stores), Botswana (seven stores) and Lesotho (one store).</p>
                 <p>During the year 55 stores across the chain were extended or refurbished to ensure the stores remain modern and appealing to customers.</p>
                 <p>Clicks is South Africa’s largest retail pharmacy chain and extended its network to 510 with the opening of 37 in-store pharmacies. The number of clinics was increased from 195 to 203.</p>
                 <p>Clicks was once again ranked first in the pharmacy category in the annual Ask Afrika Orange Index service excellence survey.</p>
                 <p>The Clicks online store further enhances customer convenience, offering the full product range available in large Clicks stores. The offer is being extended to include online only ranges, with prestige beauty being the first of these ranges. Customers can select home delivery or the “click and collect” in store service, which is also driving incremental spending in stores. The online store has performed well in the past year and generated sales equivalent to a medium-sized Clicks store.</p>
-                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“ClubCard attracted over 800 000 new members, bringing total active membership to 7.8 million”</em>
-                </blockquote>
+                <div class="row">
+                    <div class="text-center col-12 col-lg-8 offset-lg-2">
+                        <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom d-inline-block">
+                            <em class="sky-blue">“ClubCard attracted over 800 000 new members, bringing total active membership to 7.8 million”</em>
+                        </blockquote>
+                    </div>
+                </div>
                 <h4 class="sky-blue">Engaging customers</h4>
                 <p>ClubCard is integral to the Clicks digital customer engagement strategy which aims to complement the store experience and enables Clicks to better understand and engage with customers, and influence the behaviour of shoppers.</p>
                 <p>ClubCard is South Africa’s most popular loyalty programme and attracted over 800 000 new members in the past year, bringing total active membership to 7.8 million. ClubCard members accounted for 77.2% of sales in Clicks and R442 million was returned to customers in cashback.</p>
@@ -186,9 +198,13 @@
                 <p>Sales of private label products accounted for 22% of total sales in Clicks, with front shop sales at 28.2% and pharmacy 5.6%.</p>
                 <h4 class="sky-blue">Improving customer care</h4>
                 <p>Clicks continues to invest in improving customer care to enhance the in-store experience and ensure customers are served by friendly and knowledgeable staff. In the past year R102 million was invested in staff training and development across store managers, pharmacists, pharmacy assistants and front shop staff, including beauty advisers.</p>
-                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“Clicks has invested over R27 million in pharmacy bursaries in the past six years”</em>
-                </blockquote>
+                <div class="row">
+                    <div class="text-center col-12 col-lg-8 offset-lg-2">
+                        <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom d-inline-block">
+                            <em class="sky-blue">“Clicks has invested over R27 million in pharmacy bursaries in the past six years”</em>
+                        </blockquote>
+                    </div>
+                </div>
                 <p>As the largest employer of pharmacy staff in the private sector with over 2 800 pharmacy and clinic professionals, Clicks is actively building capacity through the Pharmacy Healthcare Academy and providing financial support to address the critical shortage of pharmacists.</p>
                 <p>Clicks awarded 83 bursaries to pharmacy students in 2018 and has invested over R27 million in bursaries in the past six years. During the year 359 pharmacy assistants were enrolled and 70 pharmacy internships awarded.</p>
                 <p>The store operations learnership programme attracted 122 trainee managers while 20 graduates completed the retail graduate development programme.</p>

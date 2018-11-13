@@ -19,6 +19,9 @@ h4, .heading-4 {
   line-height: 29px;
   font-weight: 300;
   margin-bottom: 20px; }
+  h4 .xl, .heading-4 .xl {
+    font-size: 45px !important;
+    line-height: 50px !important; }
 
 p, .p {
   font-size: 16px;
@@ -63,6 +66,9 @@ img {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 0.5px; }
+  .content-styling h4 .xl, .content-styling .heading-4 .xl {
+    font-size: 55px;
+    line-height: 60px; }
 
 .content-styling h5, .content-styling .heading-5 {
   font-size: 16px;
@@ -74,14 +80,14 @@ img {
   line-height: 21px; }
 
 .content-styling ul {
-  padding-left: 15px;
+  padding-left: 20px;
   list-style: disc;
   margin-top: 2px;
   margin-bottom: 12px; }
   .content-styling ul li {
     font-size: 14px;
     line-height: 21px;
-    padding: 2px 0; }
+    padding: 3px 0; }
     .content-styling ul li ul {
       list-style: none;
       margin-left: 0;
@@ -739,8 +745,8 @@ main .reward-value thead tr td.remove-padding, main .reward-value thead tr th.re
       position: absolute;
       width: 130px;
       z-index: 2;
-      left: -40px;
-      bottom: -55px; }
+      right: -35px;
+      bottom: -95px; }
 
 .side-buttons {
   display: none;
@@ -913,6 +919,9 @@ footer {
 .box-padding {
   padding: 20px; }
 
+.box-padding-smaller {
+  padding: 5px 10px; }
+
 .float-left {
   margin-right: 5px; }
 
@@ -927,6 +936,9 @@ footer {
 .large-content-padding {
   padding-top: 60px;
   padding-bottom: 60px; }
+
+.sub-content {
+  padding-left: 20px; }
 
 @media screen and (min-width: 992px) {
   .side-padding {
@@ -947,6 +959,12 @@ footer {
 
 .margin-top-0 {
   margin-top: 0 !important; }
+
+.margin-left-5px {
+  margin-left: 5px; }
+
+.margin-right-5px {
+  margin-right: 5px; }
 
 .margin-top-10px {
   margin-top: 10px; }

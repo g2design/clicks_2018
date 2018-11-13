@@ -13,9 +13,11 @@
                 </blockquote>
                 <h3 class="margin-bottom-20px">Effective governance leads to value creation through improved reporting to shareholders, greater transparency and disclosure, improved quality of management reporting to the board and enhanced accountability to shareholders.</h3>
                 <p>We note the heightened focus on governance among local and international investors in the wake of high-profile corporate failures and welcome the opportunity to engage with shareholders on the group’s governance philosophy, processes and practices. We believe the group’s governance practices are robust and this is confirmed in leading independent assessments of governance standards.</p>
-                <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“The group’s approach to governance extends beyond regulatory compliance, with open, frank and balanced disclosure being at the foundation of our governance framework”</em>
-                </blockquote>
+                <div class="text-center">
+                    <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom d-inline-block">
+                        <em class="sky-blue">“The group’s approach to governance extends beyond <br>regulatory compliance, with open, frank and balanced disclosure <br>being at the foundation of our governance framework”</em>
+                    </blockquote>
+                </div>
                 <p>Throughout this report we aim to demonstrate in a balanced manner how the group’s health, beauty and wellness strategy creates value for shareholders while balancing our responsibilities towards our other stakeholders.</p>
                 <p>The integrated report is aimed at our shareholders who are our primary providers of capital. We also recognise the role of other key stakeholders in creating value, namely our customers, staff, suppliers, industry regulators and funding institutions.</p>
                 <p>The King IV Report on Corporate Governance (King lV) has been applied throughout the 2018 financial year and the directors confirm that the group has in all material respects voluntarily applied the principles of the new code. The application of King IV is covered in the corporate governance report 2018 which is available on our website.</p>

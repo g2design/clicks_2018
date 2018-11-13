@@ -34,7 +34,7 @@
                 <p>As UPD has a high fixed cost base management continuously seeks ways to off-set margin pressure by extracting efficiencies across all aspects of the operations, including inventory management, labour productivity and transport optimisation.</p>
                 <p>UPD owns its five distribution centres located in Gauteng (Lea Glen), Cape Town, Durban, Bloemfontein and Port Elizabeth. Distribution capacity has been increased by approximately 30% following the expansion of the Cape Town distribution centre, which was completed in February 2018 at a cost of R30 million and the reorganisation of the Lea Glen facility. All the distribution centres are ISO9001:2015 certified. UPD won a gold award at the 2018 logistics achiever awards which recognises excellence in supply chain and logistics.</p>
                 <blockquote class="smaller dark-blue-border-top dark-blue-border-bottom">
-                    <em class="sky-blue">“UPD gained three new distribution contracts and at year-end managed a portfolio of 23 distribution clients”</em>
+                    <em class="sky-blue">“UPD gained three new distribution contracts and at year-end managed a portfolio of 23&nbsp;distribution&nbsp;clients”</em>
                 </blockquote>
                 <p>Product availability, which is core to offering superior range and service to customers, averaged 95% for the year while on-time deliveries were 99%.</p>
                 <p>Through its distribution business UPD offers local and international, generic and originator pharma manufacturers an efficient and cost-effective supply chain solution. UPD gained three new distribution contracts and at year-end managed a portfolio of 23 distribution clients.</p>
@@ -75,6 +75,15 @@
                     </div>
                     <div class="col-4">
                         <h5 class="sky-blue">Plans and targets for 2019</h5>
+                    </div>
+                    <div class="col-4">
+                        <p>Increase market share to 26.0%</p>
+                    </div>
+                    <div class="col-4">
+                        <p>Market share increased to 26.0%</p>
+                    </div>
+                    <div class="col-4">
+                       <p>Increase market share to 26.5%</p>
                     </div>
                     <div class="col-4">
                         <p>Maintain volume of business with private hospital groups</p>

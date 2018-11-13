@@ -35,9 +35,9 @@
                     </colgroup>
                     <thead>
                         <tr>
-                            <th class="border-bottom-thin bottom">Health and beauty sales*</th>
-                            <th class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">% increase</b></th>
-                            <th class="border-bottom-thin bottom text-right">% contribution to sales</th>
+                            <td class="border-bottom-thin bottom">Health and beauty sales*</td>
+                            <td class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">% increase</b></td>
+                            <td class="border-bottom-thin bottom text-right">% contribution to sales</td>
                         </tr>
                     </thead>
                     <tbody>
@@ -89,9 +89,9 @@
                     </colgroup>
                     <thead>
                         <tr>
-                            <th class="border-bottom-thin bottom">Market share (%)</th>
-                            <th class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">2018</b></th>
-                            <th class="border-bottom-thin bottom text-right">2017</th>
+                            <td class="border-bottom-thin bottom">Market share (%)</td>
+                            <td class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">2018</b></td>
+                            <td class="border-bottom-thin bottom text-right">2017</td>
                         </tr>
                     </thead>
                     <tbody>
@@ -506,7 +506,7 @@
                                     <p>Phase 1 completed, adding 14 200 m<sup>2</sup></p>
                                 </div>
                                 <div class="col-4">
-                                    <p>Phase 2 to be completed September 2019, adding 6 700m<sup>2</sup></p>
+                                    <p>Phase 2 to be completed September 2019, adding 6&nbsp;700m<sup>2</sup></p>
                                 </div>
                             </div>
                         </div>

@@ -39,7 +39,7 @@
                     <div class="col-7 col-lg-8 d-flex flex-column justify-content-center">
                         <h3>Capacity to expand convenient retail footprint and pharmacy network</h3>
                         <ul>
-                            <li>The goal is to expand the Clicks store base in South Africa to 900 in the longterm, with a pharmacy operating in every store.</li>
+                            <li>The goal is to expand the Clicks store base in South Africa to 900 in the long-term, with a pharmacy operating in every store.</li>
                             <li>The retail pharmacy market share goal is 30% in the long term.</li>
                             <li>Primary care clinics in Clicks stores support the health service offering.</li>
                             <li>The retail footprint is complemented by an online store and a national pharmacy delivery service model to increase customer convenience.</li>
@@ -74,7 +74,7 @@
                     <div class="col-7 col-lg-8 d-flex flex-column justify-content-center">
                         <h3>Leveraging customer engagement</h3>
                         <ul>
-                            <li>Clicks ClubCard is one of the largest retail loyalty programmes in South Africa with 7.8 million active members.</li>
+                            <li>Clicks ClubCard is one of the largest retail loyalty programmes in South Africa with 7.8&nbsp;million active members.</li>
                             <li>ClubCard offers customers attractive and convenient cashback rewards and a range of affinity partner benefits.</li>
                             <li>Clicks has extensive opportunities to use digital engagement through the Clicks ClubCard, website, online store and the Clicks app to personalise communication to increase the customer basket size and value, and frequency of shopping.</li>
                         </ul>

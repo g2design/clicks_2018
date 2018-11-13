@@ -634,7 +634,9 @@ main .reward-value thead tr td.remove-padding, main .reward-value thead tr th.re
     font-size: 15px;
     line-height: 20px;
     padding: 10px 30px;
-    display: inline-block; }
+    display: inline-block;
+    min-width: 220px;
+    text-align: center; }
 
 .group-profile .neg-top-margin {
   margin-top: -100px;

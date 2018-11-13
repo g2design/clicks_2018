@@ -12,7 +12,7 @@
                     <em>Clicks Group’s strategy is realised through a value-creating, retail-led business model which appeals to the group’s predominantly female, middle to upper-income customer base.</em>
                 </blockquote>
                 <div class="box-padding light-grey-bg">
-                    <img class="margin-bottom-10px" src="assets/img/about/p17_flow_graph.png" alt="Flow graph">
+                    <img class="margin-bottom-10px width-100" src="assets/img/about/p17_flow_graph.png" alt="Flow graph">
                     <div class="row">
                         <div class="col-12 col-lg">
                             <img src="assets/img/play.png" alt="">
@@ -28,7 +28,7 @@
                         </div>
                         <div class="col-12 col-lg">
                             <img src="assets/img/play.png" alt="">
-                            <p>Extensive store and pharmacy network allowing for easy access to customers. Stores cover both destination and convenience formats. Edited ranges add to the convenience of shopping. The retail footprint is complemented by an online store offering instore or home delivery.</p>
+                            <p>Extensive store and pharmacy network allowing for easy access to customers. Stores cover both destination and convenience formats. Edited ranges add to the convenience of shopping. The retail footprint is complemented by an online store offering in-store or home delivery.</p>
                         </div>
                         <div class="col-12 col-lg">
                             <img src="assets/img/play.png" alt="">
@@ -45,7 +45,7 @@
                     <div class="col-4 d-flex">
                         <div class="light-blue-bg arrow box-padding">
                             <h4 class="margin-bottom-10px"><b>Centralised supply chain</b></h4>
-                            <p>Centralised supply from company owned distribution centres to all retail stores.</p>
+                            <p>Centralised supply from company-owned distribution centres to all retail stores.</p>
                             <p>UPD provides an integrated healthcare supply chain channel for Clicks, with national coverage and up to twice daily delivery.</p>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                 <img src="assets/img/about/p17_arrow.svg" alt="Arrow">
                 <blockquote class="smaller-margin">
                     <em>Through the successful execution of this business model the group aims to create sustainable value for shareholders and other key stakeholders.</em>
-                    <p class="margin-top-10px">The value created in the past financial year is outlined <a href="">here</a>.</p>
+                    <p class="margin-top-10px">The value created in the past financial year is outlined in <a href="<?php echo $baseUrl; ?>pages/about/creating_value">creating value in 2018.</a>.</p>
                 </blockquote>
             </div>
         </div>

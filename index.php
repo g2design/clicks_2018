@@ -343,103 +343,115 @@
 				</div>
 				<div class="col-12">
 					<div class="clicks-slider margin-bottom-20px">
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/clicks_gallery.jpg);">
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery.jpg);">
 							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/beauty_gallery.jpg);">
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery2.jpg);">
 							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery3.jpg);">
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery3.jpg);">
 							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery4.jpg);">
-							<p class="white">Sorbet is one of our exclusive brands in partnership with Sorbet salons, South Africa’s leading beauty salon brand.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery4.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery5.jpg);">
-							<p class="white">The Clicks Group operates the franchise for The Body Shop in southern Africa. There are 53 standalone stores and a presence in 122 Clicks stores.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery5.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery6.jpg);">
-							<p class="white">Clicks has over 3 000 private label products.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery6.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homhomepagee/gallery/Clicks-Experience-Gallery7.jpg);">
-							<p class="white">Clicks runs more health and beauty promotions than any other retailer.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery7.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery8.jpg);">
-							<p class="white">Baby is a strategically important category to attract new customers.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery8.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery9.jpg);">
-							<p class="white">Baby is a strategically important category to attract new customers.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery9.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery10.jpg);">
-							<p class="white">We are the market leader in toiletries.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery10.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery11.jpg);">
-							<p class="white">We are the market leader in toiletries.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery11.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery12.jpg);">
-							<p class="white">GNC is our leading exclusive brand in supplements. </p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery12.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery13.jpg);">
-							<p class="white">Pharmacies are in 473 of our stores.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery13.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery14.jpg);">
-							<p class="white">We operate clinics in 195 of our stores.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery14.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery15.jpg);">
-							<p class="white">We are the market leader in small electrical appliances.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery15.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery16.jpg);">
-							<p class="white">We employ over 14 000 people in Clicks.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery16.jpg);">
+							<p class="white"></p>
+						</div>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery17.jpg);">
+							<p class="white"></p>
+						</div>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery18.jpg);">
+							<p class="white"></p>
 						</div>
 					</div>
 					<div class="clicks-nav light-grey-bg">
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery2.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery2.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery3.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery3.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery4.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery4.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery5.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery5.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery6.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery6.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery7.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery7.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery8.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery8.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery9.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery9.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery10.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery10.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery11.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery11.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery12.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery12.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery13.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery13.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery14.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery14.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery15.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery15.jpg" alt="">
 						</div>
 						<div class="nav-slide">
-							<img src="assets/img/homepage/gallery/nav/Clicks-Experience-Gallery16.jpg" alt="">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery16.jpg" alt="">
+						</div>
+						<div class="nav-slide">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery17.jpg" alt="">
+						</div>
+						<div class="nav-slide">
+							<img src="assets/img/homepage/new_gallery/nav/2018-Gallery18.jpg" alt="">
 						</div>
 					</div>
 				</div>

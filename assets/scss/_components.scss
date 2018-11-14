@@ -383,6 +383,18 @@ main {
 			&.banner-1 {
 				background-image: url(../img/homepage/banner_1.jpg);
 			}
+			&.banner-2 {
+				background-image: url(../img/homepage/Homepages-slider-images.jpg);
+			}
+			&.banner-3 {
+				background-image: url(../img/homepage/Homepages-slider-images2.jpg);
+			}
+			&.banner-4 {
+				background-image: url(../img/homepage/Homepages-slider-images3.jpg);
+			}
+			&.banner-5 {
+				background-image: url(../img/homepage/Homepages-slider-images4.jpg);
+			}
 		}
 	}
 
@@ -442,7 +454,6 @@ main {
 			img {
 				position: absolute;
 				bottom: 0;
-				max-width: 235px;
 			}
 		}
 	}
@@ -476,7 +487,7 @@ main {
 				z-index: 5;
 				width: 40px;
 				height: 40px;
-				color: white;
+				color: $dark-blue;
 				&:before {
 					content: " ";
 				}

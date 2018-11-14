@@ -18,6 +18,18 @@
 			<div class="banner banner-1 background-center">
 				
 			</div>
+			<div class="banner banner-2 background-center">
+				
+			</div>
+			<div class="banner banner-3 background-center">
+				
+			</div>
+			<div class="banner banner-4 background-center">
+				
+			</div>
+			<div class="banner banner-5 background-center">
+				
+			</div>
 		</div>
 		<div class="sky-blue-transparent-bg text-center small-content-padding">
 			<h1 class="white text-uppercase margin-bottom-0">Integrated Annual Report <br><b>2018</b></h1>
@@ -108,7 +120,9 @@
 				<a href="pages/about/creating_value" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 			</div>
 			<div class="col-6 col-lg-7">
-				<img src="assets/img/homepage/creating_value.jpg" alt="Creating value">
+				<a href="assets/img/homepage/creating_value.jpg" target="_blank" class="img-enlarge width-100">
+					<img src="assets/img/homepage/creating_value.jpg" alt="">
+				</a>
 			</div>
 		</div>
 	</section>
@@ -118,24 +132,23 @@
 			<div class="row">
 				<div class="col-12 col-lg-5 col-xl-4">
 					<h2 class="text-uppercase">Group profile</h2>
-					<h4 class="blue">Clicks Group is a retail-led healthcare group which is listed in the Food and Drug Retailers sector on the JSE.</h4>
-					<p>Founded in 1968, the group has been listed on the JSE since 1996. Following changes in South African legislation in 2003 to allow corporate pharmacy ownership, the group entered the retail pharmacy market with the opening of the first Clicks pharmacy in 2004.</p>
-					<p>The group is today a leader in the healthcare market where Clicks is the country’s largest pharmacy chain with 473 in-store pharmacies and a 22.2% share of the retail pharmacy market. UPD has a 25.6% share of the private pharmaceutical wholesale market.</p>
+					<h4 class="blue">Clicks Group is a retail-led healthcare group which is listed in the Food and Drug Retailers sector on the JSE.</h4>
+					<p>Founded 50 years ago in 1968, the group has been listed on the JSE since 1996. Following changes in South African legislation in 2003 to allow corporate pharmacy ownership, the group entered the retail pharmacy market with the opening of the first Clicks pharmacy in 2004. Today the group is a leader in the healthcare market, in both retail pharmacy and pharmaceutical wholesaling.</p>
 					<a href="pages/about/group_profile" class="btn grey-btn margin-bottom-20px">Read full report <span class="sky-blue">>></span></a>
 				</div>
 				<div class="col-12 col-lg-7 col-xl-8 d-flex flex-column align-items-center justify-content-center">
 					<img class="medium-content-padding" src="assets/img/homepage/group_profile_image1.png" alt="Group Profile">
 					<div class="row remove-flex width-100">
 						<div class="col-4 text-center d-flex flex-column align-items-center justify-content-center dark-blue-border-top dark-blue-border-bottom">
-							<p><b class="larger green">17.2%</b> <br>diluted HEPS <br>10-year CAGR</p>
+							<p><span class="larger xl green">16.0%</span> <br>diluted HEPS <br>10-year CAGR</p>
 						</div>
 						<div class="col-4 text-center d-flex flex-column align-items-center justify-content-center">
-							<div class="white-bg box-padding">
-								<p><b class="larger blue">20.9%</b> <br>dividend per share <br>10-year CAGR</p>
+							<div class="white-bg box-padding medium-content-padding">
+								<p><span class="larger xl blue">32.5%</span> <br>total shareholder return <br>10-year CAGR</p>
 							</div>
 						</div>
 						<div class="col-4 text-center d-flex flex-column align-items-center justify-content-center dark-blue-border-top dark-blue-border-bottom">
-							<p><b class="larger green">28.9%</b> <br>total shareholder return <br>10-year CAGR</p>
+							<p><span class="larger xl sky-blue">20.1%</span> <br>dividend per share <br>10-year CAGR</p>
 						</div>
 					</div>
 				</div>
@@ -173,11 +186,11 @@
 				<div class="thick-light-blue-border">
 					<div class="row">
 						<div class="col-4 col-xl-3">
-							<img src="assets/img/homepage/Chairman.png" alt="Chairman">
+							<img src="assets/img/leadership/david_nurek_cutout.png" alt="Chairman" style="width: 220px;">
 						</div>
 						<div class="col-7 col-xl-8 medium-content-padding">
 							<h3 class="heading-4 text-uppercase"><b>Chairman's Report</b></h3>
-							<p class="margin-bottom-0">In a year marked by significant political instability and uncertainty, deteriorating economic conditions and consequent credit ratings downgrades, financial pressure on South African consumers has continued to intensify. </p>
+							<p class="margin-bottom-0">In an environment of low growth, deteriorating economic conditions and constrained consumer spending, the group produced another excellent performance and entrenched its position as the country’s foremost health and beauty retailer. </p>
 							<a href="pages/leadership/chairmans_report" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 					</div>
@@ -186,22 +199,22 @@
 					<div class="row">
 						<div class="offset-1 col-7 col-xl-8 medium-content-padding">
 							<h3 class="heading-4 text-uppercase"><b>Chief Executive's Report</b></h3>
-							<p class="margin-bottom-0">Clicks delivered another strong trading performance in tough retail conditions, reporting good volume growth and increased market shares in all product categories. The brand continues to demonstrate its resilience in the current constrained spending environment, with healthcare being a necessity and beauty an affordable luxury.</p>
+							<p class="margin-bottom-0">2018 marked the 50th birthday of the founding of Clicks by visionary retailer, Jack Goldin, who opened the first store in August 1968 in the Cape Town city centre.</p>
 							<a href="pages/leadership/ceo_report" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 						<div class="col-4 col-xl-3">
-							<img src="assets/img/homepage/CEO.png" alt="CEO">
+							<img src="assets/img/leadership/david_kneale_cutout.png" alt="CEO" style="width: 250px;">
 						</div>
 					</div>
 				</div>
 				<div class="thick-light-blue-border">
 					<div class="row">
 						<div class="col-4 col-xl-3">
-							<img src="assets/img/homepage/CFO.png" alt="CFO">
+							<img src="assets/img/leadership/p36_michael_fleming.png" alt="CFO" style="width: 230px;">
 						</div>
 						<div class="col-7 col-xl-8 medium-content-padding">
 							<h3 class="heading-4 text-uppercase"><b>Chief Financial Officer's Report</b></h3>
-							<p class="margin-bottom-0">Clicks Group delivered another resilient performance in tough retail trading conditions, highlighted by robust health and beauty sales, increased margins, strong cash flows and enhanced returns to shareholders.</p>
+							<p class="margin-bottom-0">Clicks Group continued its strong growth momentum with robust turnover growth supported by good management of margins, expenses and working capital, and continued strong cash generation.</p>
 							<a href="pages/leadership/cfo_report" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 					</div>
@@ -224,11 +237,11 @@
 							<img class="margin-bottom-20px" src="assets/img/upd.png" alt="UPD logo" style="width: 220px;">
 						</div>
 						<div class="col-6 dark-blue-border-right text-center d-flex flex-column justify-content-between align-items-center">
-							<p class="margin-bottom-0 width-100">“Clicks produced another strong trading performance, led by pharmacy and front shop health sales. Customers continued to respond positively to the Clicks value promotions and differentiated product ranges as the chain reported strong volume growth while gaining market share in all product categories.”</p>
+							<p class="margin-bottom-0 width-100">“Clicks delivered another resilient performance in the increasingly constrained consumer spending environment. The strength of the Clicks brand and its loyal customer base contributed to health and beauty sales increasing by 11.7%, with volume growth of 5.1% in same stores, as Clicks gained market share in all product categories.”</p>
 							<a href="pages/business_review/clicks" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 						<div class="col-6 text-center d-flex flex-column justify-content-between align-items-center">
-							<p class="margin-bottom-0 width-100">“UPD delivered double-digit sales and profit growth for the year, driven by good growth in the wholesale business. Reported turnover increased by 11.4% and UPD maintained its market-leading positions in both the pharmaceutical wholesale and bulk distribution markets.”</p>
+							<p class="margin-bottom-0 width-100">“UPD maintained its market-leading positions in both the pharmaceutical wholesale and bulk distribution markets as the business gained market share, secured new distribution clients and reported ongoing excellent control of inventory and costs.”</p>
 							<a href="pages/business_review/upd" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 					</div>
@@ -244,12 +257,10 @@
 				<div class="dash"></div>
 			</div>
 			<div class="col-12 col-xl-6">
-				<h4><a href="" class="blue">Creating value through good governance</a></h4>
-				<h4><a href="" class="blue">Rewarding value creation</a></h4>
-				<h4><a href="" class="blue">Social and ethics committee report</a></h4>
-				<h4><a href="" class="blue">Shareholder analysis</a></h4>
-				<h4><a href="" class="blue">Shareholders’ diary</a></h4>
-				<h4><a href="" class="blue">Corporate information</a></h4>
+				<h4><a href="pages/governance/create_value_governance.php" class="blue">Creating value through good governance</a></h4>
+				<h4><a href="pages/governance/create_value_citizenship.php" class="blue">Creating value through good citizenship</a></h4>
+				<h4><a href="pages/governance/create_value_stakeholder.php" class="blue">Creating value through stakeholder engagement</a></h4>
+				<h4><a href="pages/governance/rewarding_value.php" class="blue">Rewarding value </a></h4>
 			</div>
 			<div class="col-12 col-xl-6">
 				<div class="row">
@@ -335,7 +346,38 @@
 		</div>
 	</section>
 
-	<section class="medium-content-padding clicks-exp light-blue-bg">
+	<section class="light-blue-bg business-review large-content-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="text-uppercase">Shareholder information</h2>
+					<div class="dash"></div>
+					<div class="row">
+						<div class="col-12">
+							<h4 class="blue margin-bottom-40px">Clicks Group has proven to be increasingly attractive to international investors over the past decade and 70% of the group’s shares are now held by offshore fund managers.</h4>
+						</div>
+						<div class="col-4 text-center dark-blue-border-right d-flex align-items-center justify-content-center">
+							<a href="pages/shareholder/shareholder_analysis">
+								<h3 class="heading-4 margin-bottom-0 small-content-padding">Shareholder analysis</h3>
+							</a>
+						</div>
+						<div class="col-4 dark-blue-border-right text-center d-flex align-items-center justify-content-center">
+							<a href="pages/shareholder/shareholder_diary">
+								<h3 class="heading-4 margin-bottom-0">Shareholders' diary</h3>
+							</a>
+						</div>
+						<div class="col-4 text-center d-flex align-items-center justify-content-center">
+							<a href="pages/shareholder/corporate_information">
+								<h3 class="heading-4 margin-bottom-0">Corporate information</h3>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="medium-content-padding clicks-exp">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">

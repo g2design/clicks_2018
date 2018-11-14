@@ -349,6 +349,52 @@
 	}
 }
 
+.img-enlarge{
+	position: relative;
+	display: block;
+	&:before, &:after{
+		transition: opacity 0.4s;
+	}
+	&:before{
+		content: '';
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		background: rgba(108, 110, 111, 0.35);
+		opacity: 0;
+	}
+	&:after{
+		content: '';
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translateX(-50%) translateY(-50%);
+		color: white;
+		text-transform: uppercase;
+		padding: 25px;
+		background: rgba(0, 0, 0, 0.48);
+		opacity: 0;
+		transition: padding 0.4s;
+		transition-delay: 0.1s;
+		background-image: url('../img/zoom-in.png');
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: 50%;
+		border-radius: 30px;
+	}
+	&:hover{
+		&:before, &:after{
+			opacity: 1;
+		}
+		&:after{
+			padding: 60px;
+		}
+	}
+	img{
+		padding: 20px;
+	}
+}
+
 .order-0 {
 	-webkit-box-ordinal-group: 1;
 	-ms-flex-order: 0;

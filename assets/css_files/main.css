@@ -418,6 +418,14 @@ main .banner-section {
     height: 70vh; }
     main .banner-section .banner.banner-1 {
       background-image: url(../img/homepage/banner_1.jpg); }
+    main .banner-section .banner.banner-2 {
+      background-image: url(../img/homepage/Homepages-slider-images.jpg); }
+    main .banner-section .banner.banner-3 {
+      background-image: url(../img/homepage/Homepages-slider-images2.jpg); }
+    main .banner-section .banner.banner-4 {
+      background-image: url(../img/homepage/Homepages-slider-images3.jpg); }
+    main .banner-section .banner.banner-5 {
+      background-image: url(../img/homepage/Homepages-slider-images4.jpg); }
 
 main .reports .dark-grey-bg {
   padding: 15px;
@@ -461,8 +469,7 @@ main .leadership .thick-light-blue-border {
       margin-top: 100px; } }
   main .leadership .thick-light-blue-border img {
     position: absolute;
-    bottom: 0;
-    max-width: 235px; }
+    bottom: 0; }
 
 main .clicks-exp .clicks-slider .gallery-img {
   height: 436px; }
@@ -493,7 +500,7 @@ main .clicks-exp .clicks-slider .slick-next {
   z-index: 5;
   width: 40px;
   height: 40px;
-  color: white; }
+  color: #003767; }
   main .clicks-exp .clicks-slider .slick-prev:before,
   main .clicks-exp .clicks-slider .slick-next:before {
     content: " "; }
@@ -1095,6 +1102,53 @@ footer {
     color: white; }
     .btn.grey-btn:hover {
       background-color: #828181; }
+
+.img-enlarge {
+  position: relative;
+  display: block; }
+  .img-enlarge:before, .img-enlarge:after {
+    -webkit-transition: opacity 0.4s;
+    -o-transition: opacity 0.4s;
+    transition: opacity 0.4s; }
+  .img-enlarge:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(108, 110, 111, 0.35);
+    opacity: 0; }
+  .img-enlarge:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+        -ms-transform: translateX(-50%) translateY(-50%);
+            transform: translateX(-50%) translateY(-50%);
+    color: white;
+    text-transform: uppercase;
+    padding: 25px;
+    background: rgba(0, 0, 0, 0.48);
+    opacity: 0;
+    -webkit-transition: padding 0.4s;
+    -o-transition: padding 0.4s;
+    transition: padding 0.4s;
+    -webkit-transition-delay: 0.1s;
+         -o-transition-delay: 0.1s;
+            transition-delay: 0.1s;
+    background-image: url("../img/zoom-in.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: 50% 50%;
+            background-size: 50%;
+    -webkit-border-radius: 30px;
+            border-radius: 30px; }
+  .img-enlarge:hover:before, .img-enlarge:hover:after {
+    opacity: 1; }
+  .img-enlarge:hover:after {
+    padding: 60px; }
+  .img-enlarge img {
+    padding: 20px; }
 
 .order-0 {
   -webkit-box-ordinal-group: 1;

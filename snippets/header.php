@@ -45,11 +45,23 @@
 							<ul>
 								<li>
 									<img src="assets/img/header/downloads.png" alt="Downloads">
-									<a href="pages/online_reports/online_reports" class="blue">Downloads</a>
+									<span class="blue">Downloads</span>
+									<div class="dropdown">
+										<ul>
+											<li></li>
+										</ul>
+									</div>
 								</li>
 								<li>
 									<img src="assets/img/header/page.png" alt="Shareholder Information">
-									<a href="pages/shareholder/shareholder_analysis" class="blue">Shareholder Information</a>
+									<span class="blue">Shareholder Information</span>
+									<div class="dropdown">
+										<ul>
+											<li><a href="pages/shareholder/shareholder_analysis">Shareholder analysis</a></li>
+											<li><a href="pages/shareholder/shareholder_diary">Shareholders' diary</a></li>
+											<li><a href="pages/shareholder/corporate_information">Corporate information</a></li>
+										</ul>
+									</div>
 								</li>
 							</ul>
 						</div>

@@ -196,7 +196,8 @@ header .top-header .top-links ul {
       top: 100%;
       z-index: 5;
       width: 240px;
-      padding: 16px; }
+      padding: 16px;
+      background: #E2F3FB; }
       header .top-header .top-links ul li .dropdown ul {
         height: auto; }
         header .top-header .top-links ul li .dropdown ul li, header .top-header .top-links ul li .dropdown ul a {

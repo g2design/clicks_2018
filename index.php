@@ -105,7 +105,7 @@
 		<div class="row">
 			<div class="col-6 col-lg-5 d-flex flex-column justify-content-center align-items-start">
 				<h2 class="dark-blue text-uppercase">Creating <br><span class="sky-blue">value in 2018</span></h2>
-				<a href="" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
+				<a href="pages/about/creating_value" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 			</div>
 			<div class="col-6 col-lg-7">
 				<img src="assets/img/homepage/creating_value.jpg" alt="Creating value">
@@ -121,7 +121,7 @@
 					<h4 class="blue">Clicks Group is a retail-led healthcare group which is listed in the Food and Drug Retailers sector on the JSE.</h4>
 					<p>Founded in 1968, the group has been listed on the JSE since 1996. Following changes in South African legislation in 2003 to allow corporate pharmacy ownership, the group entered the retail pharmacy market with the opening of the first Clicks pharmacy in 2004.</p>
 					<p>The group is today a leader in the healthcare market where Clicks is the country’s largest pharmacy chain with 473 in-store pharmacies and a 22.2% share of the retail pharmacy market. UPD has a 25.6% share of the private pharmaceutical wholesale market.</p>
-					<a href="" class="btn grey-btn margin-bottom-20px">Read full report <span class="sky-blue">>></span></a>
+					<a href="pages/about/group_profile" class="btn grey-btn margin-bottom-20px">Read full report <span class="sky-blue">>></span></a>
 				</div>
 				<div class="col-12 col-lg-7 col-xl-8 d-flex flex-column align-items-center justify-content-center">
 					<img class="medium-content-padding" src="assets/img/homepage/group_profile_image1.png" alt="Group Profile">
@@ -178,7 +178,7 @@
 						<div class="col-7 col-xl-8 medium-content-padding">
 							<h3 class="heading-4 text-uppercase"><b>Chairman's Report</b></h3>
 							<p class="margin-bottom-0">In a year marked by significant political instability and uncertainty, deteriorating economic conditions and consequent credit ratings downgrades, financial pressure on South African consumers has continued to intensify. </p>
-							<a href="" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
+							<a href="pages/leadership/chairmans_report" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 					</div>
 				</div>
@@ -187,7 +187,7 @@
 						<div class="offset-1 col-7 col-xl-8 medium-content-padding">
 							<h3 class="heading-4 text-uppercase"><b>Chief Executive's Report</b></h3>
 							<p class="margin-bottom-0">Clicks delivered another strong trading performance in tough retail conditions, reporting good volume growth and increased market shares in all product categories. The brand continues to demonstrate its resilience in the current constrained spending environment, with healthcare being a necessity and beauty an affordable luxury.</p>
-							<a href="" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
+							<a href="pages/leadership/ceo_report" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 						<div class="col-4 col-xl-3">
 							<img src="assets/img/homepage/CEO.png" alt="CEO">
@@ -202,7 +202,7 @@
 						<div class="col-7 col-xl-8 medium-content-padding">
 							<h3 class="heading-4 text-uppercase"><b>Chief Financial Officer's Report</b></h3>
 							<p class="margin-bottom-0">Clicks Group delivered another resilient performance in tough retail trading conditions, highlighted by robust health and beauty sales, increased margins, strong cash flows and enhanced returns to shareholders.</p>
-							<a href="" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
+							<a href="pages/leadership/cfo_report" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 					</div>
 				</div>
@@ -225,11 +225,11 @@
 						</div>
 						<div class="col-6 dark-blue-border-right text-center d-flex flex-column justify-content-between align-items-center">
 							<p class="margin-bottom-0 width-100">“Clicks produced another strong trading performance, led by pharmacy and front shop health sales. Customers continued to respond positively to the Clicks value promotions and differentiated product ranges as the chain reported strong volume growth while gaining market share in all product categories.”</p>
-							<a href="" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
+							<a href="pages/business_review/clicks" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 						<div class="col-6 text-center d-flex flex-column justify-content-between align-items-center">
 							<p class="margin-bottom-0 width-100">“UPD delivered double-digit sales and profit growth for the year, driven by good growth in the wholesale business. Reported turnover increased by 11.4% and UPD maintained its market-leading positions in both the pharmaceutical wholesale and bulk distribution markets.”</p>
-							<a href="" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
+							<a href="pages/business_review/upd" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 					</div>
 				</div>

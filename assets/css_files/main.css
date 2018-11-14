@@ -748,6 +748,9 @@ main .reward-value thead tr td.remove-padding, main .reward-value thead tr th.re
       right: -35px;
       bottom: -95px; }
 
+.shareholder-diary table td {
+  padding-bottom: 0; }
+
 .side-buttons {
   display: none;
   -webkit-box-sizing: border-box;

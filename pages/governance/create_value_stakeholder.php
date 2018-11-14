@@ -7,10 +7,8 @@
         <div class="row">
             <?php include '../../snippets/sidebars/sidebar_governance.php' ?>
             <div class="col-9 col-lg-10 side-padding">
-                <h1 class="text-uppercase margin-bottom-0">Creating value through stakeholder engagement</h1>
-                <blockquote class="smaller-margin margin-bottom-40px">
-                Clicks Group’s stakeholder engagement process focuses primarily on the five primary stakeholders that management believes are most likely to influence the ability to create value in the short, medium and long term. Proactive and transparent relationships enable the group to identify and address the needs, expectations and concerns of these stakeholder groups.
-                </blockquote>
+                <h1 class="text-uppercas">Creating value through stakeholder engagement</h1>
+                <h3 class="margin-bottom-20px">Clicks Group’s stakeholder engagement process focuses primarily on the five primary stakeholders that management believes are most likely to influence the ability to create value in the short, medium and long term. Proactive and transparent relationships enable the group to identify and address the needs, expectations and concerns of these stakeholder groups.</h3>
                 <h2 class="text-uppercase margin-bottom-5px">Customers</h2>
                 <p class="margin-bottom-5px"><b>Clicks</b> targets consumers in the growing middle to upper-income markets (LSM 6 – 10)</p>
                 <p><b>UPD</b> customers include Clicks, major private hospital groups, pharmaceutical manufacturers and independent pharmacies</p>
@@ -74,7 +72,7 @@
                     </tbody>
                 </table>
                 <h2 class="text-uppercase margin-bottom-5px">Shareholders and lending institutions</h2>
-                <p class="margin-bottom-5px"><b>Shareholders:</b> Local and international institutional and private investors, as well as fund managers and analysts from the broader investment community.</p>
+                <p class="margin-bottom-5px"><b>Shareholders:</b> Local and international institutional and private investors, as well as fund managers and analysts from the broader investment&nbsp;community.</p>
                 <p><b>Lending institutions:</b> South African financial institutions which provide funding and trade finance facilities to the group</p>
                 <table class="margin-bottom-60px">
                     <colgroup>

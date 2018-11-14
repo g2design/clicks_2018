@@ -18,7 +18,8 @@
                 </ul>
                 <p>The steps taken to address legitimate and reasonable concerns will be disclosed in the following years’ integrated report.</p>
                 <p>The remuneration philosophy and reward principles remain consistent with last year when the remuneration policy was aligned to King IV to outline the group’s approach to fair, responsible and transparent remuneration practices across the business. At the 2018 AGM, 93.9% of shareholders who voted supported the group’s remuneration policy and 94.6% supported the group’s remuneration implementation report.</p>
-                <p class="margin-bottom-40px">This report provides an overview of the remuneration of all group employees as well as disclosing executive director remuneration and the alignment with shareholder value creation. The remuneration paid to executive and non-executive directors for the 2018 financial year is detailed on pages 75 and 77.</p>
+                <p class="margin-bottom-40px">This report provides an overview of the remuneration of all group employees as well as disclosing executive director remuneration and the alignment with shareholder value creation. The remuneration paid to executive and non-executive directors for the 2018 financial year is detailed on <a href="">pages 75 and 77</a>.</p>
+                <img class="margin-bottom-40px" src="assets/img/governance/pharmacy.jpg" alt="Pharmacy">
                 <h2 class="heading-3 white sky-blue-bg text-uppercase box-padding-smaller margin-bottom-20px text-center">Part 1: Remuneration policy</h2>
                 <h5 class="margin-bottom-0">Introduction</h5>
                 <p class="margin-bottom-5px">The group’s remuneration policy is based on the total rewards model and integrates the five key elements that attract, motivate and retain human capital to achieve the desired business results:</p>
@@ -140,17 +141,17 @@
                 <p>The annual pay increase of the executive directors is directly related to individual performance ratings and aligned to the annual increase ranges per performance rating as determined by the committee and applied consistently across the group. The sustainability of the group’s business is critical in determining remuneration and the board is satisfied that the performance targets do not encourage increased risk-taking by the executives.</p>
                 <h5 class="margin-bottom-0">Incentive schemes</h5>
                 <p>A significant portion of short-term and long-term remuneration is variable and designed to incentivise executive directors.</p>
-                <p>Should executive directors not meet the targets set by the committee for the short-term and long-term incentive schemes, then no amounts will be payable under the schemes and executive directors will only receive their guaranteed remuneration. Performance hurdles and caps for both the short-term and long-term incentive schemes apply to the participants, including the executive directors, which are set out below and on pages 71 to 73 respectively.</p>
+                <p>Should executive directors not meet the targets set by the committee for the short-term and long-term incentive schemes, then no amounts will be payable under the schemes and executive directors will only receive their guaranteed remuneration. Performance hurdles and caps for both the short-term and long-term incentive schemes apply to the participants, including the executive directors, which are set out below and on <a href="">pages 71 to 73 respectively</a>.</p>
                 <h5 class="margin-bottom-0">Short-term incentive scheme</h5>
                 <p class="margin-bottom-5px">A bonus of 40% (60% in the case of the chief executive officer) of annual guaranteed pay is paid on the achievement of an ontarget performance with performance hurdles of at least 95% of the targeted group RONA and operating profit.</p>
                 <ul class="margin-top-0">
                     <li>Performance exceeding the targeted performance may result in the payment of a higher bonus. This is self-funded and only paid if the group exceeds the targeted operating profit.</li>
                     <li>The scheme provides for a stretch performance incentive to drive extraordinary performance. The stretch performance hurdle is met when the targeted group RONA is achieved and the targeted operating profit has been exceeded by at least 5%.</li>
-                    <li>Bonus payments are capped at 120% of annual guaranteed remuneration for the chief executive officer and at 80% for the other executive directors.</li>
+                    <li>Bonus payments are capped at 120% of annual guaranteed remuneration for the chief executive officer and at 80% for the other executive&nbsp;directors.</li>
                 </ul>
                 <p>The achievement of targets is reviewed by the committee before any incentive payments are made to executive directors.</p>
                 <h5 class="margin-bottom-0">Long-term incentive scheme</h5>
-                <p>Executive directors participate in the cash-settled long-term incentive scheme which is detailed on pages 72 to 74.</p>
+                <p>Executive directors participate in the cash-settled long-term incentive scheme which is detailed on <a href="">pages 72 to 74</a>.</p>
                 <h4 class="sky-blue">Remuneration of management and staff</h4>
                 <p>Senior managers receive an annual guaranteed salary and participate in the short-term incentive bonus scheme. Salaries may include premiums for scarce and critical skills. A limited number of senior managers participate in the long-term incentive scheme, based on strategic contribution to their business unit and their individual performance levels.</p>
                 <p>An annual performance-based salary increase is paid to all permanent monthly paid non-bargaining unit employees. The annual increase date is 1 September which is aligned with the group’s financial year and budgeting period.</p>
@@ -196,7 +197,7 @@
                         <p class="margin-bottom-5px">The value of appreciation units are apportioned equally between two performance components:</p>
                         <p class="margin-bottom-5px">(1) diluted HEPS; and</p>
                         <p>(2) total shareholder return (TSR).</p>
-                        <p class="margin-bottom-5px"><em>(1) HEPS appreciation units</em></p>
+                        <p class="margin-bottom-0"><em>(1) HEPS appreciation units</em></p>
                         <div class="sub-content">
                             <p>The base value for the HEPS appreciation units is calculated at the date of allocation by multiplying the group’s reported diluted headline earnings per share (HEPS) by an internal price earnings ratio of 12.</p>
                             <p>An exercise value is determined at the end of the three-year period by multiplying the published diluted HEPS for the year by the same factor of 12.</p>
@@ -281,7 +282,7 @@
                                 </tbody>
                             </table>
                         </div>
-                        <p class="margin-bottom-5px"><em>(2) TSR appreciation units</em></p>
+                        <p class="margin-bottom-0"><em>(2) TSR appreciation units</em></p>
                         <div class="sub-content">
                             <p>The base value for the TSR appreciation units is the 20-day volume weighted average price (VWAP) of the Clicks Group shares, measured over the 20 business days at the end of the previous financial year.</p>
                             <p>The exercise value is the corresponding 20-day VWAP at the end of the three-year period. The financial incentive received by the participants is the appreciation in the Clicks Group share price over the three-year period.</p>
@@ -539,15 +540,15 @@
                 <p>The fee structure for non-executive directors is based on a review of a number of internal, economic and market factors, and is independently benchmarked each year. The group’s policy is to pay non-executive director fees in a range of 80% to 120% of the median of a comparator group of JSE-listed retail companies. The median is based on the number of board and committee meetings held per annum. Non-executive directors receive a base fee for serving on the board or any committee, together with an attendance fee per meeting. The base fee comprises 75% of the total fee. The chairman of the board or any committee receives a higher fee. Directors’ fees are paid for a calendar year.</p>
                 <h4 class="sky-blue">Remuneration governance</h4>
                 <p>The committee, operating under the authority delegated by the board, is responsible for overseeing the establishment and maintenance of the group’s remuneration policy, policy outcomes and pay practices. The committee assists the board in ensuring the group has a competitive remuneration policy and governance framework which is aligned with the group’s strategic and organisational performance objectives.</p>
-                <p>In line with the recommendations of King IV the committee comprises only independent non-executive directors, namely Professor Fatima Abrahams (chair), John Bester, David Nurek and Martin Rosen. The chief executive officer and the group human resources director attend committee meetings by invitation but are recused from discussions that relate to their own performance appraisal and remuneration. Detail on the committee meeting attendance is included on page 58.</p>
+                <p>In line with the recommendations of King IV the committee comprises only independent non-executive directors, namely Professor Fatima Abrahams (chair), John Bester, David Nurek and Martin Rosen. The chief executive officer and the group human resources director attend committee meetings by invitation but are recused from discussions that relate to their own performance appraisal and remuneration. Detail on the committee meeting attendance is included on <a href="">page 58</a>.</p>
                 <p>An external rewards specialist is retained to advise the committee on remuneration trends and benchmarking of both executive and non-executive remuneration. The members of the committee have independent access to the adviser and may request professional advice on any remuneration issue.</p>
                 <p class="margin-bottom-5px">The primary responsibilities of the committee include:</p>
                 <ul class="margin-top-0 margin-bottom-40px">
-                    <li>ensuring the remuneration policy is aligned to and promotes the achievement of the group’s strategic objectives and encourages individual performance;</li>
+                    <li>ensuring the remuneration policy is aligned to and promotes the achievement of the group’s strategic objectives and encourages individual&nbsp;performance;</li>
                     <li>ensuring the critical elements of the remuneration policy, including annual guaranteed pay, scarce skills premiums, benefits and incentives, are appropriately benchmarked to ensure the group is competitive in the employment market;</li>
                     <li>ensuring all benefits, including retirement benefits and other financial arrangements, are justified and correctly valued;</li>
                     <li>reviewing and approving the performance evaluation of the chief executive officer and executive directors against agreed deliverables;</li>
-                    <li>reviewing and approving the performance evaluation of the chief executive officer and executive directors against agreed deliverables;</li>
+                    <li>reviewing incentive schemes to ensure alignment to shareholder value creation and that the schemes are administered in terms of the&nbsp;rules;&nbsp;and</li>
                     <li>reviewing the remuneration of non-executive directors and recommending adjustments to the fees at the AGM.</li>
                 </ul>
                 <h2 class="heading-3 white sky-blue-bg text-uppercase box-padding-smaller margin-bottom-20px text-center">Part 2: Remuneration implementation report 2018</h2>
@@ -589,7 +590,7 @@
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Pension fund</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Other benefits</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Total annual guaranteed pay</b></td>
-                                <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">RONA shortterm incentive</b></td>
+                                <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">-term incentive</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Performance-based long-term incentive*</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Total variable pay</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Total</b></td>
@@ -675,17 +676,6 @@
                                 <td class="bottom text-right">17 081</td>
                                 <td class="bottom text-right">18 589</td>
                                 <td class="bottom text-right">22 189</td>
-                            </tr>
-                            <tr>
-                                <td class="bottom">Michael Fleming</td>
-                                <td class="bottom text-right">4 879</td>
-                                <td class="bottom text-right">284</td>
-                                <td class="bottom text-right">57</td>
-                                <td class="bottom text-right">5 220</td>
-                                <td class="bottom text-right">2 186</td>
-                                <td class="bottom text-right">25 883</td>
-                                <td class="bottom text-right">28 069</td>
-                                <td class="bottom text-right">33 289</td>
                             </tr>
                             <tr>
                                 <td class="bottom">Michael Fleming</td>
@@ -948,9 +938,9 @@
                         </tbody>
                     </table>
                 </div>
-                <p>The total number of ordinary shares in issue is 253 948 352 and the percentage of issued share capital held by directors is 0.20% (2017: 0.22%). Details of dealings in Clicks Group shares by directors during the financial year are contained in the directors’ report in the <a  href="">annual&nbsp;financial&nbsp;statements</a>.</p>
+                <p>The total number of ordinary shares in issue is 253 948 352 and the percentage of issued share capital held by directors is 0.20% (2017: 0.22%). Details of dealings in Clicks Group shares by directors during the financial year are contained in the directors’ report in the <a  href="">annual&nbsp;financial&nbsp;statements</p>.</p>
                 <h4 class="sky-blue">Non-executive directors' fees</h4>
-                <p>The fee structure for non-executive directors was benchmarked externally against a retail comparator group of The Foschini Group, Mr Price Group, Pick n Pay Stores, Shoprite Holdings, The Spar Group, Truworths International, Massmart Holdings, Woolworths Holdings and Dis-Chem Pharmacies Limited.</p>
+                <p>The fee structure for non-executive directors was benchmarked externally against a retail comparator group of The Foschini Group, Mr Price Group, Pick n Pay Stores, Shoprite Holdings, The Spar Group, Truworths International, Massmart Holdings, Woolworths Holdings and Dis-Chem&nbsp;Pharmacies&nbsp;Limited.</p>
                 <p>The proposed increases to the fee structure for 2019 take into account these benchmarking results. Higher increases are proposed for the remuneration and nominations committee and social and ethics committee chairs, and members of the remuneration committee, which were below the group’s policy range of 80% of the median of the benchmarked comparator group. The total fees proposed for non-executive directors for the 2019 calendar year represent an increase of 12.5% over the previous year.</p>
                 <p>The fees for the 2019 calendar year are subject to approval by shareholders at the AGM in January 2019.</p>
                 <div class="scroll-horizontal">

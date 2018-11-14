@@ -168,7 +168,7 @@
 									</div>
 								</li>
 								<li class="menu-item d-flex align-items-center justify-content-center">
-									<a class="navbar-item d-flex align-items-center" href="pages/onlinereports/onlinereports">Online reports</a>
+									<a class="navbar-item d-flex align-items-center" href="pages/online_reports/online_reports">Online reports</a>
 									<div class="dropdown text-left">
 										<ul>
 											<li class="margin-bottom-10px"><a href="assets/pdfs/Clicks_IAR_2017.pdf" target="_blank">Integrated Annual Report 2017</a></li>
@@ -210,7 +210,7 @@
 		<a href="<?php echo $baseUrl; ?>">
 			<img src="assets/img/home.png" alt="">
 		</a>
-		<a href="<?php echo $baseUrl; ?>pages/onlinereports/onlinereports">
+		<a href="<?php echo $baseUrl; ?>pages/online_reports/online_reports">
 			<img src="assets/img/downloads.png" alt="">
 		</a>
 		<a id="to-top" href="">

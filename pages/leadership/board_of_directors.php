@@ -70,8 +70,8 @@
                             <div class="col-8">
                                 <p>Chairman of the audit and risk committee</p>
                                 <p>Member of the remuneration and nominations committee</p>
-                                <p><b>Directorships:</b> Non-executive chairman of Ascendis Health and nonexecutive director of HomeChoice, Personal Trust International and Tower Property Fund. Trustee of the Children’s Hospital Trust and the Children’s Hospital Foundation Trust.</p>
-                                <p><b>Expertise and experience:</b> Accounting and finance. John spent 16 years in the accounting profession, including serving as a partner of Ernst & Young for 10 years. He has been involved in commerce and industry for a further 37 years, holding a number of financial directorships during this time.</p>
+                                <p><b>Directorships:</b> Non-executive chairman of Ascendis Health and non-executive director of HomeChoice, Personal Trust International and Tower Property Fund. Trustee of the Children’s Hospital Trust and the Children’s Hospital Foundation Trust.</p>
+                                <p><b>Expertise and experience:</b> Accounting and finance. John&nbsp;spent 16 years in the accounting profession, including serving as a partner of Ernst & Young for 10 years. He has been involved in commerce and industry for a further 37&nbsp;years, holding a number of financial directorships during&nbsp;this&nbsp;time.</p>
                             </div>
                         </div>
                     </div>
@@ -172,7 +172,7 @@
                                 <p>Appointed as a director in 2011</p>
                             </div>
                             <div class="col-8">
-                                <p><b>Expertise and experience:</b> Accounting, finance and investor relations management. He was previously at the Tiger Brands group where he was appointed as financial executive of the Tiger Brands consumer brands division in 2005 and promoted to chief financial officer in June 2008. While CFO of Tiger Brands, he also served as a non-executive director of Oceana Group Limited.</p>
+                                <p><b>Expertise and experience:</b> Accounting, finance and investor relations management. He was previously at the Tiger&nbsp;Brands&nbsp;group where he was appointed as financial executive of the Tiger Brands consumer brands division in 2005 and promoted to chief financial officer in June 2008. While CFO of Tiger Brands, he also served as a non-executive director of Oceana Group Limited.</p>
                             </div>
                         </div>
                     </div>

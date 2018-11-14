@@ -60,6 +60,16 @@
                                 <td class="bottom text-right">(3 954)</td>
                             </tr>
                             <tr>
+                                <td class="bottom">Operating profit</td>
+                                <td class="bottom text-right">(Rm)</td>
+                                <td class="bottom text-right">13.1%</td>
+                                <td class="bottom text-right light-blue-bg"><b>2 042</b></td>
+                                <td class="bottom text-right">1 814</td>
+                                <td class="bottom text-right">1 572</td>
+                                <td class="bottom text-right">1 396</td>
+                                <td class="bottom text-right">1 218</td>
+                            </tr>
+                            <tr>
                                 <td class="bottom">Profit before tax</td>
                                 <td class="bottom text-right">(Rm)</td>
                                 <td class="bottom text-right">14.3%</td>
@@ -347,8 +357,8 @@
                                 <td class="border-bottom-thin" colspan="4"></td>
                             </tr>
                             <tr>
-                                <td class="bottom">Headline earnings per share – basic</td>
-                                <td class="bottom text-right">(cents per share)</td>
+                                <td class="bottom">Headline earnings per share – basic (cents per share)</td>
+                                <td class="bottom text-right"></td>
                                 <td class="bottom text-right">15.2%</td>
                                 <td class="bottom text-right light-blue-bg"><b>612.3</b></td>
                                 <td class="bottom text-right">536.3</td>
@@ -357,8 +367,8 @@
                                 <td class="bottom text-right">341.7</td>
                             </tr>
                             <tr>
-                                <td class="bottom">Headline earnings per share – diluted</td>
-                                <td class="bottom text-right">(cents per share)</td>
+                                <td class="bottom">Headline earnings per share – diluted (cents per share)</td>
+                                <td class="bottom text-right"></td>
                                 <td class="bottom text-right">14.1%</td>
                                 <td class="bottom text-right light-blue-bg"><b>578.0</b></td>
                                 <td class="bottom text-right">502.1</td>
@@ -367,8 +377,8 @@
                                 <td class="bottom text-right">336.8</td>
                             </tr>
                             <tr>
-                                <td class="bottom">Cash equivalent earnings</td>
-                                <td class="bottom text-right">(cents per share)</td>
+                                <td class="bottom">Cash equivalent earnings (cents per share)</td>
+                                <td class="bottom text-right"></td>
                                 <td class="bottom text-right">17.3%</td>
                                 <td class="bottom text-right light-blue-bg"><b>858.1</b></td>
                                 <td class="bottom text-right">630.0</td>
@@ -377,8 +387,8 @@
                                 <td class="bottom text-right">433.7</td>
                             </tr>
                             <tr>
-                                <td class="bottom">Net asset value</td>
-                                <td class="bottom text-right">(cents per share)</td>
+                                <td class="bottom">Net asset value (cents per share)</td>
+                                <td class="bottom text-right"></td>
                                 <td class="bottom text-right">26.5%</td>
                                 <td class="bottom text-right light-blue-bg"><b>1 811</b></td>
                                 <td class="bottom text-right">1 395</td>
@@ -387,8 +397,8 @@
                                 <td class="bottom text-right">647</td>
                             </tr>
                             <tr>
-                                <td class="bottom">Dividends declared</td>
-                                <td class="bottom text-right">(cents per share)</td>
+                                <td class="bottom">Dividends declared (cents per share)</td>
+                                <td class="bottom text-right"></td>
                                 <td class="bottom text-right">17.7%</td>
                                 <td class="bottom text-right light-blue-bg"><b>380.0</b></td>
                                 <td class="bottom text-right">322.0</td>
@@ -433,7 +443,7 @@
                                 <td class="bottom text-right light-blue-bg border-bottom-thin"><b>–</b></td>
                                 <td class="bottom text-right border-bottom-thin">–</td>
                                 <td class="bottom text-right border-bottom-thin">3 360</td>
-                                <td class="bottom text-right border-bottom-thin">2 37</td>
+                                <td class="bottom text-right border-bottom-thin">2 376</td>
                                 <td class="bottom text-right border-bottom-thin">4 620</td>
                             </tr>
                             <tr>

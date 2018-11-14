@@ -31,15 +31,15 @@
                 </div>
                 <p>Front shop health was the fastest-growing category with sales increasing by 14.1%, supported by the robust performances of GNC (up 19.5%), first aid (up 21.5%) and baby (up 19.6%). The baby sub-category is strategically important in attracting new customers and grew market share from 13.7% to 15.1%.</p>
                 <p>Beauty and personal care sales grew by 7.6%. Owing to the limited product innovation in these categories, promotional activity was key to driving volume growth. The best-performing sub-categories were ethnic haircare, gifting and The Body Shop range which has been extended into a further 48 Clicks stores.</p>
-                <table class="margin-bottom-10px">
+                <table class="margin-bottom-10px" style="width: 700px;">
                     <colgroup>
-                        <col width="50%">
-                        <col width="25%">
-                        <col width="25%">
+                        <col width="80%">
+                        <col width="10%">
+                        <col width="10%">
                     </colgroup>
                     <thead>
                         <tr>
-                            <td class="border-bottom-thin bottom">Health and beauty sales*</td>
+                            <td class="border-bottom-thin bottom"><b>Health and beauty sales*</td>
                             <td class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">% increase</b></td>
                             <td class="border-bottom-thin bottom text-right">% contribution to sales</td>
                         </tr>
@@ -72,7 +72,7 @@
                         </tr>
                     </tbody>
                 </table>
-                <table class="margin-top-10px">
+                <table class="margin-top-10px" style="width: 700px;">
                     <colgroup>
                         <col width="2%">
                         <col width="98%">
@@ -85,15 +85,15 @@
                     </tbody>
                 </table>
                 <p>General merchandise, which has the most discretionary product offering, grew sales by 13.1%. Growth was driven by buoyant Christmas sales, a pleasing promotional performance from convenience categories such as paperware and beverages, and good growth in the healthy snacking category. Clicks remains the leader in sales of small electrical appliances with a market share of 17.9%.</p>
-                <table class="margin-bottom-10px">
+                <table class="margin-bottom-10px" style="width: 700px;">
                     <colgroup>
-                        <col width="50%">
-                        <col width="25%">
-                        <col width="25%">
+                        <col width="80%">
+                        <col width="10%">
+                        <col width="10%">
                     </colgroup>
                     <thead>
                         <tr>
-                            <td class="border-bottom-thin bottom">Market share (%)</td>
+                            <td class="border-bottom-thin bottom"><b>Market share (%)</b></td>
                             <td class="border-bottom-thin bottom text-right sky-blue-bg"><b class="white">2018</b></td>
                             <td class="border-bottom-thin bottom text-right">2017</td>
                         </tr>
@@ -146,7 +146,7 @@
                         </tr>
                     </tbody>
                 </table>
-                <table class="margin-top-10px">
+                <table class="margin-top-10px" style="width: 700px;">
                     <colgroup>
                         <col width="2%">
                         <col width="98%">
@@ -175,7 +175,7 @@
                         </blockquote>
                     </div>
                 </div>
-                <p>The Clicks footprint includes 33 stores in neighbouring Namibia (21 stores), Swaziland (four stores), Botswana (seven stores) and Lesotho (one store).</p>
+                <p>The Clicks footprint includes 33 stores in neighbouring Namibia (21 stores), Swaziland (four stores), Botswana (seven stores) and Lesotho (one&nbsp;store).</p>
                 <p>During the year 55 stores across the chain were extended or refurbished to ensure the stores remain modern and appealing to customers.</p>
                 <p>Clicks is South Africa’s largest retail pharmacy chain and extended its network to 510 with the opening of 37 in-store pharmacies. The number of clinics was increased from 195 to 203.</p>
                 <p>Clicks was once again ranked first in the pharmacy category in the annual Ask Afrika Orange Index service excellence survey.</p>
@@ -193,7 +193,7 @@
                 <p>Digital technology provides new ways to engage with customers, including the Clicks mobile app which incorporates a virtual ClubCard, eliminating the need for customers to use the traditional plastic card. The app also allows customers to submit scripts and order repeat medication. Customer response has been most encouraging and the mobile app has been downloaded by over 250 000 customers.</p>
                 <h4 class="sky-blue">Differentiated product offer</h4>
                 <p>Private label and exclusive brands offer differentiated ranges at competitive prices while increasing the appeal of the Clicks brand and enhancing margin.</p>
-                <p>International franchise brands, The Body Shop, GNC and Claire’s, further differentiate the Clicks offer. The Body Shop has a presence in 170 Clicks stores, GNC in 454 stores and Claire’s in 168 Clicks stores. Clicks is also the exclusive retail stockist of the Sorbet product range.</p>
+                <p>International franchise brands, The Body Shop, GNC and Claire’s, further differentiate the Clicks offer. The Body Shop has a presence in 170&nbsp&nbsp;Clicks stores, GNC in 454 stores and Claire’s in 168 Clicks stores. Clicks is also the exclusive retail stockist of the Sorbet product range.</p>
                 <p>Innovation is a key driver of private label sales and over 700 new products were launched during the year. This included the successful launch of Sorbet Cosmetics, a range of over 320 products for faces, lips, eyes and nails, initially sold in 123 Clicks stores and 40 Sorbet salons.</p>
                 <p>Sales of private label products accounted for 22% of total sales in Clicks, with front shop sales at 28.2% and pharmacy 5.6%.</p>
                 <h4 class="sky-blue">Improving customer care</h4>
@@ -212,7 +212,7 @@
                 <p>Clicks plans to open 25 to 30 new stores and 30 to 35 pharmacies as the chain moves towards its long-term goal of expanding its South African store footprint to 900, with a pharmacy in each store. A further 55 stores will be refurbished.</p>
                 <p>Private label, exclusive and franchise brands are planned to contribute 29.5% of front shop sales in the new year. The presence of The Body Shop, GNC and Claire’s will be expanded to additional Clicks stores in the year ahead. The distribution of the Sorbet cosmetics brand will be extended to a further 60 stores. The private label generic medicine range will be extended by 34 products.</p>
                 <p>ClubCard membership is targeted to grow to 8.0 million while technology and data analytics will be applied to personalise engagement with customers.</p>
-                <p class="margin-bottom-40px">The Clicks distribution centre in Centurion, Gauteng, is being expanded by 20 900 m<sup>2</sup> to support the increasing scale of the Clicks chain. The project commenced in 2017 and is being undertaken at a cost of R230 million. The first phase of the construction has been completed and the second phase is scheduled to be completed by September 2019.</p>
+                <p class="margin-bottom-40px">The Clicks distribution centre in Centurion, Gauteng, is being expanded by 20 900 m<sup>2</sup> to support the increasing scale of the Clicks chain. The&nbsp;project&nbsp;commenced in 2017 and is being undertaken at a cost of R230 million. The first phase of the construction has been completed and the second phase is scheduled to be completed by September 2019.</p>
                 <img class="margin-bottom-20px" src="assets/img/signatures/vikesh_ramsunder_signature.png" alt="Vikesh Ramsunder" style="width: 180px;">
                 <p class="margin-bottom-0"><b>Vikesh Ramsunder</b></p>
                 <p class="margin-bottom-40px">Chief operating officer</p>
@@ -224,7 +224,7 @@
                         <div class="margin-top-20px margin-bottom-20px">
                             <h3><b>Vikesh Ramsunder</b></h3>
                             <p><em class="sky-blue">Chief operating officer</em></p>
-                            <p>Vikesh (47) joined the group in 1993 and was appointed as chief operating officer of the Clicks brand in 2015. He was previously managing director of UPD, the group’s pharmaceutical wholesaler, from 2010 and was instrumental in driving UPD’s integrated pharmaceutical wholesale and distribution strategy. Prior to this he was head of logistics at Clicks for two years, and served in store, general management and distribution centre management positions across the group. He holds B Com and MBL degrees. Vikesh has been promoted to chief executive officer of the Clicks Group from 1 January 2019.</p>
+                            <p>Vikesh (47) joined the group in 1993 and was appointed as chief operating officer of the Clicks brand in 2015. He was previously managing director of UPD, the group’s pharmaceutical wholesaler, from 2010 and was instrumental in driving UPD’s integrated pharmaceutical wholesale and distribution strategy. Prior to this he was head of logistics at Clicks for two&nbsp;years, and served in store, general management and distribution centre management positions across the group. He holds B Com and MBL degrees. Vikesh has been promoted to chief executive officer of the Clicks Group from 1 January 2019.</p>
                         </div>
                     </div>
                 </div>
@@ -268,15 +268,15 @@
                                 <div class="col-4">
                                     <p>Expand presence of franchise brands in Clicks</p>
                                     <ul>
-                                        <li>The Body Shop: 150 stores</li>
+                                        <li>The Body Shop: 150&nbsp;stores</li>
                                         <li>GNC: 390 stores</li>
                                         <li>Claire’s: 150 stores</li>
                                     </ul>
                                 </div>
                                 <div class="col-4">
-                                    <p>Franchise brands in Clicks stores</p>
+                                    <p>Franchise brands in Clicks&nbsp;stores</p>
                                     <ul>
-                                        <li>The Body Shop: 170 stores</li>
+                                        <li>The Body Shop: 170&nbsp;stores</li>
                                         <li>GNC: 454 stores</li>
                                         <li>Claire’s: 168 stores</li>
                                     </ul>
@@ -313,13 +313,13 @@
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <p>Expand private label scheduled generic medicines range by 30 products</p>
+                                    <p>Expand private label scheduled generic medicines range by 30&nbsp;products</p>
                                 </div>
                                 <div class="col-4">
                                     <p>120 private label medicines (2017: 100)</p>
                                 </div>
                                 <div class="col-4">
-                                    <p>Expand private label scheduled generic medicines range by 34 products</p>
+                                    <p>Expand private label scheduled generic medicines range by 34&nbsp;products</p>
                                 </div>
                             </div>
                             <div class="row">
@@ -341,7 +341,7 @@
                                     <p>203 clinics at year-end</p>
                                 </div>
                                 <div class="col-4">
-                                    <p>200 – 210 clinics at year-end</p>
+                                    <p>200 – 210 clinics at <br>year-end</p>
                                 </div>
                             </div>
                         </div>
@@ -373,13 +373,13 @@
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <p>Open 25 to 30 new Clicks stores</p>
+                                    <p>Open 25 to 30 new Clicks&nbsp;stores</p>
                                 </div>
                                 <div class="col-4">
-                                    <p>Net 41 stores opened 663 stores at year-end</p>
+                                    <p>Net 41 stores opened 663&nbsp;stores at year-end</p>
                                 </div>
                                 <div class="col-4">
-                                    <p>Open 25 to 30 new Clicks stores</p>
+                                    <p>Open 25 to 30 new Clicks&nbsp;stores</p>
                                 </div>
                             </div>
                             <div class="row">
@@ -445,35 +445,35 @@
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <p>Increase membership to 7.5 million</p>
+                                    <p>Increase membership to 7.5&nbsp;million</p>
                                 </div>
                                 <div class="col-4">
                                     <p>7.8 million members</p>
                                 </div>
                                 <div class="col-4">
-                                    <p>Increase membership to 8.0 million</p>
+                                    <p>Increase membership to 8.0&nbsp;million</p>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <p>Grow Baby Club to 520 000 members</p>
+                                    <p>Grow Baby Club to 520&nbsp;000&nbsp;members</p>
                                 </div>
                                 <div class="col-4">
                                     <p>445 000 Baby Club members</p>
                                 </div>
                                 <div class="col-4">
-                                    <p>Grow Baby Club to 500 000 members</p>
+                                    <p>Grow Baby Club to 500&nbsp;000&nbsp;members</p>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-4">
-                                    <p>Grow Seniors Club to 900 000 members</p>
+                                    <p>Grow Seniors Club to 900&nbsp;000&nbsp;members</p>
                                 </div>
                                 <div class="col-4">
                                     <p>925 000 Seniors Club members</p>
                                 </div>
                                 <div class="col-4">
-                                    <p>Grow Seniors Club to 1.0 million members</p>
+                                    <p>Grow Seniors Club to 1.0&nbsp;million&nbsp;members</p>
                                 </div>
                             </div>
                             <div class="row">
@@ -522,7 +522,7 @@
                                     <p>Phase 1 completed, adding 14 200 m<sup>2</sup></p>
                                 </div>
                                 <div class="col-4">
-                                    <p>Phase 2 to be completed September 2019, adding 6&nbsp;700m<sup>2</sup></p>
+                                    <p>Phase 2 to be completed September 2019, adding 6&nbsp;700 m<sup>2</sup></p>
                                 </div>
                             </div>
                         </div>

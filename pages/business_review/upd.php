@@ -44,7 +44,7 @@
                         </blockquote>
                     </div>
                 </div>
-                <p>Product availability, which is core to offering superior range and service to customers, averaged 95% for the year while on-time deliveries were 99%.</p>
+                <p>Product availability, which is core to offering superior range and service to customers, averaged 95% for the year while on-time deliveries&nbsp;were&nbsp;99%.</p>
                 <p>Through its distribution business UPD offers local and international, generic and originator pharma manufacturers an efficient and cost-effective supply chain solution. UPD gained three new distribution contracts and at year-end managed a portfolio of 23 distribution clients.</p>
                 <h4 class="sky-blue">Outlook for 2019</h4>
                 <p>UPD aims to increase wholesale market share to 26.5% through the growth of the Clicks pharmacy channel, benefiting from the planned opening of 30 to 35 new pharmacies in Clicks, and maintain volumes from the private hospital groups.</p>
@@ -63,7 +63,7 @@
                         <div class="margin-top-20px margin-bottom-20px">
                             <h3><b>Vikash Singh</b></h3>
                             <p><em class="sky-blue">Managing director</em></p>
-                            <p>Vikash (45) was appointed as managing director of UPD in April 2015. He is a seasoned executive whose career has spanned financial, operational, supply chain and logistics responsibilities, with extensive experience in logistics management in both Clicks and UPD. After joining the group in 2006, he served in finance and risk management roles in distribution and logistics in the Clicks chain. Vikash moved to UPD in 2010 and was head of operations and distribution prior to his promotion to managing director. He holds B Com (Acc) and MBA (cum laude) degrees.</p>
+                            <p>Vikash (45) was appointed as managing director of UPD in April 2015. He is a seasoned executive whose career has spanned financial, operational, supply chain and logistics responsibilities, with extensive experience in logistics management in both Clicks and UPD. After joining the group in 2006, he served in finance and risk management roles in distribution and logistics in the Clicks chain. Vikash moved to UPD in 2010 and was head of operations and distribution prior to his promotion to managing director. He holds B Com (Acc) and MBA&nbsp;(cum laude) degrees.</p>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                        <p>Maintain volume of business with private hospital groups</p>
                     </div>
                     <div class="col-4">
-                        <p>Increase Clicks’ buying levels from UPD to 98.8%</p>
+                        <p>Increase Clicks’ buying levels from UPD&nbsp;to&nbsp;98.8%</p>
                     </div>
                     <div class="col-4">
                         <p>Clicks’ buying levels from UPD at 98.8%</p>

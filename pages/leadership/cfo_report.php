@@ -14,7 +14,7 @@
                 <h1 class="text-uppercase">Chief financial officer's report</h1>
                 <h4 class="sky-blue">Introduction</h4>
                 <p>Clicks Group continued its strong growth momentum with robust turnover growth supported by good management of margins, expenses and working capital, and continued strong cash generation.</p>
-                <p>The performance for the year translated into growth of 15.1% in diluted headline earnings per share (HEPS) to 578 cents. Shareholders will receive a total dividend of 380 cents per share, an increase of 18% on last year, with the dividend payout ratio being raised from 60% to 62%. The group generated a total shareholder return of 39.0%, based on dividends paid and the growth in the share price over the year.</p>
+                <p>The performance for the year translated into growth of 15.1% in diluted headline earnings per share (HEPS) to 578 cents. Shareholders will receive a total dividend of 380 cents per share, an increase of 18% on last year, with the dividend payout ratio being raised from 60% to 62%. The&nbsp;group&nbsp;generated a total shareholder return of 39.0%, based on dividends paid and the growth in the share price over the year.</p>
                 <p>The group continues to deliver a high return on equity which has averaged 43.8% over the past three years.</p>
                 <h4 class="sky-blue">Medium-term financial targets</h4>
                 <p>Financial targets are disclosed to provide guidance to shareholders on the group’s medium-term performance expectations. The targets are reviewed annually to take account of the group’s current performance and the medium-term outlook for trading.</p>
@@ -38,7 +38,7 @@
                                 <td class="bottom">Return on equity</td>
                                 <td class="bottom text-right">(%)</td>
                                 <td class="bottom text-right">38.2</td>
-                                <td class="bottom text-right light-blue-bg"><b>38.2</b></td>
+                                <td class="bottom text-right light-blue-bg"><b>50 – 60</b></td>
                             </tr>
                             <tr>
                                 <td class="bottom">Return on assets</td>
@@ -93,7 +93,7 @@
                 <p>Within the retail division, health and beauty sales increased by 11.7%, reflecting the resilient nature of the core Clicks business. Musica’s sales were 8.4% lower owing to the pressure on discretionary consumer spending and the increase in digital consumption of music and movies.</p>
                 <p>Growth in retail trading space accounted for 5.3% of the turnover growth with the net opening of 42 retail stores and 37 pharmacies.</p>
                 <p>Distribution turnover grew by 8.4% as UPD experienced a moderately stronger second half performance.</p>
-                <p>The trading performances of Clicks and UPD are covered in the <a href="">business review</a>.</p>
+                <p>The trading performances of <a href="pages/business_review/clicks">Clicks</a> and <a href="pages/business_review/upd">UPD</a> are covered in the business review.</p>
                 <h5 class="margin-bottom-0"><b>Total income</b></h5>
                 <p>Total income grew by 10.5% to R7.9 billion (2017: R7.1 billion).</p>
                 <p>The retail total income margin expanded by 20 basis points to 33.6% by optimising the promotional product mix and effectively managing promotional campaigns.</p>
@@ -108,11 +108,11 @@
                 <p>Operating profit increased by 12.6% to R2.0 billion (2017: R1.8 billion) as both the retail and distribution businesses achieved operating leverage and benefited from increased scale. The group margin strengthened by 20 basis points to 7.0%.</p>
                 <p class="margin-bottom-40px">Retail increased its operating profit margin by 30 basis points to 8.1% and grew operating profit by 14.7% despite a reduction of R19 million in Musica’s profit. UPD maintained its operating margin at 2.7% despite the low SEP increase.</p>
                 <div class="row">
-                    <div class="col-12 col-lg-6">
-                        <img class="margin-bottom-40px" src="assets/img/leadership/turnover.svg" alt="Turnover and mragin">
+                    <div class="col-12 col-lg-6 text-center">
+                        <img class="margin-bottom-40px" src="assets/img/leadership/turnover.svg" alt="Turnover and margin" style="width: 400px;">
                     </div>
-                    <div class="col-12 col-lg-6">
-                        <img class="margin-bottom-40px" src="assets/img/leadership/return_on_equity.svg" alt="Return on equity">
+                    <div class="col-12 col-lg-6 text-center">
+                        <img class="margin-bottom-40px" src="assets/img/leadership/return_on_equity.svg" alt="Return on equity" style="width: 400px;">
                     </div>
                 </div>
                 <h4 class="sky-blue">Summary statement of comprehensive income</h4>
@@ -439,7 +439,7 @@
                 </div>
                 <h5 class="margin-bottom-0"><b>Cash and capital management</b></h5>
                 <p>Cash generated by operations increased by 20.7% to R2.5 billion, driven by the increase in operating profit and good working&nbsp;capital&nbsp;management.</p>
-                <p class="margin-bottom-0">The group’s capital management strategy is focused on investing in the organic growth of the business and returning surplus funds to shareholders through dividends and share buybacks:</p>
+                <p class="margin-bottom-0">The group’s capital management strategy is focused on investing in the organic growth of the business and returning surplus funds to shareholders through dividends and share buy-backs:</p>
                 <ul class="margin-top-0">
                     <li>Capital expenditure of R350 million was invested in new stores and refurbishments; R198 million on expanding distribution centres, including the first phase of the Clicks distribution centre in Centurion, Gauteng, and UPD’s Cape Town and Johannesburg warehouses; and R123 million in IT and retail infrastructure.</li>
                     <li>The group returned R812 million to shareholders through dividend payments.</li>

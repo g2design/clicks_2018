@@ -356,20 +356,17 @@
 						<div class="col-12">
 							<h4 class="blue margin-bottom-40px">Clicks Group has proven to be increasingly attractive to international investors over the past decade and 70% of the group’s shares are now held by offshore fund managers.</h4>
 						</div>
-						<div class="col-4 text-center dark-blue-border-right d-flex align-items-center justify-content-center">
-							<a href="pages/shareholder/shareholder_analysis">
-								<h3 class="heading-4 margin-bottom-0 small-content-padding">Shareholder analysis</h3>
-							</a>
+						<div class="col-4 text-center dark-blue-border-right flex-column d-flex align-items-center justify-content-center">
+							<h3 class="heading-4 margin-bottom-0 small-content-padding">Shareholder analysis</h3>
+							<a href="pages/shareholder/shareholder_analysis" class="btn grey-btn margin-top-0">Read full report <span class="sky-blue">>></span></a>
 						</div>
-						<div class="col-4 dark-blue-border-right text-center d-flex align-items-center justify-content-center">
-							<a href="pages/shareholder/shareholder_diary">
-								<h3 class="heading-4 margin-bottom-0">Shareholders' diary</h3>
-							</a>
+						<div class="col-4 dark-blue-border-right text-center flex-column d-flex align-items-center justify-content-center">
+							<h3 class="heading-4 margin-bottom-0 small-content-padding">Shareholders' diary</h3>
+							<a href="pages/shareholder/shareholder_diary" class="btn grey-btn margin-top-0">Read full report <span class="sky-blue">>></span></a>
 						</div>
-						<div class="col-4 text-center d-flex align-items-center justify-content-center">
-							<a href="pages/shareholder/corporate_information">
-								<h3 class="heading-4 margin-bottom-0">Corporate information</h3>
-							</a>
+						<div class="col-4 text-center d-flex flex-column align-items-center justify-content-center">
+							<h3 class="heading-4 margin-bottom-0 small-content-padding">Corporate information</h3>
+							<a href="pages/shareholder/corporate_information" class="btn grey-btn margin-top-0">Read full report <span class="sky-blue">>></span></a>
 						</div>
 					</div>
 				</div>

@@ -9,7 +9,7 @@
             <div class="col-9 col-lg-10 side-padding">
                 <h1 class="text-uppercase margin-bottom-5px">Shareholder analysis</h1>
                 <h4 >At 31 August 2018</h4>
-                <blockquote class="dark-blue-border-top dark-blue-border-bottom d-flex">
+                <blockquote class="dark-blue-border-top dark-blue-border-bottom d-flex margin-bottom-60px">
                     <em>Clicks Group has proven to be increasingly attractive to international investors over the past decade and 70% of the group’s shares are now held by offshore fund managers.</em>
                 </blockquote>
                <table>

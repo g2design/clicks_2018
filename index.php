@@ -111,18 +111,6 @@
 				<img src="assets/img/homepage/creating_value.jpg" alt="Creating value">
 			</div>
 		</div>
-		<div class="row small-content-padding">
-			<div class="col-12">
-				<h3 class="text-uppercase sky-blue">Listen</h3>
-				<div class="dash"></div>
-			</div>
-			<div class="col-7">
-				<p>PODCAST – FINANCIAL RESULTS >> Clicks delivered another strong trading performance in tough retail conditions, reporting good volume growth and increased market shares in all product categories. </p>
-			</div>
-			<div class="col-5 d-flex align-items-center justify-content-center">
-				<audio src="" type="audio/mp3" controls></audio>
-			</div>
-		</div>
 	</section>
 
 	<section class="light-blue-bg large-content-padding group-profile">
@@ -355,14 +343,14 @@
 				</div>
 				<div class="col-12">
 					<div class="clicks-slider margin-bottom-20px">
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery.jpg);">
-							<p class="white">Clicks operates 622 stores in destination and convenience formats.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/clicks_gallery.jpg);">
+							<p class="white"></p>
 						</div>
-						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery2.jpg);">
-							<p class="white">In both formats the beauty department is the start of the customer journey through our store.</p>
+						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/beauty_gallery.jpg);">
+							<p class="white"></p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery3.jpg);">
-							<p class="white">We have a growing presence in the fragrance market.</p>
+							<p class="white"></p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/gallery/Clicks-Experience-Gallery4.jpg);">
 							<p class="white">Sorbet is one of our exclusive brands in partnership with Sorbet salons, South Africa’s leading beauty salon brand.</p>

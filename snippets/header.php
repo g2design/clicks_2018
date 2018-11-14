@@ -45,11 +45,11 @@
 							<ul>
 								<li>
 									<img src="assets/img/header/downloads.png" alt="Downloads">
-									<span class="blue">Downloads</span>
+									<a href="pages/online_reports/online_reports" class="blue">Downloads</a>
 								</li>
 								<li>
 									<img src="assets/img/header/page.png" alt="Shareholder Information">
-									<span class="blue">Shareholder Information</span>
+									<a href="pages/shareholder/shareholder_analysis" class="blue">Shareholder Information</a>
 								</li>
 							</ul>
 						</div>
@@ -143,27 +143,28 @@
 									<a class="navbar-item d-flex align-items-center" href="pages/financial_statements/financial_statements">Summary audited <br>financial statements</a>
 									<div class="dropdown text-left">
 										<ul>
-											<li><h5 class="dark-blue remove-bottom-margin">AUDITED ANNUAL FINANCIAL STATEMENTS 2017</h5></li>
-											<li><a href="assets/pdfs/1_Directors_responsibility_statement.pdf" target="_blank">Directors' responsibility statement</a></li>
-											<li><a href="assets/pdfs/2_Certificate_by_the_company_secretary.pdf" target="_blank">Certificate by the company secretary</a></li>
-											<li><a href="assets/pdfs/3_Directors_report.pdf" target="_blank">Directors' report</a></li>
-											<li><a href="assets/pdfs/4_Audit_and_risk_committee_report.pdf" target="_blank">Audit and risk committee report</a></li>
-											<li><a href="assets/pdfs/5_Independent_Auditors_report.pdf" target="_blank">Independent auditor's report</a></li>
-											<li><a href="assets/pdfs/6_Consolidated_statement_of_comprehensive_income.pdf" target="_blank">Consolidated statement of comprehensive income</a></li>
-											<li><a href="assets/pdfs/7_Consolidated_statement_of_financial_position.pdf" target="_blank">Consolidated statement of financial position</a></li>
-											<li><a href="assets/pdfs/8_Consolidated_statement_of_changes_in_equity.pdf" target="_blank">Consolidated statement of changes in equity</a></li>
-											<li><a href="assets/pdfs/9_Consolidated_statement_of_cash_flows.pdf" target="_blank">Consolidated statement of cash flows</a></li>
-											<li><a href="assets/pdfs/10_Notes_to_the_consolidated_statement_of_cash_flows.pdf" target="_blank">Notes to the consolidated statement of cash flows</a></li>
-											<li><a href="assets/pdfs/11_Segmental_analysis.pdf" target="_blank">Segmental analysis</a></li>
-											<li><a href="assets/pdfs/12_Accounting_policies.pdf" target="_blank">Accounting policies</a></li>
-											<li><a href="assets/pdfs/13_Notes_to_the_annual_financial_statements.pdf" target="_blank">Notes to the annual financial statements</a></li>
-											<li><a href="assets/pdfs/14_Company_statement_of_comprehensive_income.pdf" target="_blank">Company statement of comprehensive income</a></li>
-											<li><a href="assets/pdfs/15_Company_statement_of_financial_position.pdf" target="_blank">Company statement of financial position</a></li>
-											<li><a href="assets/pdfs/16_Company_statement_of_changes_in_equity.pdf" target="_blank">Company statement of changes in equity</a></li>
-											<li><a href="assets/pdfs/17_Company_statement_of_cash_flows.pdf" target="_blank">Company statement of cash flows</a></li>
-											<li><a href="assets/pdfs/19_Interest_in_subsidiary_companies.pdf" target="_blank">Interest in subsidiary companies</a></li>
-											<li class="margin-bottom-10px"><a href="assets/pdfs/20_Analysis_of_shareholders.pdf" target="_blank">Analysis of shareholders</a></li>
-											<li class="blue">These are the audited annual financial statements of the group and the company for the year ended 31&nbsp;August&nbsp;2017. They have been prepared under the supervision of the chief financial officer, M Fleming CA (SA). </li>
+											<li><h5 class="dark-blue remove-bottom-margin">AUDITED ANNUAL FINANCIAL STATEMENTS 2018</h5></li>
+											<li><a href="assets/pdfs/financials/1.Directors’_responsibility_statement.pdf" target="_blank">Directors' responsibility statement</a></li>
+											<li><a href="assets/pdfs/financials/2.Certificate_by_the_company_secretary.pdf" target="_blank">Certificate by the company secretary</a></li>
+											<li><a href="assets/pdfs/financials/3.Directors’_report.pdf" target="_blank">Directors' report</a></li>
+											<li><a href="assets/pdfs/financials/4.Audit_and_risk_committee_report.pdf" target="_blank">Audit and risk committee report</a></li>
+											<li><a href="assets/pdfs/financials/5.Independent_Auditor’s_report.pdf" target="_blank">Independent auditor's report</a></li>
+											<li><a href="assets/pdfs/financials/6.Consolidated_statement_of_comprehensive_income.pdf" target="_blank">Consolidated statement of comprehensive income</a></li>
+											<li><a href="assets/pdfs/financials/7.Consolidated_statement_of_financial_position.pdf" target="_blank">Consolidated statement of financial position</a></li>
+											<li><a href="assets/pdfs/financials/8.Consolidated_statement_of_changes_in_equity.pdf" target="_blank">Consolidated statement of changes in equity</a></li>
+											<li><a href="assets/pdfs/financials/9.Consolidated_statement_of_cash_flows.pdf" target="_blank">Consolidated statement of cash flows</a></li>
+											<li><a href="assets/pdfs/financials/10.Notes_to_the_consolidated_statement_of_cash_flows.pdf" target="_blank">Notes to the consolidated statement of cash flows</a></li>
+											<li><a href="assets/pdfs/financials/11.Segmental_analysis.pdf" target="_blank">Segmental analysis</a></li>
+											<li><a href="assets/pdfs/financials/12.Accounting_policies.pdf" target="_blank">Accounting policies</a></li>
+											<li><a href="assets/pdfs/financials/13.Notes_to_the_annual_financial_statements.pdf" target="_blank">Notes to the annual financial statements</a></li>
+											<li><a href="assets/pdfs/financials/14.Company_statement_of_comprehensive_income.pdf" target="_blank">Company statement of comprehensive income</a></li>
+											<li><a href="assets/pdfs/financials/15.Company_statement_of_financial_position.pdf" target="_blank">Company statement of financial position</a></li>
+											<li><a href="assets/pdfs/financials/16.Company_statement_of_changes_in_equity.pdf" target="_blank">Company statement of changes in equity</a></li>
+											<li><a href="assets/pdfs/financials/17.Company_statement_of_cash_flows.pdf" target="_blank">Company statement of cash flows</a></li>
+											<li><a href="assets/pdfs/financials/18.Notes_to_the_company_statement_of_cash_flows.pdf" target="_blank">Notes to the company statement of cash flows</a></li>
+											<li><a href="assets/pdfs/financials/19.Interest_in_subsidiary_companies.pdf" target="_blank">Interest in subsidiary companies</a></li>
+											<li class="margin-bottom-10px"><a href="assets/pdfs/financials/20.Analysis_of_shareholders.pdf" target="_blank">Analysis of shareholders</a></li>
+											<li class="blue">These are the audited annual financial statements of the group and the company for the year ended 31&nbsp;August&nbsp;2018. They have been prepared under the supervision of the chief financial officer, M Fleming CA (SA). </li>
 										</ul>
 									</div>
 								</li>

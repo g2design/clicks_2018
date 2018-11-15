@@ -386,58 +386,58 @@
 				<div class="col-12">
 					<div class="clicks-slider margin-bottom-20px">
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery.jpg);">
-							<p class="white"></p>
+						<p class="white">Clicks operates 663 stores in destination and convenience formats.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery2.jpg);">
-							<p class="white"></p>
+							<p class="white">In both formats the beauty department is the start of the customer journey through our store.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery3.jpg);">
-							<p class="white"></p>
+							<p class="white">We have a growing presence in the fragrance market.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery4.jpg);">
 							<p class="white"></p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery5.jpg);">
-							<p class="white"></p>
+							<p class="white">The Clicks Group operates the franchise for The Body Shop in southern Africa. There are 59 standalone stores and a presence in 170 Clicks stores.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery6.jpg);">
-							<p class="white"></p>
+							<p class="white">Sorbet is one of our exclusive brands in partnership with Sorbet salons, South Africa’s leading beauty salon brand.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery7.jpg);">
-							<p class="white"></p>
+							<p class="white">Clicks runs more health and beauty promotions than any other retailer.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery8.jpg);">
-							<p class="white"></p>
+							<p class="white">Baby is a strategically important category to attract new customers.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery9.jpg);">
-							<p class="white"></p>
+							<p class="white">Baby is a strategically important category to attract new customers.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery10.jpg);">
-							<p class="white"></p>
+							<p class="white">We are the market leader in toiletries.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery11.jpg);">
-							<p class="white"></p>
+							<p class="white">We are the market leader in toiletries.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery12.jpg);">
-							<p class="white"></p>
+							<p class="white">GNC is our leading exclusive brand in supplements.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery13.jpg);">
-							<p class="white"></p>
+							<p class="white">Pharmacies are in 510 of our stores.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery14.jpg);">
-							<p class="white"></p>
+							<p class="white">Clicks has over xxxx private label products.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery15.jpg);">
-							<p class="white"></p>
+							<p class="white">>We operate clinics in 203 of our stores.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery16.jpg);">
 							<p class="white"></p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery17.jpg);">
-							<p class="white"></p>
+							<p class="white">We are the market leader in small electrical appliances.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery18.jpg);">
-							<p class="white"></p>
+							<p class="white">We employ over 15 000 people in Clicks.</p>
 						</div>
 					</div>
 					<div class="clicks-nav light-grey-bg">

@@ -84,7 +84,7 @@
                 <p>The group’s medium-term financial targets rank in the upper quartile relative to comparable global health and beauty retailers such as Walgreens Boots Alliance (USA), CVS (USA), Raia Drogasil (Brazil) and Celesio (Germany).</p>
                 <h4 class="sky-blue">Financial performance</h4>
                 <p>The following review of the group’s financial performance for the year ended 31 August 2018 focuses on the key line items of the statements of comprehensive income and financial position which management consider material to the group’s performance.</p>
-                <p>The following review should be considered together with the <a href="">annual financial statements</a> as well as the <a href="">summary statements of comprehensive income and financial position</a>, and the <a href="">five-year analysis of financial performance</a>.</p>
+                <p>The following review should be considered together with the <a href="assets/pdfs/online_reports/Clicks_AFS_2018_online.pdf" target="_blank">annual financial statements</a> as well as the <a href="">summary statements of comprehensive income and financial position</a>, and the <a href="assets/pdfs/online_reports/Clicks_Five_Year_2018_online.pdf" target="_blank">five-year analysis of financial performance</a>.</p>
                 <h4 class="sky-blue">Statement of comprehensive income</h4>
                 <h5 class="margin-bottom-0"><b>Turnover</b></h5>
                 <p>Group turnover increased by 9.1% to R29.2 billion (2017: R26.8 billion). Selling price inflation for the group averaged only 1.9% for the year compared to 5.3% in the previous year.</p>

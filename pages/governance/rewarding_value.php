@@ -36,7 +36,7 @@
                 <p>Non-monetary rewards are less tangible and range from formal and informal recognition programmes, training and job rotation opportunities and exposure to stimulating work assignments, all of which are designed to motivate, affiliate and retain employees.</p>
                 <p>Employees receive a total reward statement annually which provides a personalised comprehensive view of all their rewards.</p>
                 <p>Pay levels are benchmarked on national and retail market benchmark data. The 2018 benchmarking process and the resultant pay framework was peer reviewed by independent reward consultants (21st Century) who verified the accuracy of the benchmarking process and outcomes, as well as compliance to King IV. Premiums are paid for scarce and critical skills such as pharmacy, buying and planning, finance and IT skills, based on the relevant market data.</p>
-                <p>Annual salary increases are merit based, with increases being directly related to each employee’s annual performance rating. The range of increase percentages per performance rating is applied consistently across the group, including to the executive directors. The annual increase for an employee in the bargaining unit is based on a collective bargaining process (refer to the <a href="">section on remuneration of management&nbsp;and&nbsp;staff</a>).</p>
+                <p>Annual salary increases are merit based, with increases being directly related to each employee’s annual performance rating. The range of increase percentages per performance rating is applied consistently across the group, including to the executive directors. The annual increase for an employee in the bargaining unit is based on a collective bargaining process (refer to the <a href="pages/governance/rewarding_value#remuneration">section on remuneration of management&nbsp;and&nbsp;staff</a>).</p>
                 <h5 class="margin-bottom-0">Remuneration structure</h5>
                 <p>The total rewards framework provides flexibility to meet the differing needs of employees.</p>
                 <p class="margin-bottom-5px">Annual guaranteed pay is determined by considering the following factors:</p>
@@ -149,7 +149,7 @@
                     <li>The scheme provides for a stretch performance incentive to drive extraordinary performance. The stretch performance hurdle is met when the targeted group RONA is achieved and the targeted operating profit has been exceeded by at least 5%.</li>
                     <li>Bonus payments are capped at 120% of annual guaranteed remuneration for the chief executive officer and at 80% for the other executive&nbsp;directors.</li>
                 </ul>
-                <p>The achievement of targets is reviewed by the committee before any incentive payments are made to executive directors.</p>
+                <p id="remuneration">The achievement of targets is reviewed by the committee before any incentive payments are made to executive directors.</p>
                 <h5 class="margin-bottom-0">Long-term incentive scheme</h5>
                 <p>Executive directors participate in the <a href="pages/governance/rewarding_value#longterm-incentive">cash-settled long-term incentive scheme</a>.</p>
                 <h4 class="sky-blue">Remuneration of management and staff</h4>

@@ -254,12 +254,16 @@ header .main-nav {
         header .main-nav nav ul li.menu-item.activeItem .navbar-item {
           color: white; }
       header .main-nav nav ul li.menu-item:nth-child(6) .dropdown {
+        max-height: 550px;
+        overflow-Y: scroll;
         min-width: 400px;
         left: initial;
         right: 0; }
       header .main-nav nav ul li.menu-item:last-child {
         border-right: 0; }
         header .main-nav nav ul li.menu-item:last-child .dropdown {
+          max-height: 550px;
+          overflow-Y: scroll;
           left: initial;
           right: 0; }
     header .main-nav nav ul li .navbar-item {
@@ -804,7 +808,7 @@ footer {
   padding: 10px 0; }
 
 .blue {
-  color: #005BAA; }
+  color: #005BAA !important; }
 
 .white {
   color: white;

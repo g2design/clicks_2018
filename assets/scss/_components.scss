@@ -157,6 +157,8 @@ header {
 						}
 						&:nth-child(6) {
 							.dropdown {
+								max-height: 550px;
+    							overflow-Y: scroll;
 								min-width: 400px;
 								left: initial;
 								right: 0;
@@ -165,6 +167,8 @@ header {
 						&:last-child {
 							border-right: 0;
 							.dropdown {
+								max-height: 550px;
+    							overflow-Y: scroll;
 								left: initial;
 								right: 0;
 							}

@@ -10,7 +10,7 @@
                 <div class="dash"></div>
                 <div class="row">
                     <div class="col-8">
-                        <a href="">
+                        <a href="assets/pdfs/online_reports/Clicks_IAR_2018_Online.pdf">
                             <h5 class="margin-bottom-20px">Integrated Annual Report 2018</h5>
                         </a>
                         <h5 class="margin-bottom-5px"><b class="dark-blue">Financial reporting</b></h5>
@@ -41,7 +41,7 @@
                         <a href="" target="_blank">
                             <h5 class="margin-bottom-10px">Social and ethics committee report 2018</h5>
                         </a>
-                        <a href="" target="_blank">
+                        <a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">
                             <h5 class="margin-bottom-10px">Sustainability report 2018</h5>
                         </a>
                         <a href="" target="_blank">

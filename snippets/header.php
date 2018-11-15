@@ -48,7 +48,7 @@
 									<span class="blue">Downloads</span>
 									<div class="dropdown">
 										<ul>
-										<li class="margin-bottom-10px"><a href="" target="_blank">Integrated Annual Report 2018</a></li>
+										<li class="margin-bottom-10px"><a href="assets/pdfs/online_reports/Clicks_IAR_2018_Online.pdf" target="_blank">Integrated Annual Report 2018</a></li>
 											<li><b class="dark-blue">Financial reporting</b></li>
 											<li><a href="assets/pdfs/online_reports/Clicks_AFS_2018_online.pdf" target="_blank">Annual financial statements 2018</a></li>
 											<li><a href="assets/pdfs/online_reports/Clicks_Five_Year_2018_online.pdf" target="_blank">Five-year financial review</a></li>
@@ -61,7 +61,7 @@
 											<li class="margin-bottom-10px"><a href="assets/pdfs/online_reports/Clicks_Form_of_Proxy_2018_online.pdf" target="_blank">Form of proxy</a></li>
 											<li><b class="dark-blue">Sustainability</b></li>
 											<li><a href="" target="_blank">Social and ethics committee report 2018</a></li>
-											<li><a href="" target="_blank">Sustainability report 2018</a></li>
+											<li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Sustainability report 2018</a></li>
 											<li><a href="" target="_blank">Five-year sustainability review</a></li>
 										</ul>
 									</div>
@@ -198,7 +198,7 @@
 									<a class="navbar-item d-flex align-items-center" href="pages/online_reports/online_reports">Online reports</a>
 									<div class="dropdown text-left">
 										<ul>
-											<!-- <li class="margin-bottom-10px"><a href="" target="_blank">Integrated Annual Report 2018</a></li> -->
+											<li class="margin-bottom-10px"><a href="assets/pdfs/online_reports/Clicks_IAR_2018_Online.pdf" target="_blank">Integrated Annual Report 2018</a></li>
 											<li><b class="dark-blue">Financial reporting</b></li>
 											<li><a href="assets/pdfs/online_reports/Clicks_AFS_2018_online.pdf" target="_blank">Annual financial statements 2018</a></li>
 											<li><a href="assets/pdfs/online_reports/Clicks_Five_Year_2018_online.pdf" target="_blank">Five-year financial review</a></li>
@@ -210,9 +210,9 @@
 											<li><a href="assets/pdfs/online_reports/Clicks_AGM_2018_online.pdf" target="_blank">Notice to shareholders</a></li>
 											<li class="margin-bottom-10px"><a href="assets/pdfs/online_reports/Clicks_Form_of_Proxy_2018_online.pdf" target="_blank">Form of proxy</a></li>
 											<li><b class="dark-blue">Sustainability</b></li>
-											<!-- <li><a href="" target="_blank">Social and ethics committee report 2018</a></li>
-											<li><a href="" target="_blank">Sustainability report 2018</a></li>
-											<li><a href="" target="_blank">Five-year sustainability review</a></li> -->
+											<!-- <li><a href="" target="_blank">Social and ethics committee report 2018</a></li> -->
+											<li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Sustainability report 2018</a></li>
+											<!-- <li><a href="" target="_blank">Five-year sustainability review</a></li> -->
 										</ul>
 									</div>
 								</li>

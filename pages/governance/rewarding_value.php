@@ -18,8 +18,8 @@
                 </ul>
                 <p>The steps taken to address legitimate and reasonable concerns will be disclosed in the following years’ integrated report.</p>
                 <p>The remuneration philosophy and reward principles remain consistent with last year when the remuneration policy was aligned to King IV to outline the group’s approach to fair, responsible and transparent remuneration practices across the business. At the 2018 AGM, 93.9% of shareholders who voted supported the group’s remuneration policy and 94.6% supported the group’s remuneration implementation report.</p>
-                <p class="margin-bottom-40px">This report provides an overview of the remuneration of all group employees as well as disclosing executive director remuneration and the alignment with shareholder value creation. The remuneration paid to executive and non-executive directors for the 2018 financial year is detailed on <a href="">pages 75 and 77</a>.</p>
-                <img class="margin-bottom-40px" src="assets/img/governance/pharmacy.jpg" alt="Pharmacy">
+                <p class="margin-bottom-40px">This report provides an overview of the remuneration of all group employees as well as disclosing executive director remuneration and the alignment with shareholder value creation. The remuneration paid to executive and non-executive directors for the 2018 financial year is detailed in part 2 below.</p>
+                <img class="margin-bottom-40px" src="assets/img/governance/pharmacy.JPG" alt="Pharmacy">
                 <h2 class="heading-3 white sky-blue-bg text-uppercase box-padding-smaller margin-bottom-20px text-center">Part 1: Remuneration policy</h2>
                 <h5 class="margin-bottom-0">Introduction</h5>
                 <p class="margin-bottom-5px">The group’s remuneration policy is based on the total rewards model and integrates the five key elements that attract, motivate and retain human capital to achieve the desired business results:</p>
@@ -30,7 +30,7 @@
                     <li>learning and development; and</li>
                     <li>work-life integration.</li>
                 </ul>
-                <p>The reward principles of fair and responsible remuneration, market competitiveness, and pay-for-performance are entrenched in the policy. The policy is transparent and incorporates a pay framework that clearly differentiates between occupational levels and pay grades that facilitate remuneration benchmarking for each job within a skill pool.</p>
+                <p>The reward principles of fair and responsible remuneration, market competitiveness, and pay-for-performance are entrenched in the policy. The&nbsp;policy is transparent and incorporates a pay framework that clearly differentiates between occupational levels and pay grades that facilitate remuneration benchmarking for each job within a skill pool.</p>
                 <p>The remuneration mix includes a combination of monetary and non-monetary rewards for employees in exchange for their time, efforts, talent and performance at an individual, team and company level.</p>
                 <p>Monetary rewards include annual guaranteed pay, variable pay such as short and long-term incentives that relate to performance to agreed targets, as well as other benefits.</p>
                 <p>Non-monetary rewards are less tangible and range from formal and informal recognition programmes, training and job rotation opportunities and exposure to stimulating work assignments, all of which are designed to motivate, affiliate and retain employees.</p>
@@ -57,7 +57,7 @@
                     <li>Learning and growth</li>
                 </ul>
                 <p>Executives are also measured against the objectives set by the social and ethics committee in relation to all the elements of the BBBEE scorecard.</p>
-                <p>All employees are required to achieve a satisfactory performance rating to qualify for full participation in the shortterm incentive scheme.</p>
+                <p>All employees are required to achieve a satisfactory performance rating to qualify for full participation in the short-term incentive scheme.</p>
                 <h4 class="sky-blue">Executive directors' remuneration</h4>
                 <p>The group’s remuneration policy has been reviewed by the committee to ensure that executive directors’ remuneration is fair and responsible in the context of overall employee remuneration, particularly given the nature of the retail industry and considering South Africa’s socio-economic landscape.</p>
                 <p>The policy prescribes that the levels of pay and incentives awarded to executive directors are set rationally and impartially, and are free from discrimination, self-interest, prejudice or favouritism. Executive pay is linked to value creation and positive outcomes, is subject to independent oversight and approval by the committee, and is considered by the directors to be sustainable and responsible.</p>
@@ -74,7 +74,7 @@
                             <td class="dark-blue-bg bottom">
                                 <b><h5 class="white margin-bottom-0">Guaranteed remuneration</h5></b>
                             </td>
-                            <td colspan="2" class="sky-blue-bg bottom">
+                            <td colspan="2" class="sky-blue-bg bottom text-center">
                                 <b><h5 class="white margin-bottom-0">Variable and performance-related remuneration</h5></b>
                             </td>
                         </tr>
@@ -85,7 +85,7 @@
                             Annual guaranteed pay, comprising base salary, retirement and other benefits; allows for flexible retirement fund contributions
                             </td>
                             <td class="top border-bottom-thin border-right">
-                            Annual short-term cashbased incentive bonus
+                            Annual short-term cash-based incentive bonus
                             </td>
                             <td class="top border-bottom-thin">
                             Long-term incentive schemes
@@ -141,9 +141,9 @@
                 <p>The annual pay increase of the executive directors is directly related to individual performance ratings and aligned to the annual increase ranges per performance rating as determined by the committee and applied consistently across the group. The sustainability of the group’s business is critical in determining remuneration and the board is satisfied that the performance targets do not encourage increased risk-taking by the executives.</p>
                 <h5 class="margin-bottom-0">Incentive schemes</h5>
                 <p>A significant portion of short-term and long-term remuneration is variable and designed to incentivise executive directors.</p>
-                <p>Should executive directors not meet the targets set by the committee for the short-term and long-term incentive schemes, then no amounts will be payable under the schemes and executive directors will only receive their guaranteed remuneration. Performance hurdles and caps for both the short-term and long-term incentive schemes apply to the participants, including the executive directors, which are set out below and on <a href="">pages 71 to 73 respectively</a>.</p>
+                <p>Should executive directors not meet the targets set by the committee for the short-term and long-term incentive schemes, then no amounts will be payable under the schemes and executive directors will only receive their guaranteed remuneration. Performance hurdles and caps for both the short-term and long-term incentive schemes apply to the participants, including the executive directors, which are set out below and on <a href="pages/governance/rewarding_value#incentive-scheme">under the incentive schemes section further down on the page</a>.</p>
                 <h5 class="margin-bottom-0">Short-term incentive scheme</h5>
-                <p class="margin-bottom-5px">A bonus of 40% (60% in the case of the chief executive officer) of annual guaranteed pay is paid on the achievement of an ontarget performance with performance hurdles of at least 95% of the targeted group RONA and operating profit.</p>
+                <p class="margin-bottom-5px">A bonus of 40% (60% in the case of the chief executive officer) of annual guaranteed pay is paid on the achievement of an on-target performance with performance hurdles of at least 95% of the targeted group RONA and operating profit.</p>
                 <ul class="margin-top-0">
                     <li>Performance exceeding the targeted performance may result in the payment of a higher bonus. This is self-funded and only paid if the group exceeds the targeted operating profit.</li>
                     <li>The scheme provides for a stretch performance incentive to drive extraordinary performance. The stretch performance hurdle is met when the targeted group RONA is achieved and the targeted operating profit has been exceeded by at least 5%.</li>
@@ -151,7 +151,7 @@
                 </ul>
                 <p>The achievement of targets is reviewed by the committee before any incentive payments are made to executive directors.</p>
                 <h5 class="margin-bottom-0">Long-term incentive scheme</h5>
-                <p>Executive directors participate in the cash-settled long-term incentive scheme which is detailed on <a href="">pages 72 to 74</a>.</p>
+                <p>Executive directors participate in the <a href="pages/governance/rewarding_value#longterm-incentive">cash-settled long-term incentive scheme</a>.</p>
                 <h4 class="sky-blue">Remuneration of management and staff</h4>
                 <p>Senior managers receive an annual guaranteed salary and participate in the short-term incentive bonus scheme. Salaries may include premiums for scarce and critical skills. A limited number of senior managers participate in the long-term incentive scheme, based on strategic contribution to their business unit and their individual performance levels.</p>
                 <p>An annual performance-based salary increase is paid to all permanent monthly paid non-bargaining unit employees. The annual increase date is 1 September which is aligned with the group’s financial year and budgeting period.</p>
@@ -166,7 +166,7 @@
                 <p>Through the ESOP scheme 10% of the group’s issued shares (after the issue of “A” shares equating to 29.2 million “A” shares) were placed in a share trust for allocation to all full-time permanent staff. Employees with more than five years’ service, pharmacists and senior employees from designated employment equity groups received a 15% enhancement of their share allocation.</p>
                 <p>Shares are held by 7 839 beneficiaries, with black employees receiving 86% and women 65% of the shares. Pharmacists comprise 5% of the ESOP beneficiaries. Participating employees receive a cash dividend annually, equal to 10% of the total dividend paid to ordinary shareholders each year.</p>
                 <h5 class="margin-bottom-0">Group retention scheme</h5>
-                <p>The group retention scheme is aimed at retaining talented employees by providing them with a long-term financial incentive which is aligned with shareholders’ interests.</p>
+                <p id="incentive-scheme">The group retention scheme is aimed at retaining talented employees by providing them with a long-term financial incentive which is aligned with shareholders’ interests.</p>
                 <p>The scheme targets high-potential employees, black staff and employees with scarce and critical skills. There are currently 42 employees participating in the scheme, of whom 31% are black and 33% are women.</p>
                 <h4 class="sky-blue">Incentive schemes</h4>
                 <p>Short-term and long-term incentives are an integral part of the total rewards framework and aim to align employee performance with the interests of shareholders.</p>
@@ -175,13 +175,13 @@
                 <ul class="margin-top-0">
                     <li><b><em>RONA-based short-term incentive scheme</em></b>
                         <p class="margin-bottom-5px">Performance for the group’s RONA-based short-term incentive scheme is measured at the group, business unit and team level against agreed targets. Although the scheme rewards team performance, individual performance as measured through the group’s annual performance appraisal process may limit the value of the payment should an employee not meet individual performance targets.</p>
-                        <p class="margin-bottom-5px">Performance exceeding the targeted performance may result in the payment of a higher incentive, provided this is funded by an increase in the operating profit. Incentives for management and staff are capped at two times the value of an on-target bonus.</p>
+                        <p class="margin-bottom-5px" id="longterm-incentive">Performance exceeding the targeted performance may result in the payment of a higher incentive, provided this is funded by an increase in the operating profit. Incentives for management and staff are capped at two times the value of an on-target bonus.</p>
                     </li>
                     <li><b><em>Retail store incentive scheme</em></b>
                         <p class="margin-bottom-0">The retail store incentive scheme rewards staff in retail stores for outperforming quarterly store sales targets.</p>
                     </li>
                 </ul>
-                <h5 class="margin-bottom-0">Long-term incentive scheme</h5>
+                <h5 class="margin-bottom-0" >Long-term incentive scheme</h5>
                 <p>Long-term incentive (LTI) schemes are aimed at aligning executive remuneration with shareholder interests by rewarding executives for the creation of shareholder value. The LTI schemes have a three-year term, with performance hurdles. Successive annual allocations ensure that the executives and senior managers who participate in the scheme are incentivised based on the sustained performance of the group measured by the increase in diluted headline earnings per share (HEPS) and the increase in total shareholder return (TSR).</p>
                 <p class="margin-bottom-5px">The LTI schemes are regularly reviewed and enhanced to align with evolving best practice locally and internationally, and based on engagement with major shareholders.</p>
                 <ul class="margin-top-0">
@@ -540,7 +540,7 @@
                 <p>The fee structure for non-executive directors is based on a review of a number of internal, economic and market factors, and is independently benchmarked each year. The group’s policy is to pay non-executive director fees in a range of 80% to 120% of the median of a comparator group of JSE-listed retail companies. The median is based on the number of board and committee meetings held per annum. Non-executive directors receive a base fee for serving on the board or any committee, together with an attendance fee per meeting. The base fee comprises 75% of the total fee. The chairman of the board or any committee receives a higher fee. Directors’ fees are paid for a calendar year.</p>
                 <h4 class="sky-blue">Remuneration governance</h4>
                 <p>The committee, operating under the authority delegated by the board, is responsible for overseeing the establishment and maintenance of the group’s remuneration policy, policy outcomes and pay practices. The committee assists the board in ensuring the group has a competitive remuneration policy and governance framework which is aligned with the group’s strategic and organisational performance objectives.</p>
-                <p>In line with the recommendations of King IV the committee comprises only independent non-executive directors, namely Professor Fatima Abrahams (chair), John Bester, David Nurek and Martin Rosen. The chief executive officer and the group human resources director attend committee meetings by invitation but are recused from discussions that relate to their own performance appraisal and remuneration. Detail on the committee meeting attendance is included on <a href="">page 58</a>.</p>
+                <p>In line with the recommendations of King IV the committee comprises only independent non-executive directors, namely Professor&nbsp;Fatima&nbsp;Abrahams (chair), John Bester, David Nurek and Martin Rosen. The chief executive officer and the group human resources director attend committee meetings by invitation but are recused from discussions that relate to their own performance appraisal and remuneration. Detail on the committee meeting attendance is included <a href="pages/governance/create_value_governance#board-attendance">in the board and committee meeting attendance table.</a>.</p>
                 <p>An external rewards specialist is retained to advise the committee on remuneration trends and benchmarking of both executive and non-executive remuneration. The members of the committee have independent access to the adviser and may request professional advice on any remuneration issue.</p>
                 <p class="margin-bottom-5px">The primary responsibilities of the committee include:</p>
                 <ul class="margin-top-0 margin-bottom-40px">
@@ -553,11 +553,11 @@
                 </ul>
                 <h2 class="heading-3 white sky-blue-bg text-uppercase box-padding-smaller margin-bottom-20px text-center">Part 2: Remuneration implementation report 2018</h2>
                 <h5 class="margin-bottom-0">Annual salary increase</h5>
-                <p>The average performance-linked increase effective from 1 September 2018 is 6.0% (2017: 5.8%). Negotiations regarding the salary increase for the bargaining unit employees in South Africa have not yet been concluded. In 2017 the average salary increase for bargaining unit staff was 7.8%.</p>
+                <p>The average performance-linked increase effective from 1 September 2018 is 6.0% (2017: 5.8%). Negotiations regarding the salary increase for the bargaining unit employees in South Africa have not yet been concluded. In 2017 the average salary increase for bargaining unit staff&nbsp;was&nbsp;7.8%.</p>
                 <h5 class="margin-bottom-0">Short-term incentive schemes</h5>
                 <p>RONA-based short-term incentive scheme: The targeted average monthly RONA was 85.7% and the group achieved 102.2%. The group achieved 99.7% of the targeted operating profit. The Clicks, UPD, The Body Shop and group services business units exceeded the short-term targets and R90.4 million will be paid in accordance with the scheme rules (2017: R97.5 million). This includes incentives paid in terms of the retail store incentive scheme where R21.0 million (2017: R20.3 million) was paid to retail store staff for the 2018 year.</p>
                 <h5 class="margin-bottom-0">Employee share ownership scheme</h5>
-                <p>In February 2018, R1.3 billion was paid to 7 839 beneficiaries, representing the gain on the first 50% of the shares allocated under the ESOP. The remaining 50% will be paid in 2019. A dividend of R7.2 million (2017: R6.8 million) was paid to scheme participants in 2018.</p>
+                <p>In February 2018, R1.3 billion was paid to 7 839 beneficiaries, representing the gain on the first 50% of the shares allocated under the ESOP. The&nbsp;remaining&nbsp;50% will be paid in 2019. A dividend of R7.2 million (2017: R6.8 million) was paid to scheme participants in 2018.</p>
                 <h5 class="margin-bottom-0">Group retention scheme</h5>
                 <p>During the financial year R46.1 million (2017: R50.4 million) was paid out to participants in the scheme.</p>
                 <h5 class="margin-bottom-0">Long-term incentive scheme</h5>
@@ -590,7 +590,7 @@
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Pension fund</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Other benefits</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Total annual guaranteed pay</b></td>
-                                <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">-term incentive</b></td>
+                                <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">RONA short-term incentive</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Performance-based long-term incentive*</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Total variable pay</b></td>
                                 <td class="sky-blue-bg bottom border-bottom-thick text-right"><b class="white">Total</b></td>
@@ -630,7 +630,7 @@
                                 <td class="light-blue-bg bottom text-right border-bottom-thin"><b>10 560</b></td>
                                 <td class="light-blue-bg bottom text-right border-bottom-thin"><b>6 336</b></td>
                                 <td class="light-blue-bg bottom text-right border-bottom-thin"><b>52 800</b></td>
-                                <td class="light-blue-bg bottom text-right border-bottom-thin"><b>59 1366</b></td>
+                                <td class="light-blue-bg bottom text-right border-bottom-thin"><b>59 136</b></td>
                                 <td class="light-blue-bg bottom text-right border-bottom-thin"><b>69 696</b></td>
                             </tr>
                             <tr>
@@ -739,8 +739,8 @@
                     <thead>
                         <tr>
                             <td class="border-bottom-thin bottom">Director (R’000)</td>
-                            <td class="border-bottom-thin bottom sky-blue-bg text-right"><b class="white">2018 Directors’ fees</b></td>
-                            <td class="border-bottom-thin bottom text-right">2017 Directors’ fees</td>
+                            <td class="border-bottom-thin bottom sky-blue-bg text-right"><b class="white">2018 <br>Directors’ fees</b></td>
+                            <td class="border-bottom-thin bottom text-right">2017 <br>Directors’ fees</td>
                         </tr>
                     </thead>
                     <tbody>

@@ -8,7 +8,7 @@
             <?php include '../../snippets/sidebars/sidebar_shareholder_info.php' ?>
             <div class="col-9 col-lg-10 side-padding">
                 <h1 class="text-uppercase margin-bottom-5px">Shareholder analysis</h1>
-                <h4 >At 31 August 2018</h4>
+                <h4 >At 31&nbsp;August&nbsp;2018</h4>
                 <blockquote class="dark-blue-border-top dark-blue-border-bottom d-flex margin-bottom-60px">
                     <em>Clicks Group has proven to be increasingly attractive to international investors over the past decade and 70% of the group’s shares are now held by offshore fund managers.</em>
                 </blockquote>
@@ -68,8 +68,8 @@
                     <thead>
                         <tr>
                             <td class="border-bottom-thick bottom"><b>Major beneficial shareholders holding 3% or more</b></td>
-                            <td class="sky-blue-bg bottom text-right border-bottom-thick"><b class="white">2018 Percentage of shares</b></td>
-                            <td class="bottom text-right border-bottom-thick">2017 Percentage of shares</td>
+                            <td class="sky-blue-bg bottom text-right border-bottom-thick"><b class="white">2018 <br>Percentage of shares</b></td>
+                            <td class="bottom text-right border-bottom-thick">2017 <br>Percentage of shares</td>
                         </tr>
                     </thead>
                     <tbody>
@@ -99,8 +99,8 @@
                     <thead>
                         <tr>
                             <td class="border-bottom-thick bottom"><b>Major fund managers managing 3% or more</b></td>
-                            <td class="sky-blue-bg bottom text-right border-bottom-thick"><b class="white">2018 Percentage of shares</b></td>
-                            <td class="bottom text-right border-bottom-thick">2017 Percentage of shares</td>
+                            <td class="sky-blue-bg bottom text-right border-bottom-thick"><b class="white">2018 <br>Percentage of shares</b></td>
+                            <td class="bottom text-right border-bottom-thick">2017 <br>Percentage of shares</td>
                         </tr>
                     </thead>
                     <tbody>

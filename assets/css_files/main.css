@@ -23,6 +23,11 @@ h4, .heading-4 {
     font-size: 45px !important;
     line-height: 50px !important; }
 
+h5, .heading-5 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px; }
+
 p, .p {
   font-size: 16px;
   line-height: 20px;
@@ -732,7 +737,7 @@ main .reward-value thead tr td.remove-padding, main .reward-value thead tr th.re
     padding-top: 60px; }
     .value-citizen .blue-header.share-ownership .dark-blue-border-right {
       border-right: none; }
-      @media screen and (min-width: 992px) {
+      @media screen and (min-width: 1200px) {
         .value-citizen .blue-header.share-ownership .dark-blue-border-right {
           border-right: 1px solid #003767; } }
     @media screen and (min-width: 992px) {

@@ -62,7 +62,7 @@
                         <div class="light-blue-bg box-padding dark-blue-border-bottom blue-header">
                             <h2 class="heading-3 white text-uppercase dark-blue-bg heading">Partnerships</h2>
                             <h3 class="margin-top-20px"><b>235 Clicks stores</b> serve as collection points for <b>National Health Insurance</b> medicine</h3>
-                            <h3>Partnering with <b>Western Cape and Northern Cape Departments of Health</b> to provide baby immunisation and family planning services</h3>
+                            <h3>Partnering with <b>Western Cape and Northern&nbsp;Cape&nbsp;Departments of Health</b> to provide baby immunisation and family planning services</h3>
                             <h3><b>R5.5 million</b> donated to the <b>Public Health Enhancement Fund</b> over the past six years to improve public healthcare, address skills shortages and advance research</h3>
                         </div>
                     </div>
@@ -77,20 +77,20 @@
                         <h3 class=" margin-bottom-20px">The broad-based employee share ownership plan (ESOP) was introduced in 2011 to enable employees to share in the long-term growth and success of the business. The ESOP aims to attract and retain scarce talent while accelerating transformation. The first 50% payout under the scheme was made in February 2018 and the final payment will be made in 2019.
                         </h3>
                         <div class="row">
-                            <div class="col-12 col-lg dark-blue-border-right text-center d-flex align-items-center justify-content-center margin-bottom-20px">
-                                <h3><b class="heading-2 sky-blue">R1.3 billion</b> <br>paid to participants in the scheme in 2018</h3>
+                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-center justify-content-center margin-bottom-20px">
+                                <h3><b class="heading-2 sky-blue">R1.3&nbsp;billion</b> <br>paid to participants in the scheme in 2018</h3>
                             </div>
-                            <div class="col-12 col-lg dark-blue-border-right text-center d-flex align-items-center justify-content-center  margin-bottom-20px">
+                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-center justify-content-center  margin-bottom-20px">
                                 <h3><b class="heading-2 sky-blue">5 830</b> <br>employees now shareholders through the ESOP</h3>
                             </div>
-                            <div class="col-12 col-lg dark-blue-border-right text-center d-flex align-items-center justify-content-center margin-bottom-20px">
+                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-center justify-content-center margin-bottom-20px">
                                 <h3><b class="heading-2 sky-blue">86%</b> <br>black beneficiaries of the scheme</h3>
                             </div>
-                            <div class="col-12 col-lg dark-blue-border-right text-center d-flex align-items-center justify-content-center margin-bottom-20px">
+                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-center justify-content-center margin-bottom-20px">
                                 <h3><b class="heading-2 sky-blue">65%</b> <br>female beneficiaries of the scheme</h3>
                             </div>
-                            <div class="col-12 col-lg text-center d-flex align-items-center justify-content-center margin-bottom-20px">
-                                <h3><b class="heading-2 sky-blue">R35.4 million</b> <br>paid in dividends to participants in the scheme since 2012</h3>
+                            <div class="col-12 col-xl text-center d-flex align-items-center justify-content-center margin-bottom-20px">
+                                <h3><b class="heading-2 sky-blue">R35.4&nbsp;million</b> <br>paid in dividends to participants in the scheme since 2012</h3>
                             </div>
                         </div>
                     </div>
@@ -135,7 +135,7 @@
                         </div>
                     </div>
                 </div>
-
+                <div class="dash"></div>
                 <div class="text-center">
                     <h2 class="heading-1 text-uppercase">Investing in our <span class="sky-blue larger xl"><br>community</span></h2>
                     <h3 class="margin-bottom-20px">Clicks Group continues to demonstrate its commitment to making a sustainable contribution to the communities in which it trades. This is achieved through both enterprise development, by accelerating the sustainability and financial independence of black enterprises, as well as social investment through financial and product donations to non-profit organisations and initiatives.</h3>
@@ -146,16 +146,16 @@
                 <div class="light-blue-bg box-padding medium-content-padding blue-header text-center margin-bottom-60px helping-hand">
                     <img src="assets/img/governance/p64_helping_hands_trust.png" alt="Helping Hands">
                     <h2 class="heading-3 white text-uppercase dark-blue-bg heading">Clicks helping hand trust</h2>
-                    <h3 class="margin-bottom-20px">The trust aims to benefit the lives of ordinary South Africans by offering free preventative testing and wellness services through the footprint of over 200 Clicks clinics countrywide.</h3>
+                    <h3 class="margin-bottom-20px">The trust aims to benefit the lives of ordinary South&nbsp;Africans by offering free preventative testing and wellness services through the footprint of over 200 Clicks clinics countrywide.</h3>
                     <div class="row">
                         <div class="col-6 dark-blue-border-right text-left">
                             <h3><b>212 000</b> lives positively impacted over past six years</h3>
                             <h3><b>Mom and baby</b> wellness and family services have reached over 92 000 families</h3>
-                            <h3><b>HIV testing</b> provided to over 58 000 South Africans through a campaign to encourage individuals to know their HIV status</h3>
+                            <h3><b>HIV testing</b> provided to over 58 000 South&nbsp;Africans through a campaign to encourage individuals to know their HIV status</h3>
                         </div>
                         <div class="col-6 text-left">
                             <h3><b>Heart disease</b> testing for more than 82 000 people to encourage healthier lifestyle&nbsp;choices</h3>
-                            <h3><b>Diabetes</b> testing and education for over 72 000 people on the prevention and early detection of the disease</h3>
+                            <h3><b>Diabetes</b> testing and education for over 72&nbsp;000 people on the prevention and early detection of the disease</h3>
                             <h3><b>Girls on the Go</b> campaign has provided reusable and washable sanitary pads to over 18 000 schoolgirls</h3>
                         </div>
                     </div>
@@ -192,7 +192,7 @@
                     <div class="col-12 col-lg-6 d-flex margin-bottom-40px">
                         <div class="light-blue-bg box-padding dark-blue-border-bottom blue-header text-center">
                             <h2 class="heading-3 white text-uppercase dark-blue-bg heading">UPD owner-driver scheme</h2>
-                            <h3 class="margin-top-20px">UPD contracts small enterprise ownerdrivers to deliver products from UPD to Clicks, independent pharmacies, hospitals and clinics.</h3>
+                            <h3 class="margin-top-20px">UPD contracts small enterprise owner-drivers to deliver products from UPD to Clicks, independent pharmacies, hospitals and clinics.</h3>
                             <h3 class="sky-blue"><b class="sky-blue">66 owner-drivers</b> contracted to deliver products for UPD</h3>
                             <h3 class="sky-blue"><b class="sky-blue">R33 million</b> paid to the driver scheme in 2018</h3>
                             <h3 class="sky-blue margin-bottom-20px">Over <b class="sky-blue">R483 million</b> paid since start of the scheme in 2003</h3>
@@ -202,7 +202,7 @@
                     <div class="col-12 col-lg-6 d-flex margin-bottom-40px">
                         <div class="light-blue-bg box-padding dark-blue-border-bottom blue-header text-center">
                             <h2 class="heading-3 white text-uppercase dark-blue-bg heading">The appliance bank</h2>
-                            <h3 class="margin-top-20px">The Appliance Bank forms part of the highly successful social entrepreneurship programme, The Clothing Bank. The programme equips unemployed men with technical skills to repair donated damaged household appliances and the business skills to buy and on-sell the repaired electrical appliances.</h3>
+                            <h3 class="margin-top-20px">The Appliance Bank forms part of the highly successful social entrepreneurship programme, The Clothing Bank. The&nbsp;programme equips unemployed men with technical skills to repair donated damaged household appliances and the business skills to buy and on-sell the repaired electrical appliances.</h3>
                             <h3 class="sky-blue margin-bottom-20px"><b class="sky-blue">Clicks</b> donates all returned domestic electrical appliances to the project</h3>
                             <img class="margin-bottom-20px" src="assets/img/governance/p65_appliance_bank_logo.png" alt="Appliance Bank" style="width: 200px;">
                             <h3 class="sky-blue"><b class="sky-blue">119 active business owners</b></h3>

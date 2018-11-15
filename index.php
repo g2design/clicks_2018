@@ -40,7 +40,7 @@
 		<div class="container">
 			<div class="row d-flex">
 				<div class="col-4 text-center margin-bottom-20px d-flex align-items-center justify-content-center">
-					<a class="white text-uppercase dark-grey-bg d-block width-100" href="" target="_blank">
+					<a class="white text-uppercase dark-grey-bg d-block width-100" href="assets/pdfs/online_reports/Clicks_IAR_2018_Online.pdf" target="_blank">
 						Download the full <br><b><u>Integrated Annual Report</u></b> >>
 					</a>
 				</div>
@@ -130,25 +130,24 @@
 	<section class="light-blue-bg large-content-padding group-profile">
 		<div class="container">
 			<div class="row">
-				<div class="col-12 col-lg-5 col-xl-4">
+				<div class="col-12">
 					<h2 class="text-uppercase">Group profile</h2>
 					<h4 class="blue">Clicks Group is a retail-led healthcare group which is listed in the Food and Drug Retailers sector on the JSE.</h4>
 					<p>Founded 50 years ago in 1968, the group has been listed on the JSE since 1996. Following changes in South African legislation in 2003 to allow corporate pharmacy ownership, the group entered the retail pharmacy market with the opening of the first Clicks pharmacy in 2004. Today the group is a leader in the healthcare market, in both retail pharmacy and pharmaceutical wholesaling.</p>
 					<a href="pages/about/group_profile" class="btn grey-btn margin-bottom-20px">Read full report <span class="sky-blue">>></span></a>
 				</div>
-				<div class="col-12 col-lg-7 col-xl-8 d-flex flex-column align-items-center justify-content-center">
-					<img class="medium-content-padding" src="assets/img/homepage/group_profile_image1.png" alt="Group Profile">
+				<div class="col-10 offset-1 d-flex flex-column align-items-center justify-content-center medium-content-padding">
 					<div class="row remove-flex width-100">
 						<div class="col-4 text-center d-flex flex-column align-items-center justify-content-center dark-blue-border-top dark-blue-border-bottom">
-							<p><span class="larger xl green">16.0%</span> <br>diluted HEPS <br>10-year CAGR</p>
+							<h5><span class="larger xl green">16.0%</span> <br>diluted HEPS <br>10-year CAGR</h5>
 						</div>
 						<div class="col-4 text-center d-flex flex-column align-items-center justify-content-center">
 							<div class="white-bg box-padding medium-content-padding">
-								<p><span class="larger xl blue">32.5%</span> <br>total shareholder return <br>10-year CAGR</p>
+								<h5><span class="larger xl blue">32.5%</span> <br>total shareholder return <br>10-year CAGR</h5>
 							</div>
 						</div>
 						<div class="col-4 text-center d-flex flex-column align-items-center justify-content-center dark-blue-border-top dark-blue-border-bottom">
-							<p><span class="larger xl sky-blue">20.1%</span> <br>dividend per share <br>10-year CAGR</p>
+							<h5><span class="larger xl sky-blue">20.1%</span> <br>dividend per share <br>10-year CAGR</h5>
 						</div>
 					</div>
 				</div>
@@ -285,67 +284,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-12 small-content-padding">
-				<h3 class="sky-blue text-uppercase">Watch</h3>
-				<div class="dash"></div>
-			</div>
-			<div class="col-4">
-				<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="3">
-					<div class="thumbnail">
-						<img src="assets/img/homepage/great_value.jpg" alt="Video 2">
-						<img class="icon" src="assets/img/video_icon.png" alt="Play button">
-					</div>
-					<p>Great Value</p>
-				</div>
-			</div>
-			<div class="col-4">
-				<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="4">
-					<div class="thumbnail">
-						<img src="assets/img/homepage/convenience.jpg" alt="Video 2">
-						<img class="icon" src="assets/img/video_icon.png" alt="Play button">
-					</div>
-					<p>Convenience</p>
-				</div>
-			</div>
-			<div class="col-4">
-				<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="5">
-					<div class="thumbnail">
-						<img src="assets/img/homepage/club_card.jpg" alt="Video 2">
-						<img class="icon" src="assets/img/video_icon.png" alt="Play button">
-					</div>
-					<p>Club Card</p>
-				</div>
-			</div>
-			<div class="col-4">
-				<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="6">
-					<div class="thumbnail">
-						<img src="assets/img/homepage/product_development.jpg" alt="Video 2">
-						<img class="icon" src="assets/img/video_icon.png" alt="Play button">
-					</div>
-					<p>Product Development</p>
-				</div>
-			</div>
-			<div class="col-4">
-				<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="7">
-					<div class="thumbnail">
-						<img src="assets/img/homepage/develop_people.jpg" alt="Video 2">
-						<img class="icon" src="assets/img/video_icon.png" alt="Play button">
-					</div>
-					<p>Developing Our People</p>
-				</div>
-			</div>
-			<div class="col-4">
-				<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="8">
-					<div class="thumbnail">
-						<img src="assets/img/homepage/helping_hands.jpg" alt="Video 1">
-						<img class="icon" src="assets/img/video_icon.png" alt="Play button">
-					</div>
-					<p>Helping Hands</p>
-				</div>
-			</div>
 		</div>
 	</section>
-
 	<section class="light-blue-bg business-review large-content-padding">
 		<div class="container">
 			<div class="row">
@@ -373,8 +313,71 @@
 			</div>
 		</div>
 	</section>
+	<section class="container medium-content-padding">
+		<div class="row">
+			<div class="col-12">
+					<h3 class="sky-blue text-uppercase">Watch</h3>
+					<div class="dash"></div>
+				</div>
+				<div class="col-4">
+					<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="3">
+						<div class="thumbnail">
+							<img src="assets/img/homepage/great_value.jpg" alt="Video 2">
+							<img class="icon" src="assets/img/video_icon.png" alt="Play button">
+						</div>
+						<p>Great Value</p>
+					</div>
+				</div>
+				<div class="col-4">
+					<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="4">
+						<div class="thumbnail">
+							<img src="assets/img/homepage/convenience.jpg" alt="Video 2">
+							<img class="icon" src="assets/img/video_icon.png" alt="Play button">
+						</div>
+						<p>Convenience</p>
+					</div>
+				</div>
+				<div class="col-4">
+					<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="5">
+						<div class="thumbnail">
+							<img src="assets/img/homepage/club_card.jpg" alt="Video 2">
+							<img class="icon" src="assets/img/video_icon.png" alt="Play button">
+						</div>
+						<p>Club Card</p>
+					</div>
+				</div>
+				<div class="col-4">
+					<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="6">
+						<div class="thumbnail">
+							<img src="assets/img/homepage/product_development.jpg" alt="Video 2">
+							<img class="icon" src="assets/img/video_icon.png" alt="Play button">
+						</div>
+						<p>Product Development</p>
+					</div>
+				</div>
+				<div class="col-4">
+					<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="7">
+						<div class="thumbnail">
+							<img src="assets/img/homepage/develop_people.jpg" alt="Video 2">
+							<img class="icon" src="assets/img/video_icon.png" alt="Play button">
+						</div>
+						<p>Developing Our People</p>
+					</div>
+				</div>
+				<div class="col-4">
+					<div class="video-block margin-bottom-40px video-trigger" data-video-trigger="8">
+						<div class="thumbnail">
+							<img src="assets/img/homepage/helping_hands.jpg" alt="Video 1">
+							<img class="icon" src="assets/img/video_icon.png" alt="Play button">
+						</div>
+						<p>Helping Hands</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
-	<section class="medium-content-padding clicks-exp">
+	<section class="medium-content-padding clicks-exp light-blue-bg">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">

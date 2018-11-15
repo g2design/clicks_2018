@@ -40,18 +40,18 @@
 		<div class="container">
 			<div class="row d-flex">
 				<div class="col-4 text-center margin-bottom-20px d-flex align-items-center justify-content-center">
-					<a class="white text-uppercase dark-grey-bg d-block width-100" href="">
+					<a class="white text-uppercase dark-grey-bg d-block width-100" href="" target="_blank">
 						Download the full <br><b><u>Integrated Annual Report</u></b> >>
 					</a>
 				</div>
 				<div class="col-4 text-center margin-bottom-20px d-flex align-items-center justify-content-center">
-					<a class="white text-uppercase dark-grey-bg d-block width-100" href="">
+					<a class="white text-uppercase dark-grey-bg d-block width-100" href="assets/pdfs/online_reports/Clicks_AFS_2018_online.pdf" target="_blank">
 						Download the full <br><b><u>Annual Financial Statements</u></b> >>
 					</a>
 				</div>
 				<div class="col-4 text-center margin-bottom-20px d-flex align-items-center justify-content-center">
-					<a class="white text-uppercase dark-grey-bg d-block width-100" href="">
-						Download the full <br><b><u>Five year Financial Revew</u></b> >>
+					<a class="white text-uppercase dark-grey-bg d-block width-100" href="assets/pdfs/online_reports/Clicks_Five_Year_2018_online.pdf" target="_blank">
+						Download the full <br><b><u>Five year Financial Review</u></b> >>
 					</a>
 				</div>
 			</div>

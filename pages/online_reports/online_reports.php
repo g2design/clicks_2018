@@ -11,10 +11,41 @@
                 <div class="row">
                     <div class="col-8">
                         <a href="">
-                            <h4 class="margin-bottom-10px sky-blue">Online Report</h4>
+                            <h5 class="margin-bottom-20px">Integrated Annual Report 2018</h5>
                         </a>
-                        <a href="">
-                            <h4 class="margin-bottom-10px sky-blue">Online Report</h4>
+                        <h5 class="margin-bottom-5px"><b class="dark-blue">Financial reporting</b></h5>
+                        <a href="assets/pdfs/online_reports/Clicks_AFS_2018_online.pdf" target="_blank">
+                            <h5 class="margin-bottom-10px">Annual financial statements 2018</h5>
+                        </a>
+                        <a href="assets/pdfs/online_reports/Clicks_Five_Year_2018_online.pdf" target="_blank">
+                            <h5 class="margin-bottom-10px">Five-year financial review</h5>
+                        </a>
+                        <a href="assets/pdfs/online_reports/Clicks_Analyst_Oct2018_web.pdf" target="_blank">
+                            <h5 class="margin-bottom-10px">Annual results 2018</h5>
+                        </a>
+                        <a href="assets/pdfs/online_reports/Clicks_Group_Annual_Results_2018-Analyst_Presentation_FINAL.pdf" target="_blank">
+                            <h5 class="margin-bottom-20px">Annual results 2018 presentation</h5>
+                        </a>
+                        <h5 class="margin-bottom-5px"><b class="dark-blue">Governance</b></h5>
+                        <a href="" target="_blank">
+                            <h5 class="margin-bottom-20px">Corporate governance report 2017 (incorporating King lV)</h5>
+                        </a>
+                        <h5 class="margin-bottom-5px"><b class="dark-blue">Annual general meeting</b></h5>
+                        <a href="assets/pdfs/online_reports/Clicks_AGM_2018_online.pdf" target="_blank">
+                            <h5 class="margin-bottom-10px">Notice to shareholders</h5>
+                        </a>
+                        <a href="assets/pdfs/online_reports/Clicks_Form_of_Proxy_2018_online.pdf" target="_blank">
+                            <h5 class="margin-bottom-20px">Form of proxy</h5>
+                        </a>
+                        <h5 class="margin-bottom-5px"><b class="dark-blue">Sustainability</b></h5>
+                        <a href="" target="_blank">
+                            <h5 class="margin-bottom-10px">Social and ethics committee report 2018</h5>
+                        </a>
+                        <a href="" target="_blank">
+                            <h5 class="margin-bottom-10px">Sustainability report 2018</h5>
+                        </a>
+                        <a href="" target="_blank">
+                            <h5 class="margin-bottom-10px">Five-year sustainability review</h5>
                         </a>
                     </div>
                 </div>

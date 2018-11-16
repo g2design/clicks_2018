@@ -431,10 +431,10 @@
 							<p class="white">We operate clinics in 203 of our stores.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery16.jpg);">
-							<p class="white"></p>
+							<p class="white">We are the market leader in small electrical appliances.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery17.jpg);">
-							<p class="white">We are the market leader in small electrical appliances.</p>
+							<p class="white"></p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery18.jpg);">
 							<p class="white">We employ over 15 000 people in Clicks.</p>

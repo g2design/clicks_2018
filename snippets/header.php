@@ -61,8 +61,8 @@
 											<li class="margin-bottom-10px"><a href="assets/pdfs/online_reports/Clicks_Form_of_Proxy_2018_online.pdf" target="_blank">Form of proxy</a></li>
 											<li><b class="dark-blue">Sustainability</b></li>
 											<li><a href="" target="_blank">Social and ethics committee report 2018</a></li>
-											<li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Sustainability report 2018</a></li>
-											<li><a href="" target="_blank">Five-year sustainability review</a></li>
+											<li><a href="" target="_blank">Sustainability report 2018</a></li>
+											<li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Five-year sustainability review</a></li>
 										</ul>
 									</div>
 								</li>
@@ -166,7 +166,7 @@
 									</div>
 								</li>
 								<li class="menu-item d-flex align-items-center justify-content-center">
-									<a class="navbar-item d-flex align-items-center" href="pages/financial_statements/financial_statements">Summary audited <br>financial statements</a>
+									<a class="navbar-item d-flex align-items-center" href="pages/financial_statements/financial_statements">Audited annual <br>financial statements</a>
 									<div class="dropdown text-left">
 										<ul>
 											<li><h5 class="dark-blue remove-bottom-margin">AUDITED ANNUAL FINANCIAL STATEMENTS 2018</h5></li>
@@ -211,8 +211,8 @@
 											<li class="margin-bottom-10px"><a href="assets/pdfs/online_reports/Clicks_Form_of_Proxy_2018_online.pdf" target="_blank">Form of proxy</a></li>
 											<li><b class="dark-blue">Sustainability</b></li>
 											<!-- <li><a href="" target="_blank">Social and ethics committee report 2018</a></li> -->
-											<li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Sustainability report 2018</a></li>
-											<!-- <li><a href="" target="_blank">Five-year sustainability review</a></li> -->
+											<!-- <li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Sustainability report 2018</a></li> -->
+											<li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Five-year sustainability review</a></li>
 										</ul>
 									</div>
 								</li>

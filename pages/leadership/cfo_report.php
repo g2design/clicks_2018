@@ -84,7 +84,7 @@
                 <p>The group’s medium-term financial targets rank in the upper quartile relative to comparable global health and beauty retailers such as Walgreens Boots Alliance (USA), CVS (USA), Raia Drogasil (Brazil) and Celesio (Germany).</p>
                 <h4 class="sky-blue">Financial performance</h4>
                 <p>The following review of the group’s financial performance for the year ended 31 August 2018 focuses on the key line items of the statements of comprehensive income and financial position which management consider material to the group’s performance.</p>
-                <p>The following review should be considered together with the <a href="assets/pdfs/online_reports/Clicks_AFS_2018_online.pdf" target="_blank">annual financial statements</a> as well as the <a href="">summary statements of comprehensive income and financial position</a>, and the <a href="assets/pdfs/online_reports/Clicks_Five_Year_2018_online.pdf" target="_blank">five-year analysis of financial performance</a>.</p>
+                <p>The following review should be considered together with the <a href="assets/pdfs/online_reports/Clicks_AFS_2018_online.pdf" target="_blank">annual financial statements</a> as well as the <a href="pages/leadership/cfo_report#summary-statements">summary statements of comprehensive income and financial position</a>, and the <a href="pages/leadership/five_year_review">five-year analysis of financial performance</a>.</p>
                 <h4 class="sky-blue">Statement of comprehensive income</h4>
                 <h5 class="margin-bottom-0"><b>Turnover</b></h5>
                 <p>Group turnover increased by 9.1% to R29.2 billion (2017: R26.8 billion). Selling price inflation for the group averaged only 1.9% for the year compared to 5.3% in the previous year.</p>
@@ -109,7 +109,7 @@
                 <p class="margin-bottom-40px">Retail increased its operating profit margin by 30 basis points to 8.1% and grew operating profit by 14.7% despite a reduction of R19 million in Musica’s profit. UPD maintained its operating margin at 2.7% despite the low SEP increase.</p>
                 <div class="row">
                     <div class="col-12 col-lg-6 text-center">
-                        <img class="margin-bottom-40px" src="assets/img/leadership/turnover.svg" alt="Turnover and margin" style="width: 400px;">
+                        <img class="margin-bottom-40px" id="summary-statements" src="assets/img/leadership/turnover.svg" alt="Turnover and margin" style="width: 400px;">
                     </div>
                     <div class="col-12 col-lg-6 text-center">
                         <img class="margin-bottom-40px" src="assets/img/leadership/return_on_equity.svg" alt="Return on equity" style="width: 400px;">

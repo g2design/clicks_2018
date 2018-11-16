@@ -41,10 +41,10 @@
                         <a href="" target="_blank">
                             <h5 class="margin-bottom-10px">Social and ethics committee report 2018</h5>
                         </a>
-                        <a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">
+                        <a href="" target="_blank">
                             <h5 class="margin-bottom-10px">Sustainability report 2018</h5>
                         </a>
-                        <a href="" target="_blank">
+                        <a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">
                             <h5 class="margin-bottom-10px">Five-year sustainability review</h5>
                         </a>
                     </div>

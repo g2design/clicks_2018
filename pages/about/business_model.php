@@ -77,7 +77,7 @@
                 <img src="assets/img/about/p17_arrow.svg" alt="Arrow">
                 <blockquote class="smaller-margin">
                     <em>Through the successful execution of this business model the group aims to create sustainable value for shareholders and other key stakeholders.</em>
-                    <p class="margin-top-10px">The value created in the past financial year is outlined in <a href="<?php echo $baseUrl; ?>pages/about/creating_value">creating value in 2018.</a>.</p>
+                    <p class="margin-top-10px">The value created in the past financial year is outlined in <a href="<?php echo $baseUrl; ?>pages/about/creating_value">creating value in 2018</a>.</p>
                 </blockquote>
             </div>
         </div>

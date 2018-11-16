@@ -255,21 +255,11 @@
 				<h2 class="text-uppercase">Governance</h2>
 				<div class="dash"></div>
 			</div>
-			<div class="col-12 col-xl-6">
+			<div class="col-12">
 				<h4><a href="pages/governance/create_value_governance.php" class="blue">Creating value through good governance</a></h4>
 				<h4><a href="pages/governance/create_value_citizenship.php" class="blue">Creating value through good citizenship</a></h4>
 				<h4><a href="pages/governance/create_value_stakeholder.php" class="blue">Creating value through stakeholder engagement</a></h4>
 				<h4><a href="pages/governance/rewarding_value.php" class="blue">Rewarding value creation</a></h4>
-			</div>
-			<div class="col-12 col-xl-6">
-				<div class="row">
-					<div class="col-12 d-flex margin-bottom-20px">
-						<a href="" class="thick-light-blue-border box-padding text-center d-flex flex-column justify-content-center align-items-center width-100">
-							<h4 class="text-uppercase width-100">Summary of the audited financial statements</h4>
-							<div href="" class="btn grey-btn margin-top-0">Read full report <span class="sky-blue">>></span></div>
-						</a>
-					</div>
-				</div>
 			</div>
 		</div>
 	</section>

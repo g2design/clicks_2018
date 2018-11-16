@@ -38,7 +38,7 @@
                             <h5 class="margin-bottom-20px">Form of proxy</h5>
                         </a>
                         <h5 class="margin-bottom-5px"><b class="dark-blue">Sustainability</b></h5>
-                        <a href="" target="_blank">
+                        <a href="assets/pdfs/online_reports/Clicks_Social_and_Ethics_2018_online.pdf" target="_blank">
                             <h5 class="margin-bottom-10px">Social and ethics committee report 2018</h5>
                         </a>
                         <a href="" target="_blank">

@@ -60,7 +60,7 @@
 											<li><a href="assets/pdfs/online_reports/Clicks_AGM_2018_online.pdf" target="_blank">Notice to shareholders</a></li>
 											<li class="margin-bottom-10px"><a href="assets/pdfs/online_reports/Clicks_Form_of_Proxy_2018_online.pdf" target="_blank">Form of proxy</a></li>
 											<li><b class="dark-blue">Sustainability</b></li>
-											<li><a href="" target="_blank">Social and ethics committee report 2018</a></li>
+											<li><a href="assets/pdfs/online_reports/Clicks_Social_and_Ethics_2018_online.pdf" target="_blank">Social and ethics committee report 2018</a></li>
 											<li><a href="" target="_blank">Sustainability report 2018</a></li>
 											<li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Five-year sustainability review</a></li>
 										</ul>
@@ -210,7 +210,7 @@
 											<li><a href="assets/pdfs/online_reports/Clicks_AGM_2018_online.pdf" target="_blank">Notice to shareholders</a></li>
 											<li class="margin-bottom-10px"><a href="assets/pdfs/online_reports/Clicks_Form_of_Proxy_2018_online.pdf" target="_blank">Form of proxy</a></li>
 											<li><b class="dark-blue">Sustainability</b></li>
-											<!-- <li><a href="" target="_blank">Social and ethics committee report 2018</a></li> -->
+											<li><a href="assets/pdfs/online_reports/Clicks_Social_and_Ethics_2018_online.pdf" target="_blank">Social and ethics committee report 2018</a></li>
 											<!-- <li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Sustainability report 2018</a></li> -->
 											<li><a href="assets/pdfs/online_reports/Clicks_Sustainability_Indicators_2018_online.pdf" target="_blank">Five-year sustainability review</a></li>
 										</ul>

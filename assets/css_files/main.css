@@ -37,11 +37,8 @@ ul {
   padding: 0;
   margin: 0; }
 
-a:hover {
+a:hover, a:visited, a:focus {
   text-decoration: none;
-  color: unset; }
-
-a:visited {
   color: unset; }
 
 * b {
@@ -819,13 +816,14 @@ footer {
   color: #005BAA !important; }
 
 .white {
-  color: white;
+  color: white !important;
   font-weight: 300; }
   .white b, .white u {
     font-weight: 500 !important;
     color: white; }
-  .white:hover {
-    color: white; }
+  .white:hover, .white:visited, .white:focus {
+    color: white !important;
+    text-decoration: none !important; }
 
 .dark-blue {
   color: #003767; }

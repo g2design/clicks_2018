@@ -3,14 +3,15 @@
 }
 
 .white {
-	color: white;
+	color: white !important;
 	font-weight: 300;
 	b, u {
 		font-weight: 500 !important;
 		color: white;
 	}
-	&:hover {
-		color: white;
+	&:hover, &:visited, &:focus {
+		color: white !important;
+		text-decoration: none !important;
 	}
 }
 

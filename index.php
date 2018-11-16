@@ -51,7 +51,7 @@
 				</div>
 				<div class="col-4 text-center margin-bottom-20px d-flex align-items-center justify-content-center">
 					<a class="white text-uppercase dark-grey-bg d-block width-100" href="assets/pdfs/online_reports/Clicks_Five_Year_2018_online.pdf" target="_blank">
-						Download the full <br><b><u>Five year Financial Review</u></b> >>
+						Download the full <br><b><u>Five-year Financial Review</u></b> >>
 					</a>
 				</div>
 			</div>
@@ -236,11 +236,11 @@
 							<img class="margin-bottom-20px" src="assets/img/upd.png" alt="UPD logo" style="width: 220px;">
 						</div>
 						<div class="col-6 dark-blue-border-right text-center d-flex flex-column justify-content-between align-items-center">
-							<p class="margin-bottom-0 width-100">“Clicks delivered another resilient performance in the increasingly constrained consumer spending environment. The strength of the Clicks brand and its loyal customer base contributed to health and beauty sales increasing by 11.7%, with volume growth of 5.1% in same stores, as Clicks gained market share in all product categories.”</p>
+							<p class="margin-bottom-0 width-100">Clicks delivered another resilient performance in the increasingly constrained consumer spending environment. The strength of the Clicks brand and its loyal customer base contributed to health and beauty sales increasing by 11.7%, with volume growth of 5.1% in same stores, as Clicks gained market share in all product categories.</p>
 							<a href="pages/business_review/clicks" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 						<div class="col-6 text-center d-flex flex-column justify-content-between align-items-center">
-							<p class="margin-bottom-0 width-100">“UPD maintained its market-leading positions in both the pharmaceutical wholesale and bulk distribution markets as the business gained market share, secured new distribution clients and reported ongoing excellent control of inventory and costs.”</p>
+							<p class="margin-bottom-0 width-100">UPD maintained its market-leading positions in both the pharmaceutical wholesale and bulk distribution markets as the business gained market share, secured new distribution clients and reported ongoing excellent control of inventory and costs.</p>
 							<a href="pages/business_review/upd" class="btn grey-btn">Read full report <span class="sky-blue">>></span></a>
 						</div>
 					</div>
@@ -259,27 +259,14 @@
 				<h4><a href="pages/governance/create_value_governance.php" class="blue">Creating value through good governance</a></h4>
 				<h4><a href="pages/governance/create_value_citizenship.php" class="blue">Creating value through good citizenship</a></h4>
 				<h4><a href="pages/governance/create_value_stakeholder.php" class="blue">Creating value through stakeholder engagement</a></h4>
-				<h4><a href="pages/governance/rewarding_value.php" class="blue">Rewarding value </a></h4>
+				<h4><a href="pages/governance/rewarding_value.php" class="blue">Rewarding value creation</a></h4>
 			</div>
 			<div class="col-12 col-xl-6">
 				<div class="row">
-					<div class="col-6 d-flex margin-bottom-20px">
+					<div class="col-12 d-flex margin-bottom-20px">
 						<a href="" class="thick-light-blue-border box-padding text-center d-flex flex-column justify-content-center align-items-center width-100">
 							<h4 class="text-uppercase width-100">Summary of the audited financial statements</h4>
 							<div href="" class="btn grey-btn margin-top-0">Read full report <span class="sky-blue">>></span></div>
-						</a>
-					</div>
-					<div class="col-6 d-flex margin-bottom-20px">
-						<a href="" class="thick-light-blue-border box-padding text-center d-flex flex-column justify-content-center align-items-center width-100">
-							<h4 class="text-uppercase width-100">Download the full audited financial statements</h4>
-							<div class="row width-100">
-								<div class="col-8">
-									<p class="text-uppercase width-100">Download</p>
-								</div>
-								<div class="col-4">
-									<img src="assets/img/pdficon.png" alt="PDF Icon" style="width: 40px;">
-								</div>
-							</div>
 						</a>
 					</div>
 				</div>

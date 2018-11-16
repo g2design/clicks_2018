@@ -44,11 +44,8 @@ ul {
 }
 
 a {
-    &:hover {
+    &:hover, &:visited, &:focus {
         text-decoration: none;
-        color: unset;
-    }
-    &:visited {
         color: unset;
     }
 }

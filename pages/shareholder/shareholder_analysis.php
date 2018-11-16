@@ -58,7 +58,7 @@
                         </tr>
                     </tbody>
                </table>
-               <p>According to the company’s register of shareholders, read in conjunction with the company’s register of disclosure of beneficial interests made by registered shareholders acting in a nominee capacity, the following shareholders held 3% or more of the issued share capital at 31 August 2018:</p>
+               <p>According to the company’s register of shareholders, read in conjunction with the company’s register of disclosure of beneficial interests made by registered shareholders acting in a nominee capacity, the following shareholders held 3% or more of the issued share capital at 31&nbsp;August&nbsp;2018:</p>
                <table>
                     <colgroup>
                         <col width="60%">

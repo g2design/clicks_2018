@@ -26,7 +26,7 @@
                             <li>The increasing use of generic medicines will continue to make healthcare more affordable.</li>
                         </ul>
                         <div class="text-right">
-                            <a href="">More information here...</a>
+                            <a href="pages/about/investment_case">More information here...</a>
                         </div>
                         
                     </div>
@@ -45,7 +45,7 @@
                             <li>The retail footprint is complemented by an online store and a national pharmacy delivery service model to increase customer convenience.</li>
                         </ul>
                         <div class="text-right">
-                            <a href="">More information here...</a>
+                            <a href="pages/about/investment_case">More information here...</a>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                             <li>Exclusive franchise brands, The Body Shop, Claire’s, GNC and Sorbet, augment Clicks’ private label brands in the health and beauty categories.</li>
                         </ul>
                         <div class="text-right">
-                            <a href="">More information here...</a>
+                            <a href="pages/about/investment_case">More information here...</a>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                             <li>Clicks has extensive opportunities to use digital engagement through the Clicks ClubCard, website, online store and the Clicks app to personalise communication to increase the customer basket size and value, and frequency of shopping.</li>
                         </ul>
                         <div class="text-right">
-                            <a href="">More information here...</a>
+                            <a href="pages/about/investment_case">More information here...</a>
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
                             <li>The growth opportunity for the business is evident in the goal of obtaining a 30% share of the fine wholesale and bulk distribution markets.</li>
                         </ul>
                         <div class="text-right">
-                            <a href="">More information here...</a>
+                            <a href="pages/about/investment_case">More information here...</a>
                         </div>
                     </div>
                 </div>

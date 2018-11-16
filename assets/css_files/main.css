@@ -41,6 +41,9 @@ a:hover {
   text-decoration: none;
   color: unset; }
 
+a:visited {
+  color: unset; }
+
 * b {
   font-weight: 600 !important; }
   * b.white {

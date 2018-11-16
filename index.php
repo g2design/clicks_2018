@@ -425,7 +425,7 @@
 							<p class="white">Pharmacies are in 510 of our stores.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery14.jpg);">
-							<p class="white">Clicks has over 4800 private label products.</p>
+							<p class="white">Clicks has over 4 800 private label products.</p>
 						</div>
 						<div class="text-center background-center gallery-img" style="background-image: url(assets/img/homepage/new_gallery/2018-Gallery15.jpg);">
 							<p class="white">We operate clinics in 203 of our stores.</p>

@@ -132,7 +132,7 @@
 			<div class="row">
 				<div class="col-12">
 					<h2 class="text-uppercase">Group profile</h2>
-					<h4 class="blue">Clicks Group is a retail-led healthcare group which is listed in the Food and Drug Retailers sector on the JSE.</h4>
+					<h4 class="blue">Clicks Group is a retail-led healthcare group which is listed in the Food and Drug Retailers sector on&nbsp;the&nbsp;JSE.</h4>
 					<p>Founded 50 years ago in 1968, the group has been listed on the JSE since 1996. Following changes in South African legislation in 2003 to allow corporate pharmacy ownership, the group entered the retail pharmacy market with the opening of the first Clicks pharmacy in 2004. Today the group is a leader in the healthcare market, in both retail pharmacy and pharmaceutical wholesaling.</p>
 					<a href="pages/about/group_profile" class="btn grey-btn margin-bottom-20px">Read full report <span class="sky-blue">>></span></a>
 				</div>

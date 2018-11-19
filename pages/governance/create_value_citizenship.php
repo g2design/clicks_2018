@@ -90,7 +90,7 @@
                                 <h3><b class="heading-2 sky-blue">65%</b> <br>female beneficiaries of the scheme</h3>
                             </div>
                             <div class="col-12 col-xl text-center d-flex align-items-start justify-content-center margin-bottom-20px">
-                                <h3><b class="heading-2 sky-blue">R35.4&nbsp;million</b> <br>paid in dividends to participants in the scheme since 2012</h3>
+                                <h3><b class="heading-2 sky-blue">R35.4&nbsp;million</b> <br>paid in dividends to participants in the scheme since 201[2]</h3>
                             </div>
                         </div>
                     </div>

@@ -77,19 +77,19 @@
                         <h3 class=" margin-bottom-20px">The broad-based employee share ownership plan (ESOP) was introduced in 2011 to enable employees to share in the long-term growth and success of the business. The ESOP aims to attract and retain scarce talent while accelerating transformation. The first 50% payout under the scheme was made in February 2018 and the final payment will be made in 2019.
                         </h3>
                         <div class="row">
-                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-center justify-content-center margin-bottom-20px">
+                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-start justify-content-center margin-bottom-20px">
                                 <h3><b class="heading-2 sky-blue">R1.3&nbsp;billion</b> <br>paid to participants in the scheme in 2018</h3>
                             </div>
-                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-center justify-content-center  margin-bottom-20px">
+                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-start justify-content-center  margin-bottom-20px">
                                 <h3><b class="heading-2 sky-blue">5 830</b> <br>employees now shareholders through the ESOP</h3>
                             </div>
-                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-center justify-content-center margin-bottom-20px">
+                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-start justify-content-center margin-bottom-20px">
                                 <h3><b class="heading-2 sky-blue">86%</b> <br>black beneficiaries of the scheme</h3>
                             </div>
-                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-center justify-content-center margin-bottom-20px">
+                            <div class="col-12 col-xl dark-blue-border-right text-center d-flex align-items-start justify-content-center margin-bottom-20px">
                                 <h3><b class="heading-2 sky-blue">65%</b> <br>female beneficiaries of the scheme</h3>
                             </div>
-                            <div class="col-12 col-xl text-center d-flex align-items-center justify-content-center margin-bottom-20px">
+                            <div class="col-12 col-xl text-center d-flex align-items-start justify-content-center margin-bottom-20px">
                                 <h3><b class="heading-2 sky-blue">R35.4&nbsp;million</b> <br>paid in dividends to participants in the scheme since 2012</h3>
                             </div>
                         </div>
